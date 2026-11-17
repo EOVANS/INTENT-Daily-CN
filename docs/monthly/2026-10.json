@@ -1,0 +1,123 @@
+{
+  "month": "2026-10",
+  "generated_at": "2026-11-17T16:07:09.635851+08:00",
+  "total": 10,
+  "candidates": 244,
+  "by_category": {
+    "国际政治": 4,
+    "航天": 4,
+    "娱乐": 2
+  },
+  "items": [
+    {
+      "rank": 1,
+      "category": "国际政治",
+      "source": "BBC News",
+      "title_zh": "Landmark Crimea bridge hit as Russia reports biggest Ukrainian drone attack of war - BBC",
+      "title_en": "Landmark Crimea bridge hit as Russia reports biggest Ukrainian drone attack of war - BBC",
+      "summary_zh": "Landmark Crimea bridge hit as Russia reports biggest Ukrainian drone attack of war BBC",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE96X3NYRjBaeWkwdzU3aGZGTE5XYWRQUGpsNUk1dnJrY3BfZ05FWERZbjF6UkRJWlZ5SzkwLXVVWWZaOTFuanFYYUk2ZHhJdmNETXB1YWlxbUEtSmxiMFE?oc=5",
+      "published": "2026-11-16T14:58:12+00:00",
+      "score": 11.0
+    },
+    {
+      "rank": 2,
+      "category": "国际政治",
+      "source": "BBC News",
+      "title_zh": "BBC Parliament - Welsh First Minister's Questions, 17/11/2026 - BBC",
+      "title_en": "BBC Parliament - Welsh First Minister's Questions, 17/11/2026 - BBC",
+      "summary_zh": "BBC Parliament - Welsh First Minister's Questions, 17/11/2026 BBC",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB4TENZREotbkxsV1hwNHNZZVJBcXN0SEZYcW1KZVhTaGtpclZlSEZxclpxbDRXQVhha0hpTmd2eDAyUmVfYWllOVZvd25TcXh5cENR?oc=5",
+      "published": "2026-11-17T06:26:38+00:00",
+      "score": 11.0
+    },
+    {
+      "rank": 3,
+      "category": "航天",
+      "source": "BBC News",
+      "title_zh": "SpaceX makes history with first mid-air rocket catch - BBC",
+      "title_en": "SpaceX makes history with first mid-air rocket catch - BBC",
+      "summary_zh": "SpaceX makes history with first mid-air rocket catch BBC",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBoTGY3eVFtVV8yMHJFNjhNLUpjeGlZVTVBUnp6d1ZfakVYWjg0QVNIYjBoN09TZi00TExwdVJiV2hrRHk5aGR4V3VWOHVQeF9iZ0VSUXZyQkVMbHRaLUE?oc=5",
+      "published": "2026-11-15T08:32:07+00:00",
+      "score": 10.9
+    },
+    {
+      "rank": 4,
+      "category": "航天",
+      "source": "CNN",
+      "title_zh": "Up-close look at Starship after its historic test flight - CNN",
+      "title_en": "Up-close look at Starship after its historic test flight - CNN",
+      "summary_zh": "Up-close look at Starship after its historic test flight CNN",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPcXNISktDa0tVdnlzQ09xcXVSeHd6RXp1TUdnb0pwVV9iQ3g1X3dVM2FET01kQkYtcm1CM19zSlREUnRmVE4yQTJuM0tBaDlzcU5tYWtrejNGWVpReHhZMlRTdVl6SThLUnVKNy02dkJJcHlSckNoay1MSmJRSEZIMVlRNVFGVVE3VWJNTTAyZ3VTaS1ZMHc2NkFlUkpJUFFJRHJMdG1QRVkwaVhqVEtESEpBVTRaV0JX?oc=5",
+      "published": "2026-11-16T00:58:55+00:00",
+      "score": 10.9
+    },
+    {
+      "rank": 5,
+      "category": "航天",
+      "source": "BBC News",
+      "title_zh": "SpaceX Carries Out First-Ever Spaceship Capture - BBC",
+      "title_en": "SpaceX Carries Out First-Ever Spaceship Capture - BBC",
+      "summary_zh": "SpaceX Carries Out First-Ever Spaceship Capture BBC",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE94TkZsNG9LYjNZMVhaZHFybVpWRWZIb09mZXh5TkV4eEM0U21ydGxoLW84bFVVcEx0R1U2S2FxUzdUZHU4ZUlZMFRSZXBBblk1Q3Bz?oc=5",
+      "published": "2026-11-15T00:20:15+00:00",
+      "score": 10.8
+    },
+    {
+      "rank": 6,
+      "category": "航天",
+      "source": "BBC News",
+      "title_zh": "SpaceX scores first ever rocket catch - BBC",
+      "title_en": "SpaceX scores first ever rocket catch - BBC",
+      "summary_zh": "SpaceX scores first ever rocket catch BBC",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5sVnluQ1dGc0tNUkFpMDU0d1JONk5taG9WSmlCLUhISnRNeHJBdU5QT3Nfc2J1dWdsZ0lBSlpIZ2pYemdHTmItcHNPbW5Pc2w2T2UtM3VWa05FWlJZenc?oc=5",
+      "published": "2026-11-15T07:15:55+00:00",
+      "score": 10.8
+    },
+    {
+      "rank": 7,
+      "category": "国际政治",
+      "source": "BBC News",
+      "title_zh": "Israel's president begins consultations with parties after election deadlock - BBC",
+      "title_en": "Israel's president begins consultations with parties after election deadlock - BBC",
+      "summary_zh": "Israel's president begins consultations with parties after election deadlock BBC",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5HbGREUm5IRnNyUV9aX1FRQmhzNXM5WHNnRXYzSjFteTZhaHNFcndxUVpqTDlOMkkyeTRYSUlVcUFIWWI2eHFYZ2pNTmh4MEljY0J3eHRJdl9DMkNYakE?oc=5",
+      "published": "2026-11-04T08:00:00+00:00",
+      "score": 10.7
+    },
+    {
+      "rank": 8,
+      "category": "国际政治",
+      "source": "BBC News",
+      "title_zh": "Suspended Labour candidate wins Hyndburn by-election - BBC",
+      "title_en": "Suspended Labour candidate wins Hyndburn by-election - BBC",
+      "summary_zh": "Suspended Labour candidate wins Hyndburn by-election BBC",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9yQ0ppWjFLSU1xZUxHRzVZTU5qTzdzU3hwbHcwc1VIQjFBRmF2YnltUDZiMk96OHVMVVlLb3hVZnBCcE93Yzh1alVOTXBPaFFvVVlsWWFxemNRMDZMZ0E?oc=5",
+      "published": "2026-11-13T11:10:23+00:00",
+      "score": 10.7
+    },
+    {
+      "rank": 9,
+      "category": "娱乐",
+      "source": "BBC News",
+      "title_zh": "Rosalía scoops historic third best album award at Latin Grammys - BBC",
+      "title_en": "Rosalía scoops historic third best album award at Latin Grammys - BBC",
+      "summary_zh": "Rosalía scoops historic third best album award at Latin Grammys BBC",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBnQWRhVW4ycC1abF9MTF80T2EzLVZ0aDBYWVZJUGZUT0NpS25kUlZ1RmFlQVFjMGNHVHQzeDBVUG9YQlJaZFFhS3RVemE1SjlFS05GSWFyaXFlUzZJ?oc=5",
+      "published": "2026-11-13T11:32:06+00:00",
+      "score": 10.45
+    },
+    {
+      "rank": 10,
+      "category": "娱乐",
+      "source": "NBC",
+      "title_zh": "Johnny Depp film ‘Ebenezer’ gets actor first No. 1 opening in 8 years - NBC News",
+      "title_en": "Johnny Depp film ‘Ebenezer’ gets actor first No. 1 opening in 8 years - NBC News",
+      "summary_zh": "Johnny Depp film ‘Ebenezer’ gets actor first No. 1 opening in 8 years NBC News",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPc1BaeUFaSGFDZGxDUWhzUVZ3NkN1T0ZweDhGa1dEVTBLZnZFaUNZWW9iZjZrZ0t2N1hsMjJGVUg1b1N5ZVBRcjJDTWFXTzFJcV9pdVdvNXJCZDNySW1iZXQ4ajdld3Y2YkJiX2N5SzFNMHNrUThQLTNqMlBULWNUSGg5a3ZNZUJMT0IyNkgyeWFVaVJzYVBkOHFLNjkwOERMeDNZXy1ZeEgtUFM0QWVrVWdhZEdRdWM?oc=5",
+      "published": "2026-11-15T18:20:51+00:00",
+      "score": 9.59
+    }
+  ]
+}
