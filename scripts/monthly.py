@@ -94,15 +94,41 @@ def score(item, cat, now):
     return (base + hits + recency) * tier
 
 
+JUNK_PATTERNS = ["bbc parliament", "questions,", "podcast", "newsletter", "live updates",
+                 "episode", "watch:", "listen:", "how to watch", "bbc world service"]
+
+
+def clean_title(title):
+    """去掉 Google News 附加的来源后缀，例如 '... - BBC News'"""
+    return re.sub(r"\s*[-–|]\s*(BBC News|BBC|CNN News|CNN|NBC News|NBC|VOA News|VOA)\s*$",
+                  "", title.strip(), flags=re.I).strip()
+
+
+def is_junk(title):
+    t = title.lower()
+    return any(p in t for p in JUNK_PATTERNS)
+
+
+def clean_summary(summary, title):
+    """Google News 的 description 常是「标题 + 来源」，去掉重复部分"""
+    s = (summary or "").strip()
+    if s.lower().startswith(title.strip().lower()[:40]):
+        s = s[len(title.strip()):].strip()
+    s = re.sub(r"\s*(BBC News|CNN|NBC News|VOA News|BBC|VOA)\s*$", "", s, flags=re.I)
+    return s if len(s) >= 30 else ""
+
+
 def tokens(title):
-    return set(w for w in re.findall(r"[a-z]{3,}", title.lower()))
+    stop = {"the", "and", "for", "with", "from", "that", "this", "after", "says", "said",
+            "amid", "into", "over", "its", "has", "have", "will", "not", "are", "was"}
+    return {w for w in re.findall(r"[a-z]{3,}", title.lower()) if w not in stop}
 
 
 def similar(a, b):
-    ta, tb = tokens(a), tokens(b)
+    ta, tb = tokens(clean_title(a)), tokens(clean_title(b))
     if not ta or not tb:
         return False
-    return len(ta & tb) / float(len(ta | tb)) > 0.6
+    return len(ta & tb) / float(min(len(ta), len(tb))) >= 0.5
 
 
 def load_archives(now, days):
@@ -148,12 +174,14 @@ def main():
         if item["link"].split("?")[0] in seen_urls:
             continue
         cat = classify(item["title"], item["summary"])
-        if not cat:
+        if not cat or is_junk(item["title"]):
             continue
         if any(similar(item["title"], t) for t in seen_titles):
             continue
         seen_urls.add(item["link"].split("?")[0])
         seen_titles.append(item["title"])
+        item["clean_title"] = clean_title(item["title"])
+        item["summary"] = clean_summary(item["summary"], item["clean_title"])
         item["category"] = cat
         item["score"] = score(item, cat, now)
         cands.append(item)
@@ -174,7 +202,7 @@ def main():
         return 2
 
     for item in chosen:
-        item["title_zh"] = bf.translate(item["title"])
+        item["title_zh"] = bf.translate(item.get("clean_title") or item["title"])
         item["summary_zh"] = bf.translate(item["summary"][:200]) if item["summary"] else ""
 
     os.makedirs("docs/monthly", exist_ok=True)
