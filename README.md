@@ -8,6 +8,11 @@
 
 ## 内容板块
 
+### 下载阅读器 
+**INTETN** 是一个由 Ai 赋能的 RSS 阅读器
+
+![Static Badge](https://img.shields.io/badge/build-Ai%20Powered%20RSS%20Reader-brightgreen?style=flat&logo=android&label=INTENT&labelColor=%23E02B2B&color=%23110F00&link=https%3A%2F%2Fintentread.pages.dev%2F)
+
 ### 每日更新（07:35）
 
 | 板块 | 来源 | 时间窗 | 条数 |
