@@ -1,5 +1,5 @@
 {
-  "started": "2026-11-17T08:15:53+0000",
+  "started": "2026-11-17T08:27:00+0000",
   "feeds": {
     "https://feeds.bbci.co.uk/news/world/rss.xml": {
       "ok": true,
@@ -37,8 +37,8 @@
     },
     "https://news.google.com/rss/search?q=site:voanews.com+when:7d&hl=en-US&gl=US&ceid=US:en": {
       "ok": true,
-      "bytes": 74687,
-      "entries": 56
+      "bytes": 73955,
+      "entries": 55
     },
     "https://feeds.nbcnews.com/nbcnews/public/world": {
       "ok": true,
@@ -90,8 +90,8 @@
     },
     "https://rss.arxiv.org/rss/cs.AI": {
       "ok": true,
-      "bytes": 605781,
-      "entries": 276
+      "bytes": 1574912,
+      "entries": 717
     }
   },
   "translate": {
@@ -153,13 +153,13 @@
       "used": 16
     },
     "arXiv cs.AI": {
-      "raw": 276,
-      "in_window": 276,
+      "raw": 717,
+      "in_window": 717,
       "from_google": 0,
       "undated": 0,
-      "used": 276
+      "used": 717
     }
   },
   "error": null,
-  "finished": "2026-11-17T08:16:22+0000"
+  "finished": "2026-11-17T08:27:18+0000"
 }
