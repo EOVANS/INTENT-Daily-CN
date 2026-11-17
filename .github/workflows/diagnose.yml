@@ -1,0 +1,32 @@
+name: Diagnose Sources
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - "scripts/diagnose.py"
+      - ".github/workflows/diagnose.yml"
+
+permissions:
+  contents: write
+
+jobs:
+  probe:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: python scripts/diagnose.py
+      - name: Commit report
+        run: |
+          git config user.name "INTENT Daily CN Bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add docs/diagnose.md
+          if git diff --cached --quiet; then echo "no change"; else
+            git commit -m "chore: 源站诊断报告"
+            git push
+          fi
