@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:dc="http://purl.org/dc/elements/1.1/">
 <channel>
-<title>INTENT Daily CN · 每日国际要闻 + AI 研究动态</title>
+<title>INTENT Daily CN · 每日新闻</title>
 <link>https://github.com/EOVANS/INTENT-Daily-CN</link>
 <atom:link href="https://raw.githubusercontent.com/EOVANS/INTENT-Daily-CN/main/docs/feed.xml" rel="self" type="application/rss+xml"/>
 <description><![CDATA[每日北京时间 07:35 自动更新。板块一：BBC News / CNN / VOA / NBC 国际要闻；板块二：OpenAI Research / Google DeepMind / Anthropic / arXiv 的 AI 研究动态。]]></description>
 <language>zh-CN</language>
-<lastBuildDate>Tue, 17 Nov 2026 16:34:52 +0800</lastBuildDate>
+<lastBuildDate>Tue, 17 Nov 2026 16:39:08 +0800</lastBuildDate>
 <generator>INTENT Daily CN</generator>
 <ttl>60</ttl>
 <item>

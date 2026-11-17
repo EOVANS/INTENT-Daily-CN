@@ -1,6 +1,6 @@
 {
   "date": "2026-11-17",
-  "generated_at": "2026-11-17T16:34:52.075856+08:00",
+  "generated_at": "2026-11-17T16:39:08.030211+08:00",
   "rss": "https://raw.githubusercontent.com/EOVANS/INTENT-Daily-CN/main/docs/feed.xml",
   "markdown": "https://raw.githubusercontent.com/EOVANS/INTENT-Daily-CN/main/docs/latest.md",
   "blocks": [
@@ -71,7 +71,7 @@
           "url": "https://www.nbcnews.com/tech/tech-news/california-sues-chatgpt-maker-openai-rogue-hacking-incidents-rcna609596",
           "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-09/260922-openai-mn-1535-07d0e7.jpg",
           "published": "2026-11-16T18:52:09+00:00",
-          "score": 8.59
+          "score": 8.58
         },
         {
           "rank": 7,
@@ -164,7 +164,7 @@
     "VOA": 4,
     "NBC": 27,
     "OpenAI Research": 138,
-    "Google DeepMind": 22,
+    "Google DeepMind": 11,
     "Anthropic": 16,
     "arXiv cs.AI": 717
   }
