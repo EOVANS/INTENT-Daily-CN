@@ -1,6 +1,6 @@
 {
   "date": "2026-11-17",
-  "generated_at": "2026-11-17T16:47:39.981634+08:00",
+  "generated_at": "2026-11-17T16:50:05.265152+08:00",
   "rss": "https://raw.githubusercontent.com/EOVANS/INTENT-Daily-CN/main/docs/feed.xml",
   "markdown": "https://raw.githubusercontent.com/EOVANS/INTENT-Daily-CN/main/docs/latest.md",
   "blocks": [
@@ -109,7 +109,7 @@
           "url": "https://arxiv.org/abs/2611.19871",
           "image": "",
           "published": "2026-11-17T00:00:00-05:00",
-          "score": 22.82
+          "score": 22.81
         },
         {
           "rank": 2,
@@ -120,7 +120,7 @@
           "url": "https://arxiv.org/abs/2611.20447",
           "image": "",
           "published": "2026-11-17T00:00:00-05:00",
-          "score": 21.97
+          "score": 21.96
         },
         {
           "rank": 3,
@@ -146,25 +146,24 @@
         },
         {
           "rank": 5,
-          "source": "Anthropic",
-          "title_zh": "建立强有力的安全评估",
-          "title_en": "Building strong safety evaluations",
-          "summary_zh": "建立强有力的安全评估 Anthropic",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5WQ1RoMWFsN1VyVjdlam5YZkZ4M1I1SUNjeWExWm1OcHR5MlRpRmtwU2NIT0dSQUhXSjlfb2hrZGhHYlVRUjUtUzBtRzRZUUZhcE9PNERJekdzNW1PUWhOd0s5MjBRXzVFdnFWZlJ5c0VSak5RZ3lUaA?oc=5",
-          "image": "",
-          "published": "2026-11-14T01:40:13+00:00",
-          "score": 7.7
+          "source": "Google DeepMind",
+          "title_zh": "Gemini Robotics 2.5 加速现实世界的通用灵活性",
+          "title_en": "Gemini Robotics 2.5 accelerates real-world general dexterity",
+          "summary_zh": "我们最强大的视觉-语言-动作模型增强了机器人的灵活性、可靠性和安全性",
+          "url": "https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence/",
+          "image": "https://lh3.googleusercontent.com/F1CrVEYRb8lJOyyxGgcyow-Td1de-nkp7K8MZrhjrKPANJUc0EYB754Ninn-Yrppjdb54nolOWo6Rk8iDaRNuixWwLaEKc0K9ImGooxen9fj9IOh=w528-h297-n-nu-rw-lo",
+          "published": "2026-11-09T19:51:47+00:00",
+          "score": 9.5
         }
       ]
     }
   ],
   "source_counts": {
     "BBC News": 19,
-    "CNN": 0,
     "VOA": 4,
     "NBC": 3,
     "OpenAI Research": 69,
-    "Google DeepMind": 8,
+    "Google DeepMind": 11,
     "Anthropic": 16,
     "arXiv cs.AI": 715
   }
