@@ -1,0 +1,87 @@
+{
+  "started": "2026-11-17T08:11:32+0000",
+  "feeds": {
+    "https://feeds.bbci.co.uk/news/world/rss.xml": {
+      "ok": true,
+      "bytes": 16628,
+      "entries": 21
+    },
+    "http://rss.cnn.com/rss/edition_world.rss": {
+      "ok": true,
+      "bytes": 67288,
+      "entries": 29
+    },
+    "https://rss.cnn.com/rss/edition_world.rss": {
+      "ok": false,
+      "bytes": 0
+    },
+    "http://rss.cnn.com/rss/edition.rss": {
+      "ok": true,
+      "bytes": 130144,
+      "entries": 50
+    },
+    "https://www.voanews.com/api/zrqoev-qqm": {
+      "ok": true,
+      "bytes": 11,
+      "xml_error": "syntax error: line 1, column 0"
+    },
+    "https://www.voanews.com/rss": {
+      "ok": true,
+      "bytes": 11,
+      "xml_error": "syntax error: line 1, column 0"
+    },
+    "https://feeds.nbcnews.com/nbcnews/public/world": {
+      "ok": true,
+      "bytes": 69015,
+      "entries": 25
+    },
+    "https://openai.com/news/rss.xml": {
+      "ok": true,
+      "bytes": 852111,
+      "entries": 1400
+    },
+    "https://deepmind.google/blog/rss.xml": {
+      "ok": true,
+      "bytes": 68852,
+      "entries": 100
+    },
+    "https://www.anthropic.com/rss.xml": {
+      "ok": false,
+      "bytes": 0
+    },
+    "https://www.anthropic.com/news/rss.xml": {
+      "ok": false,
+      "bytes": 0
+    },
+    "https://news.google.com/rss/search?q=site:anthropic.com+when:7d&hl=en-US&gl=US&ceid=US:en": {
+      "ok": true,
+      "bytes": 16154,
+      "entries": 16
+    },
+    "http://export.arxiv.org/rss/cs.AI": {
+      "ok": true,
+      "bytes": 892,
+      "entries": 0
+    },
+    "https://rss.arxiv.org/rss/cs.AI": {
+      "ok": true,
+      "bytes": 605781,
+      "entries": 276
+    }
+  },
+  "translate": {
+    "google-gtx": {
+      "ok": 0,
+      "fail": 24,
+      "last_error": "HTTPError: HTTP Error 429: Too Many Requests"
+    },
+    "google-clients5": {
+      "ok": 24,
+      "fail": 0,
+      "last_error": ""
+    }
+  },
+  "translate_provider": "google-clients5",
+  "error": null,
+  "finished": "2026-11-17T08:11:55+0000"
+}

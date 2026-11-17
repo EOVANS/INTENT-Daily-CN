@@ -1,6 +1,6 @@
 {
   "date": "2026-11-17",
-  "generated_at": "2026-11-17T16:01:49.815266+08:00",
+  "generated_at": "2026-11-17T16:11:32.286537+08:00",
   "rss": "https://raw.githubusercontent.com/EOVANS/INTENT-Daily-CN/main/docs/feed.xml",
   "markdown": "https://raw.githubusercontent.com/EOVANS/INTENT-Daily-CN/main/docs/latest.md",
   "blocks": [
@@ -10,9 +10,9 @@
         {
           "rank": 1,
           "source": "BBC News",
-          "title_zh": "Two mass shootings in South Africa leave 17 dead",
+          "title_zh": "南非发生两起大规模枪击事件 造成17人死亡",
           "title_en": "Two mass shootings in South Africa leave 17 dead",
-          "summary_zh": "The shootings in KwaZulu-Natal and Gauteng highlight South Africa's struggle to curb violent crime.",
+          "summary_zh": "夸祖鲁-纳塔尔省和豪登省的枪击事件凸显了南非遏制暴力犯罪的努力。",
           "url": "https://www.bbc.co.uk/news/articles/c8y5x3n4kywpo?at_medium=RSS&at_campaign=rss",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e2e5/live/66487e80-e1a0-11f1-902c-ad301cbf1208.jpg",
           "published": "2026-11-16T10:57:48+00:00",
@@ -21,20 +21,20 @@
         {
           "rank": 2,
           "source": "BBC News",
-          "title_zh": "Crimea bridge shut after reported Ukrainian strike, as Russia hits Kyiv crossings",
+          "title_zh": "克里米亚大桥因乌克兰罢工而关闭，俄罗斯袭击基辅过境点",
           "title_en": "Crimea bridge shut after reported Ukrainian strike, as Russia hits Kyiv crossings",
-          "summary_zh": "The bridge linking Crimea and Russia has reportedly sustained major damage, while two routes through Kyiv are closed.",
+          "summary_zh": "据报道，连接克里米亚和俄罗斯的桥梁遭受重大损坏，穿过基辅的两条路线也被关闭。",
           "url": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ef42/live/91d5bfa0-e258-11f1-8199-439bbe0918ee.jpg",
-          "published": "2026-11-17T07:55:32+00:00",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/22e4/live/526312a0-e258-11f1-8199-439bbe0918ee.jpg",
+          "published": "2026-11-17T08:06:32+00:00",
           "score": 10.0
         },
         {
           "rank": 3,
           "source": "BBC News",
-          "title_zh": "Ukraine accuses Russia of targeting rescue operation after 'double-tap' strike kills 72",
+          "title_zh": "乌克兰指责俄罗斯在“双击”袭击造成72人死亡后将救援行动作为目标",
           "title_en": "Ukraine accuses Russia of targeting rescue operation after 'double-tap' strike kills 72",
-          "summary_zh": "Efforts to recover bodies after a “double-tap” attack in southern Ukraine are being hampered by continuing Russian strikes, officials say.",
+          "summary_zh": "官员称，乌克兰南部遭受“双击”袭击后打捞尸体的工作因俄罗斯持续袭击而受到阻碍。",
           "url": "https://www.bbc.co.uk/news/articles/c30rk8x5g80qo?at_medium=RSS&at_campaign=rss",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ba46/live/5efa38d0-df84-11f1-a701-fddedf244c16.png",
           "published": "2026-11-17T05:59:01+00:00",
@@ -43,9 +43,9 @@
         {
           "rank": 4,
           "source": "BBC News",
-          "title_zh": "Forensic expert says his analysis of autopsy photos suggests Epstein was killed",
+          "title_zh": "法医专家表示，他对尸检照片的分析表明爱泼斯坦被杀",
           "title_en": "Forensic expert says his analysis of autopsy photos suggests Epstein was killed",
-          "summary_zh": "Professor Michael Freeman tells BBC Newsnight that he believes the convicted sex offender's injuries are consistent with a homicide.",
+          "summary_zh": "迈克尔·弗里曼教授告诉英国广播公司《新闻之夜》，他认为被定罪的性犯罪者的伤势符合凶杀案。",
           "url": "https://www.bbc.co.uk/news/articles/c5n4exg1kkmyo?at_medium=RSS&at_campaign=rss",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f4ce/live/59eafa00-e1c3-11f1-8a52-0b287ff76f43.jpg",
           "published": "2026-11-16T20:33:57+00:00",
@@ -54,35 +54,35 @@
         {
           "rank": 5,
           "source": "NBC",
-          "title_zh": "1.5 million gather for Pope Leo's send-off, closing out a historic 12-day trip to South America",
+          "title_zh": "150万人聚集在一起为教皇利奥送行，结束了为期12天的历史性南美之旅",
           "title_en": "1.5 million gather for Pope Leo's send-off, closing out a historic 12-day trip to South America",
-          "summary_zh": "1.5 million people gathered in Lima, Peru to send off Pope Leo, as he closed out a historic 12-day trip to South America. Telemundo's Jorge DeSantiago discusses the message the pontiff left Catholics in South America.",
+          "summary_zh": "150 万人聚集在秘鲁利马为教皇利奥送行，结束了为期 12 天的历史性南美之旅。泰勒蒙多的豪尔赫·德圣地亚哥讨论了教宗留给南美天主教徒的信息。",
           "url": "https://www.nbcnews.com/video/1-5-million-gather-for-pope-leo-s-send-off-closing-out-a-historic-12-day-trip-to-south-america-273610309517",
           "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_11/1794871674775_now_hallie_jde_pope_leo_south_america_261116_S3_1920x1080-shthjy.jpg",
           "published": "2026-11-16T23:28:00+00:00",
-          "score": 4.28
+          "score": 4.27
         },
         {
           "rank": 6,
           "source": "NBC",
-          "title_zh": "U.K. authorities investigating if Russell Brand's message from prison violates rules",
+          "title_zh": "英国当局正在调查拉塞尔·布兰德在监狱中发出的信息是否违反规定",
           "title_en": "U.K. authorities investigating if Russell Brand's message from prison violates rules",
-          "summary_zh": "Authorities in the United Kingdom are investigating if a statement Russell Brand wrote from prison and was delivered by his wife on video violated a rule that bans prisoners from making statements that could cause distre",
+          "summary_zh": "英国当局正在调查拉塞尔·布兰德在监狱中写下并由他的妻子通过视频发表的声明是否违反了禁止囚犯发表可能引起不安的言论的规定。",
           "url": "https://www.nbcnews.com/video/u-k-authorities-investigating-if-russell-brand-s-message-from-prison-violates-rules-273585221856",
           "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_11/1794848524479_now_current_brand_message_prison_261116_S3_1920x1080-28b21t.jpg",
           "published": "2026-11-16T17:02:09+00:00",
-          "score": 4.04
+          "score": 4.03
         },
         {
           "rank": 7,
           "source": "NBC",
-          "title_zh": "Highlights from Pope Leo’s historic, 12-day tour of South America",
+          "title_zh": "教皇利奥 12 天南美洲历史性之旅的亮点",
           "title_en": "Highlights from Pope Leo’s historic, 12-day tour of South America",
-          "summary_zh": "They turned out in their millions to greet Pope Leo as he made his way around Uruguay, Argentina and Peru on a gruelling 12-day tour of the South America.",
+          "summary_zh": "当教皇利奥在乌拉圭、阿根廷和秘鲁进行为期 12 天的南美洲艰苦之旅时，数百万人前来迎接。",
           "url": "https://www.nbcnews.com/world/the-vatican/pope-leo-south-america-tour-uruguay-argentina-peru-milei-fujimori-rcna608513",
           "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-11/261116-pope-mb-1100-38c7ce.jpg",
           "published": "2026-11-16T16:02:33+00:00",
-          "score": 4.0
+          "score": 3.99
         }
       ]
     },
@@ -92,9 +92,9 @@
         {
           "rank": 1,
           "source": "arXiv cs.AI",
-          "title_zh": "Envisioning Agentic Robotics: A New Era of Robotic Systems",
+          "title_zh": "展望代理机器人：机器人系统的新时代",
           "title_en": "Envisioning Agentic Robotics: A New Era of Robotic Systems",
-          "summary_zh": "arXiv:2611.18359v1 Announce Type: cross Abstract: The release of GPT-6 Astra marks the emergence of a new paradigm in robotics: agentic robotics. Within weeks, frontier models with agentic harnesses matched or exceeded t",
+          "summary_zh": "arXiv:2611.18359v1 公告类型：cross 摘要：GPT-6 Astra 的发布标志着机器人技术新范式的出现：代理机器人技术。几周之内，带有代理安全带的前沿模型就达到或超过了",
           "url": "https://arxiv.org/abs/2611.18359",
           "image": "",
           "published": "2026-11-17T00:00:00-05:00",
@@ -103,9 +103,9 @@
         {
           "rank": 2,
           "source": "arXiv cs.AI",
-          "title_zh": "Cross-Benchmark Transfer from RL on Agentic Coding Tasks",
+          "title_zh": "强化学习在代理编码任务上的跨基准迁移",
           "title_en": "Cross-Benchmark Transfer from RL on Agentic Coding Tasks",
-          "summary_zh": "arXiv:2610.00890v2 Announce Type: replace-cross Abstract: Coding agents often fail in the last mile: they build most of a feature but drop a requirement, test only the cases their implementation already handles, break be",
+          "summary_zh": "arXiv:2610.00890v2 公告类型：replace-cross 摘要：编码代理经常在最后一英里失败：他们构建了大部分功能但放弃了需求，仅测试其实现已经处理的情况，打破了",
           "url": "https://arxiv.org/abs/2610.00890",
           "image": "",
           "published": "2026-11-17T00:00:00-05:00",
@@ -114,9 +114,9 @@
         {
           "rank": 3,
           "source": "OpenAI Research",
-          "title_zh": "How we detect frontier model misalignment",
+          "title_zh": "我们如何检测前沿模型错位",
           "title_en": "How we detect frontier model misalignment",
-          "summary_zh": "OpenAI uses layered monitoring to detect frontier model misalignment and unauthorized agent behavior so responders can intervene before incidents escalate.",
+          "summary_zh": "OpenAI 使用分层监控来检测前沿模型错位和未经授权的代理行为，以便响应人员可以在事件升级之前进行干预。",
           "url": "https://openai.com/index/how-we-detect-frontier-model-misalignment",
           "image": "",
           "published": "2026-10-29T09:00:00+00:00",
@@ -125,9 +125,9 @@
         {
           "rank": 4,
           "source": "OpenAI Research",
-          "title_zh": "Control Room: A central system to track and stop model workloads across our research infrastructure",
+          "title_zh": "控制室：一个中央系统，用于跟踪和停止我们研究基础设施中的模型工作负载",
           "title_en": "Control Room: A central system to track and stop model workloads across our research infrastructure",
-          "summary_zh": "Learn how OpenAI’s Control Room tracks model workloads across our research infrastructure and can rapidly stop them when safety or security concerns arise.",
+          "summary_zh": "了解 OpenAI 的控制室如何跟踪我们研究基础设施中的模型工作负载，并在出现安全问题时快速阻止它们。",
           "url": "https://openai.com/index/control-room",
           "image": "",
           "published": "2026-11-09T13:00:00+00:00",
@@ -136,9 +136,9 @@
         {
           "rank": 5,
           "source": "Anthropic",
-          "title_zh": "Worse Together: How Performance Breaks Down in Multi-User Multi-Agent Teams - Anthropic Alignment Science blog",
+          "title_zh": "更糟糕的是：多用户多代理团队的性能如何下降 - 人类对齐科学博客",
           "title_en": "Worse Together: How Performance Breaks Down in Multi-User Multi-Agent Teams - Anthropic Alignment Science blog",
-          "summary_zh": "Worse Together: How Performance Breaks Down in Multi-User Multi-Agent Teams Anthropic Alignment Science blog",
+          "summary_zh": "更糟糕的是：多用户多代理团队的性能如何下降 人类对齐科学博客",
           "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5mZm01S0Via2g3cWczVVB5YlNSMlI1a2FKekVZY0liWmMzQndHSnIyNVd2RnlLUWFWb3ItWG1KZVZQY2Q3aUlGeGM2UzRDb0Qxc3dtWEFQZkN3TDdmMDJoam1R?oc=5",
           "image": "",
           "published": "2026-11-11T17:13:59+00:00",
