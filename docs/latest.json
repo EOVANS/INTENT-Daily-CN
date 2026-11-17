@@ -1,0 +1,160 @@
+{
+  "date": "2026-11-17",
+  "generated_at": "2026-11-17T15:54:28.981156+08:00",
+  "rss": "https://raw.githubusercontent.com/EOVANS/INTENT-Daily-CN/main/docs/feed.xml",
+  "markdown": "https://raw.githubusercontent.com/EOVANS/INTENT-Daily-CN/main/docs/latest.md",
+  "blocks": [
+    {
+      "label": "一、国际要闻（BBC / CNN / VOA / NBC）",
+      "items": [
+        {
+          "rank": 1,
+          "source": "BBC News",
+          "title_zh": "Two mass shootings in South Africa leave 17 dead",
+          "title_en": "Two mass shootings in South Africa leave 17 dead",
+          "summary_zh": "The shootings in KwaZulu-Natal and Gauteng highlight South Africa's struggle to curb violent crime.",
+          "url": "https://www.bbc.co.uk/news/articles/c8y5x3n4kywpo?at_medium=RSS&at_campaign=rss",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e2e5/live/66487e80-e1a0-11f1-902c-ad301cbf1208.jpg",
+          "published": "2026-11-16T10:57:48+00:00",
+          "score": 13.13
+        },
+        {
+          "rank": 2,
+          "source": "BBC News",
+          "title_zh": "Ukraine and Russia trade strikes on key bridges",
+          "title_en": "Ukraine and Russia trade strikes on key bridges",
+          "summary_zh": "A bridge linking Crimea and Russia has reportedly been damaged, while two major routes through Kyiv are closed.",
+          "url": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ef42/live/91d5bfa0-e258-11f1-8199-439bbe0918ee.jpg",
+          "published": "2026-11-17T07:30:43+00:00",
+          "score": 9.98
+        },
+        {
+          "rank": 3,
+          "source": "BBC News",
+          "title_zh": "Ukraine accuses Russia of targeting rescue operation after 'double-tap' strike kills 72",
+          "title_en": "Ukraine accuses Russia of targeting rescue operation after 'double-tap' strike kills 72",
+          "summary_zh": "Efforts to recover bodies after a “double-tap” attack in southern Ukraine are being hampered by continuing Russian strikes, officials say.",
+          "url": "https://www.bbc.co.uk/news/articles/c30rk8x5g80qo?at_medium=RSS&at_campaign=rss",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ba46/live/5efa38d0-df84-11f1-a701-fddedf244c16.png",
+          "published": "2026-11-17T05:59:01+00:00",
+          "score": 9.92
+        },
+        {
+          "rank": 4,
+          "source": "BBC News",
+          "title_zh": "Forensic expert says his analysis of autopsy photos suggests Epstein was killed",
+          "title_en": "Forensic expert says his analysis of autopsy photos suggests Epstein was killed",
+          "summary_zh": "Professor Michael Freeman tells BBC Newsnight that he believes the convicted sex offender's injuries are consistent with a homicide.",
+          "url": "https://www.bbc.co.uk/news/articles/c5n4exg1kkmyo?at_medium=RSS&at_campaign=rss",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f4ce/live/59eafa00-e1c3-11f1-8a52-0b287ff76f43.jpg",
+          "published": "2026-11-16T20:33:57+00:00",
+          "score": 9.53
+        },
+        {
+          "rank": 5,
+          "source": "NBC",
+          "title_zh": "1.5 million gather for Pope Leo's send-off, closing out a historic 12-day trip to South America",
+          "title_en": "1.5 million gather for Pope Leo's send-off, closing out a historic 12-day trip to South America",
+          "summary_zh": "1.5 million people gathered in Lima, Peru to send off Pope Leo, as he closed out a historic 12-day trip to South America. Telemundo's Jorge DeSantiago discusses the message the pontiff left Catholics in South America.",
+          "url": "https://www.nbcnews.com/video/1-5-million-gather-for-pope-leo-s-send-off-closing-out-a-historic-12-day-trip-to-south-america-273610309517",
+          "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_11/1794871674775_now_hallie_jde_pope_leo_south_america_261116_S3_1920x1080-shthjy.jpg",
+          "published": "2026-11-16T23:28:00+00:00",
+          "score": 4.28
+        },
+        {
+          "rank": 6,
+          "source": "NBC",
+          "title_zh": "U.K. authorities investigating if Russell Brand's message from prison violates rules",
+          "title_en": "U.K. authorities investigating if Russell Brand's message from prison violates rules",
+          "summary_zh": "Authorities in the United Kingdom are investigating if a statement Russell Brand wrote from prison and was delivered by his wife on video violated a rule that bans prisoners from making statements that could cause distre",
+          "url": "https://www.nbcnews.com/video/u-k-authorities-investigating-if-russell-brand-s-message-from-prison-violates-rules-273585221856",
+          "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_11/1794848524479_now_current_brand_message_prison_261116_S3_1920x1080-28b21t.jpg",
+          "published": "2026-11-16T17:02:09+00:00",
+          "score": 4.04
+        },
+        {
+          "rank": 7,
+          "source": "NBC",
+          "title_zh": "Highlights from Pope Leo’s historic, 12-day tour of South America",
+          "title_en": "Highlights from Pope Leo’s historic, 12-day tour of South America",
+          "summary_zh": "They turned out in their millions to greet Pope Leo as he made his way around Uruguay, Argentina and Peru on a gruelling 12-day tour of the South America.",
+          "url": "https://www.nbcnews.com/world/the-vatican/pope-leo-south-america-tour-uruguay-argentina-peru-milei-fujimori-rcna608513",
+          "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-11/261116-pope-mb-1100-38c7ce.jpg",
+          "published": "2026-11-16T16:02:33+00:00",
+          "score": 4.01
+        }
+      ]
+    },
+    {
+      "label": "二、AI 研究动态（OpenAI Research 等）",
+      "items": [
+        {
+          "rank": 1,
+          "source": "arXiv cs.AI",
+          "title_zh": "Envisioning Agentic Robotics: A New Era of Robotic Systems",
+          "title_en": "Envisioning Agentic Robotics: A New Era of Robotic Systems",
+          "summary_zh": "arXiv:2611.18359v1 Announce Type: cross Abstract: The release of GPT-6 Astra marks the emergence of a new paradigm in robotics: agentic robotics. Within weeks, frontier models with agentic harnesses matched or exceeded t",
+          "url": "https://arxiv.org/abs/2611.18359",
+          "image": "",
+          "published": "2026-11-17T00:00:00-05:00",
+          "score": 23.7
+        },
+        {
+          "rank": 2,
+          "source": "arXiv cs.AI",
+          "title_zh": "Cross-Benchmark Transfer from RL on Agentic Coding Tasks",
+          "title_en": "Cross-Benchmark Transfer from RL on Agentic Coding Tasks",
+          "summary_zh": "arXiv:2610.00890v2 Announce Type: replace-cross Abstract: Coding agents often fail in the last mile: they build most of a feature but drop a requirement, test only the cases their implementation already handles, break be",
+          "url": "https://arxiv.org/abs/2610.00890",
+          "image": "",
+          "published": "2026-11-17T00:00:00-05:00",
+          "score": 19.45
+        },
+        {
+          "rank": 3,
+          "source": "OpenAI Research",
+          "title_zh": "How we detect frontier model misalignment",
+          "title_en": "How we detect frontier model misalignment",
+          "summary_zh": "OpenAI uses layered monitoring to detect frontier model misalignment and unauthorized agent behavior so responders can intervene before incidents escalate.",
+          "url": "https://openai.com/index/how-we-detect-frontier-model-misalignment",
+          "image": "",
+          "published": "2026-10-29T09:00:00+00:00",
+          "score": 12.5
+        },
+        {
+          "rank": 4,
+          "source": "OpenAI Research",
+          "title_zh": "Control Room: A central system to track and stop model workloads across our research infrastructure",
+          "title_en": "Control Room: A central system to track and stop model workloads across our research infrastructure",
+          "summary_zh": "Learn how OpenAI’s Control Room tracks model workloads across our research infrastructure and can rapidly stop them when safety or security concerns arise.",
+          "url": "https://openai.com/index/control-room",
+          "image": "",
+          "published": "2026-11-09T13:00:00+00:00",
+          "score": 11.0
+        },
+        {
+          "rank": 5,
+          "source": "Anthropic",
+          "title_zh": "Worse Together: How Performance Breaks Down in Multi-User Multi-Agent Teams - Anthropic Alignment Science blog",
+          "title_en": "Worse Together: How Performance Breaks Down in Multi-User Multi-Agent Teams - Anthropic Alignment Science blog",
+          "summary_zh": "Worse Together: How Performance Breaks Down in Multi-User Multi-Agent Teams Anthropic Alignment Science blog",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5mZm01S0Via2g3cWczVVB5YlNSMlI1a2FKekVZY0liWmMzQndHSnIyNVd2RnlLUWFWb3ItWG1KZVZQY2Q3aUlGeGM2UzRDb0Qxc3dtWEFQZkN3TDdmMDJoam1R?oc=5",
+          "image": "",
+          "published": "2026-11-11T17:13:59+00:00",
+          "score": 10.0
+        }
+      ]
+    }
+  ],
+  "source_counts": {
+    "BBC News": 19,
+    "CNN": 0,
+    "VOA": 0,
+    "NBC": 3,
+    "OpenAI Research": 69,
+    "Google DeepMind": 11,
+    "Anthropic": 17,
+    "arXiv cs.AI": 276
+  }
+}
