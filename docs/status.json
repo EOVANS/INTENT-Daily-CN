@@ -1,5 +1,5 @@
 {
-  "started": "2026-11-17T08:44:19+0000",
+  "started": "2026-11-17T08:47:39+0000",
   "feeds": {
     "https://feeds.bbci.co.uk/news/world/rss.xml": {
       "ok": true,
@@ -23,8 +23,8 @@
     },
     "https://news.google.com/rss/search?q=site:voanews.com+when:7d&hl=en-US&gl=US&ceid=US:en": {
       "ok": true,
-      "bytes": 73927,
-      "entries": 55
+      "bytes": 75607,
+      "entries": 57
     },
     "https://feeds.nbcnews.com/nbcnews/public/world": {
       "ok": true,
@@ -38,8 +38,18 @@
     },
     "https://deepmind.google/blog/rss.xml": {
       "ok": true,
-      "bytes": 68852,
-      "entries": 100
+      "bytes": 18603,
+      "xml_error": "not well-formed (invalid token): line 1, column 0"
+    },
+    "https://deepmind.com/blog/feed/basic": {
+      "ok": true,
+      "bytes": 18603,
+      "xml_error": "not well-formed (invalid token): line 1, column 0"
+    },
+    "https://news.google.com/rss/search?q=site:deepmind.google+when:7d&hl=en-US&gl=US&ceid=US:en": {
+      "ok": true,
+      "bytes": 9682,
+      "entries": 8
     },
     "https://www.anthropic.com/rss.xml": {
       "ok": false,
@@ -67,7 +77,7 @@
   },
   "translate": {
     "google-clients5": {
-      "ok": 25,
+      "ok": 26,
       "fail": 0,
       "last_error": ""
     }
@@ -82,11 +92,11 @@
       "used": 19
     },
     "CNN": {
-      "raw": 25,
+      "raw": 22,
       "in_window": 0,
       "from_google": 0,
-      "undated": 3,
-      "used": 3
+      "undated": 0,
+      "used": 0
     },
     "VOA": {
       "raw": 4,
@@ -110,11 +120,11 @@
       "used": 69
     },
     "Google DeepMind": {
-      "raw": 100,
-      "in_window": 11,
-      "from_google": 0,
+      "raw": 8,
+      "in_window": 8,
+      "from_google": 8,
       "undated": 0,
-      "used": 11
+      "used": 8
     },
     "Anthropic": {
       "raw": 16,
@@ -132,5 +142,5 @@
     }
   },
   "error": null,
-  "finished": "2026-11-17T08:44:33+0000"
+  "finished": "2026-11-17T08:47:53+0000"
 }

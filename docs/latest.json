@@ -1,6 +1,6 @@
 {
   "date": "2026-11-17",
-  "generated_at": "2026-11-17T16:44:19.128113+08:00",
+  "generated_at": "2026-11-17T16:47:39.981634+08:00",
   "rss": "https://raw.githubusercontent.com/EOVANS/INTENT-Daily-CN/main/docs/feed.xml",
   "markdown": "https://raw.githubusercontent.com/EOVANS/INTENT-Daily-CN/main/docs/latest.md",
   "blocks": [
@@ -38,7 +38,7 @@
           "url": "https://www.bbc.co.uk/news/articles/c30rk8x5g80qo?at_medium=RSS&at_campaign=rss",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ba46/live/5efa38d0-df84-11f1-a701-fddedf244c16.png",
           "published": "2026-11-17T05:59:01+00:00",
-          "score": 9.89
+          "score": 9.88
         },
         {
           "rank": 4,
@@ -86,14 +86,14 @@
         },
         {
           "rank": 8,
-          "source": "CNN",
-          "title_zh": "将不断上涨的房屋净值转化为可以使用的现金",
-          "title_en": "Turn Your Rising Home Equity Into Cash You Can Use",
-          "summary_zh": "",
-          "url": "https://www.lendingtree.com/?splitterid=home-equity&cproduct=he&cchannel=content&csource=cnn&cmethod=heform&ccreative=risingequitycash_housemoneystack&placement_name=sectionfronts&ad_headline=risingequitycash&ad_image_name=housemoneystack&ctype=sectionfronts&bdst=revshare&mtaid=AC53E&esourceid=6348616",
-          "image": "",
-          "published": "2026-11-17T16:44:19.128113+08:00",
-          "score": 4.0
+          "source": "NBC",
+          "title_zh": "教皇利奥 12 天南美洲历史性之旅的亮点",
+          "title_en": "Highlights from Pope Leo’s historic, 12-day tour of South America",
+          "summary_zh": "当教皇利奥在乌拉圭、阿根廷和秘鲁进行为期 12 天的南美洲艰苦之旅时，数百万人前来迎接。",
+          "url": "https://www.nbcnews.com/world/the-vatican/pope-leo-south-america-tour-uruguay-argentina-peru-milei-fujimori-rcna608513",
+          "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-11/261116-pope-mb-1100-38c7ce.jpg",
+          "published": "2026-11-16T16:02:33+00:00",
+          "score": 3.97
         }
       ]
     },
@@ -116,7 +116,7 @@
           "source": "arXiv cs.AI",
           "title_zh": "逻辑链断点：开放权重语言模型中推理退化的受控变量基准",
           "title_en": "The Logic Chain Breaking Point: A Controlled-Variable Benchmark for Reasoning Degradation in Open-Weight Language Models",
-          "summary_zh": "arXiv:2611.20447v1 公告类型：新 摘要：我们介绍了逻辑链断点，这是一种用于开放权重语言模型中演绎推理的受控变量基准。它跨越三个阶段：(i) 纯粹的 modus-p",
+          "summary_zh": "arXiv:2611.20447v1 公告类型：新 摘要：我们介绍了逻辑链断点，这是一种用于开放权重语言模型中演绎推理的受控变量基准。它跨越三个阶段：(i) 纯 modus-p",
           "url": "https://arxiv.org/abs/2611.20447",
           "image": "",
           "published": "2026-11-17T00:00:00-05:00",
@@ -146,25 +146,25 @@
         },
         {
           "rank": 5,
-          "source": "Google DeepMind",
-          "title_zh": "Gemini Robotics 2.5 加速现实世界的通用灵活性",
-          "title_en": "Gemini Robotics 2.5 accelerates real-world general dexterity",
-          "summary_zh": "我们最强大的视觉-语言-动作模型增强了机器人的灵活性、可靠性和安全性",
-          "url": "https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence/",
-          "image": "https://lh3.googleusercontent.com/F1CrVEYRb8lJOyyxGgcyow-Td1de-nkp7K8MZrhjrKPANJUc0EYB754Ninn-Yrppjdb54nolOWo6Rk8iDaRNuixWwLaEKc0K9ImGooxen9fj9IOh=w528-h297-n-nu-rw-lo",
-          "published": "2026-11-09T19:51:47+00:00",
-          "score": 9.5
+          "source": "Anthropic",
+          "title_zh": "建立强有力的安全评估",
+          "title_en": "Building strong safety evaluations",
+          "summary_zh": "建立强有力的安全评估 Anthropic",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5WQ1RoMWFsN1VyVjdlam5YZkZ4M1I1SUNjeWExWm1OcHR5MlRpRmtwU2NIT0dSQUhXSjlfb2hrZGhHYlVRUjUtUzBtRzRZUUZhcE9PNERJekdzNW1PUWhOd0s5MjBRXzVFdnFWZlJ5c0VSak5RZ3lUaA?oc=5",
+          "image": "",
+          "published": "2026-11-14T01:40:13+00:00",
+          "score": 7.7
         }
       ]
     }
   ],
   "source_counts": {
     "BBC News": 19,
-    "CNN": 3,
+    "CNN": 0,
     "VOA": 4,
     "NBC": 3,
     "OpenAI Research": 69,
-    "Google DeepMind": 11,
+    "Google DeepMind": 8,
     "Anthropic": 16,
     "arXiv cs.AI": 715
   }

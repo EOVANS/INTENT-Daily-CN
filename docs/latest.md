@@ -1,6 +1,6 @@
 # INTENT Daily CN · 每日新闻
 
-> **日期**：2026-11-17（北京时间）｜**生成**：16:44｜每日 07:35 自动更新
+> **日期**：2026-11-17（北京时间）｜**生成**：16:47｜每日 07:35 自动更新
 > **RSS 订阅**：<https://raw.githubusercontent.com/EOVANS/INTENT-Daily-CN/main/docs/feed.xml>
 
 ## 一、国际要闻（BBC / CNN / VOA / NBC）
@@ -82,12 +82,16 @@
 - **发布时间**：2026-11-17 01:02
 - **原文链接**：<https://www.nbcnews.com/video/u-k-authorities-investigating-if-russell-brand-s-message-from-prison-violates-rules-273585221856>
 
-### 8. 将不断上涨的房屋净值转化为可以使用的现金
+### 8. 教皇利奥 12 天南美洲历史性之旅的亮点
 
-- **来源**：CNN
-- **原文标题**：Turn Your Rising Home Equity Into Cash You Can Use
-- **发布时间**：2026-11-17 16:44
-- **原文链接**：<https://www.lendingtree.com/?splitterid=home-equity&cproduct=he&cchannel=content&csource=cnn&cmethod=heform&ccreative=risingequitycash_housemoneystack&placement_name=sectionfronts&ad_headline=risingequitycash&ad_image_name=housemoneystack&ctype=sectionfronts&bdst=revshare&mtaid=AC53E&esourceid=6348616>
+当教皇利奥在乌拉圭、阿根廷和秘鲁进行为期 12 天的南美洲艰苦之旅时，数百万人前来迎接。
+
+![NBC](https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-11/261116-pope-mb-1100-38c7ce.jpg)
+
+- **来源**：NBC
+- **原文标题**：Highlights from Pope Leo’s historic, 12-day tour of South America
+- **发布时间**：2026-11-17 00:02
+- **原文链接**：<https://www.nbcnews.com/world/the-vatican/pope-leo-south-america-tour-uruguay-argentina-peru-milei-fujimori-rcna608513>
 
 ## 二、AI 研究动态（OpenAI Research 等）
 
@@ -104,7 +108,7 @@ arXiv:2611.19871v1 公告类型：新 摘要：通过环境交互进行强化学
 
 ### 2. 逻辑链断点：开放权重语言模型中推理退化的受控变量基准
 
-arXiv:2611.20447v1 公告类型：新 摘要：我们介绍了逻辑链断点，这是一种用于开放权重语言模型中演绎推理的受控变量基准。它跨越三个阶段：(i) 纯粹的 modus-p
+arXiv:2611.20447v1 公告类型：新 摘要：我们介绍了逻辑链断点，这是一种用于开放权重语言模型中演绎推理的受控变量基准。它跨越三个阶段：(i) 纯 modus-p
 
 - **来源**：arXiv cs.AI
 - **原文标题**：The Logic Chain Breaking Point: A Controlled-Variable Benchmark for Reasoning Degradation in Open-Weight Language Models
@@ -129,16 +133,14 @@ OpenAI 使用分层监控来检测前沿模型错位和未经授权的代理行�
 - **发布时间**：2026-11-09 21:00
 - **原文链接**：<https://openai.com/index/control-room>
 
-### 5. Gemini Robotics 2.5 加速现实世界的通用灵活性
+### 5. 建立强有力的安全评估
 
-我们最强大的视觉-语言-动作模型增强了机器人的灵活性、可靠性和安全性
+建立强有力的安全评估 Anthropic
 
-![Google DeepMind](https://lh3.googleusercontent.com/F1CrVEYRb8lJOyyxGgcyow-Td1de-nkp7K8MZrhjrKPANJUc0EYB754Ninn-Yrppjdb54nolOWo6Rk8iDaRNuixWwLaEKc0K9ImGooxen9fj9IOh=w528-h297-n-nu-rw-lo)
-
-- **来源**：Google DeepMind
-- **原文标题**：Gemini Robotics 2.5 accelerates real-world general dexterity
-- **发布时间**：2026-11-10 03:51
-- **原文链接**：<https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence/>
+- **来源**：Anthropic
+- **原文标题**：Building strong safety evaluations
+- **发布时间**：2026-11-14 09:40
+- **原文链接**：<https://news.google.com/rss/articles/CBMieEFVX3lxTE5WQ1RoMWFsN1VyVjdlam5YZkZ4M1I1SUNjeWExWm1OcHR5MlRpRmtwU2NIT0dSQUhXSjlfb2hrZGhHYlVRUjUtUzBtRzRZUUZhcE9PNERJekdzNW1PUWhOd0s5MjBRXzVFdnFWZlJ5c0VSak5RZ3lUaA?oc=5>
 
 ---
 
@@ -147,11 +149,11 @@ OpenAI 使用分层监控来检测前沿模型错位和未经授权的代理行�
 | 来源 | 窗口内条数 |
 | --- | --- |
 | BBC News | 19 |
-| CNN | 3 |
+| CNN | 0 |
 | VOA | 4 |
 | NBC | 3 |
 | OpenAI Research | 69 |
-| Google DeepMind | 11 |
+| Google DeepMind | 8 |
 | Anthropic | 16 |
 | arXiv cs.AI | 715 |
 
