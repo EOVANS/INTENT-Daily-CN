@@ -1,5 +1,5 @@
 {
-  "started": "2026-11-17T08:40:39+0000",
+  "started": "2026-11-17T08:44:19+0000",
   "feeds": {
     "https://feeds.bbci.co.uk/news/world/rss.xml": {
       "ok": true,
@@ -38,18 +38,8 @@
     },
     "https://deepmind.google/blog/rss.xml": {
       "ok": true,
-      "bytes": 18603,
-      "xml_error": "not well-formed (invalid token): line 1, column 0"
-    },
-    "https://deepmind.com/blog/feed/basic": {
-      "ok": true,
-      "bytes": 18603,
-      "xml_error": "not well-formed (invalid token): line 1, column 0"
-    },
-    "https://news.google.com/rss/search?q=site:deepmind.google+when:7d&hl=en-US&gl=US&ceid=US:en": {
-      "ok": true,
-      "bytes": 9682,
-      "entries": 8
+      "bytes": 68852,
+      "entries": 100
     },
     "https://www.anthropic.com/rss.xml": {
       "ok": false,
@@ -92,11 +82,11 @@
       "used": 19
     },
     "CNN": {
-      "raw": 29,
+      "raw": 25,
       "in_window": 0,
       "from_google": 0,
-      "undated": 4,
-      "used": 4
+      "undated": 3,
+      "used": 3
     },
     "VOA": {
       "raw": 4,
@@ -120,11 +110,11 @@
       "used": 69
     },
     "Google DeepMind": {
-      "raw": 8,
-      "in_window": 8,
-      "from_google": 8,
+      "raw": 100,
+      "in_window": 11,
+      "from_google": 0,
       "undated": 0,
-      "used": 8
+      "used": 11
     },
     "Anthropic": {
       "raw": 16,
@@ -134,13 +124,13 @@
       "used": 16
     },
     "arXiv cs.AI": {
-      "raw": 717,
-      "in_window": 717,
+      "raw": 715,
+      "in_window": 715,
       "from_google": 0,
       "undated": 0,
-      "used": 717
+      "used": 715
     }
   },
   "error": null,
-  "finished": "2026-11-17T08:40:57+0000"
+  "finished": "2026-11-17T08:44:33+0000"
 }

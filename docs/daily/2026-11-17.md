@@ -1,6 +1,6 @@
 # INTENT Daily CN · 每日新闻
 
-> **日期**：2026-11-17（北京时间）｜**生成**：16:40｜每日 07:35 自动更新
+> **日期**：2026-11-17（北京时间）｜**生成**：16:44｜每日 07:35 自动更新
 > **RSS 订阅**：<https://raw.githubusercontent.com/EOVANS/INTENT-Daily-CN/main/docs/feed.xml>
 
 ## 一、国际要闻（BBC / CNN / VOA / NBC）
@@ -51,12 +51,12 @@
 - **发布时间**：2026-11-17 04:33
 - **原文链接**：<https://www.bbc.co.uk/news/articles/c5n4exg1kkmyo?at_medium=RSS&at_campaign=rss>
 
-### 5. 美国与九个合作伙伴在特习会前签署 SI 供应链协议 - 美国之音
+### 5. 美国与九个合作伙伴在特习会前签署 SI 供应链协议
 
 美国与九个合作伙伴在特习会之前签署 SI 供应链协议
 
 - **来源**：VOA
-- **原文标题**：US, nine partners sign SI supply chain accord ahead of Trump-Xi meeting - Voice of America English News
+- **原文标题**：US, nine partners sign SI supply chain accord ahead of Trump-Xi meeting
 - **发布时间**：2026-11-17 05:15
 - **原文链接**：<https://news.google.com/rss/articles/CBMiugFBVV95cUxOUHlVajNkY2FXdEl2b3o1ZEFaajdoZ0xiSUdsOS00SzBqVU5ZaEY1X3dHSV95Q0VoRmlVT2NzcmtZcUpJelRyV2RYLVVQMlRRc1BIQTRJbFpRYkJ5STZZNFNXbThLX2lQa195SlQzUk1JM3o5RnlmOGtCR2p4QU94NGViMmRYVEtnSHhaZXdwYjRpdzYybmxDczEzTmlnZjFTUUdiaktzcGpIeU9fYWZjWkIzQnJid214TGfSAbwBQVVfeXFMTWhLdXdvcHJwbDZWYTNNWGkxXy1qSVpsYXBPTEdEMUZNZlRHOGloeEhEbmVnTTV1Z1pMV2FaLXc5WGdkbGdYS1VhQm1nc0tJdGFVQUxDdF8tamFZbHZrVF9TRkJsbHlTeXpGbWt2T0gzTHB1by14OTFEdVA2eHhsTHkwemtOSkNfOWVYQzM0Qkc1eE5kN2xuSEZhSDB5NW1ZTlJ2MlVEdWFRQ1JxWEFDSDg3Ym9DeklyY1JfTE8?oc=5>
 
@@ -82,12 +82,12 @@
 - **发布时间**：2026-11-17 01:02
 - **原文链接**：<https://www.nbcnews.com/video/u-k-authorities-investigating-if-russell-brand-s-message-from-prison-violates-rules-273585221856>
 
-### 8. 2024 年之前 0% 的介绍年利率是 100% 疯狂的
+### 8. 将不断上涨的房屋净值转化为可以使用的现金
 
 - **来源**：CNN
-- **原文标题**：0% intro APR until 2024 is 100% insane
-- **发布时间**：2026-11-17 16:40
-- **原文链接**：<https://www.fool.com/the-ascent/credit-cards/landing/wells-fargo-reflect-review/?utm_site=theascent&utm_campaign=ta-cc-co-cnn-welref2-ron-5-hp-sfpb&utm_medium=cpc&utm_source=cnn>
+- **原文标题**：Turn Your Rising Home Equity Into Cash You Can Use
+- **发布时间**：2026-11-17 16:44
+- **原文链接**：<https://www.lendingtree.com/?splitterid=home-equity&cproduct=he&cchannel=content&csource=cnn&cmethod=heform&ccreative=risingequitycash_housemoneystack&placement_name=sectionfronts&ad_headline=risingequitycash&ad_image_name=housemoneystack&ctype=sectionfronts&bdst=revshare&mtaid=AC53E&esourceid=6348616>
 
 ## 二、AI 研究动态（OpenAI Research 等）
 
@@ -104,7 +104,7 @@ arXiv:2611.19871v1 公告类型：新 摘要：通过环境交互进行强化学
 
 ### 2. 逻辑链断点：开放权重语言模型中推理退化的受控变量基准
 
-arXiv:2611.20447v1 公告类型：新 摘要：我们介绍了逻辑链断点，这是一种用于开放权重语言模型中演绎推理的受控变量基准。它跨越三个阶段：(i) 纯 modus-p
+arXiv:2611.20447v1 公告类型：新 摘要：我们介绍了逻辑链断点，这是一种用于开放权重语言模型中演绎推理的受控变量基准。它跨越三个阶段：(i) 纯粹的 modus-p
 
 - **来源**：arXiv cs.AI
 - **原文标题**：The Logic Chain Breaking Point: A Controlled-Variable Benchmark for Reasoning Degradation in Open-Weight Language Models
@@ -129,14 +129,16 @@ OpenAI 使用分层监控来检测前沿模型错位和未经授权的代理行�
 - **发布时间**：2026-11-09 21:00
 - **原文链接**：<https://openai.com/index/control-room>
 
-### 5. 更糟糕的是：多用户多代理团队的性能如何下降 - 人类对齐科学博客
+### 5. Gemini Robotics 2.5 加速现实世界的通用灵活性
 
-更糟糕的是：多用户多代理团队的性能如何下降 人类对齐科学博客
+我们最强大的视觉-语言-动作模型增强了机器人的灵活性、可靠性和安全性
 
-- **来源**：Anthropic
-- **原文标题**：Worse Together: How Performance Breaks Down in Multi-User Multi-Agent Teams - Anthropic Alignment Science blog
-- **发布时间**：2026-11-12 01:13
-- **原文链接**：<https://news.google.com/rss/articles/CBMiYkFVX3lxTE5mZm01S0Via2g3cWczVVB5YlNSMlI1a2FKekVZY0liWmMzQndHSnIyNVd2RnlLUWFWb3ItWG1KZVZQY2Q3aUlGeGM2UzRDb0Qxc3dtWEFQZkN3TDdmMDJoam1R?oc=5>
+![Google DeepMind](https://lh3.googleusercontent.com/F1CrVEYRb8lJOyyxGgcyow-Td1de-nkp7K8MZrhjrKPANJUc0EYB754Ninn-Yrppjdb54nolOWo6Rk8iDaRNuixWwLaEKc0K9ImGooxen9fj9IOh=w528-h297-n-nu-rw-lo)
+
+- **来源**：Google DeepMind
+- **原文标题**：Gemini Robotics 2.5 accelerates real-world general dexterity
+- **发布时间**：2026-11-10 03:51
+- **原文链接**：<https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence/>
 
 ---
 
@@ -145,12 +147,12 @@ OpenAI 使用分层监控来检测前沿模型错位和未经授权的代理行�
 | 来源 | 窗口内条数 |
 | --- | --- |
 | BBC News | 19 |
-| CNN | 4 |
+| CNN | 3 |
 | VOA | 4 |
 | NBC | 3 |
 | OpenAI Research | 69 |
-| Google DeepMind | 8 |
+| Google DeepMind | 11 |
 | Anthropic | 16 |
-| arXiv cs.AI | 717 |
+| arXiv cs.AI | 715 |
 
 > 由 GitHub Actions 自动生成，请勿手工编辑。

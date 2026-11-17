@@ -1,6 +1,6 @@
 {
   "date": "2026-11-17",
-  "generated_at": "2026-11-17T16:40:39.633987+08:00",
+  "generated_at": "2026-11-17T16:44:19.128113+08:00",
   "rss": "https://raw.githubusercontent.com/EOVANS/INTENT-Daily-CN/main/docs/feed.xml",
   "markdown": "https://raw.githubusercontent.com/EOVANS/INTENT-Daily-CN/main/docs/latest.md",
   "blocks": [
@@ -16,7 +16,7 @@
           "url": "https://www.bbc.co.uk/news/articles/c8y5x3n4kywpo?at_medium=RSS&at_campaign=rss",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e2e5/live/66487e80-e1a0-11f1-902c-ad301cbf1208.jpg",
           "published": "2026-11-16T10:57:48+00:00",
-          "score": 13.1
+          "score": 13.09
         },
         {
           "rank": 2,
@@ -27,7 +27,7 @@
           "url": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/22e4/live/526312a0-e258-11f1-8199-439bbe0918ee.jpg",
           "published": "2026-11-17T08:06:32+00:00",
-          "score": 9.98
+          "score": 9.97
         },
         {
           "rank": 3,
@@ -49,13 +49,13 @@
           "url": "https://www.bbc.co.uk/news/articles/c5n4exg1kkmyo?at_medium=RSS&at_campaign=rss",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f4ce/live/59eafa00-e1c3-11f1-8a52-0b287ff76f43.jpg",
           "published": "2026-11-16T20:33:57+00:00",
-          "score": 9.5
+          "score": 9.49
         },
         {
           "rank": 5,
           "source": "VOA",
-          "title_zh": "美国与九个合作伙伴在特习会前签署 SI 供应链协议 - 美国之音",
-          "title_en": "US, nine partners sign SI supply chain accord ahead of Trump-Xi meeting - Voice of America English News",
+          "title_zh": "美国与九个合作伙伴在特习会前签署 SI 供应链协议",
+          "title_en": "US, nine partners sign SI supply chain accord ahead of Trump-Xi meeting",
           "summary_zh": "美国与九个合作伙伴在特习会之前签署 SI 供应链协议",
           "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOUHlVajNkY2FXdEl2b3o1ZEFaajdoZ0xiSUdsOS00SzBqVU5ZaEY1X3dHSV95Q0VoRmlVT2NzcmtZcUpJelRyV2RYLVVQMlRRc1BIQTRJbFpRYkJ5STZZNFNXbThLX2lQa195SlQzUk1JM3o5RnlmOGtCR2p4QU94NGViMmRYVEtnSHhaZXdwYjRpdzYybmxDczEzTmlnZjFTUUdiaktzcGpIeU9fYWZjWkIzQnJid214TGfSAbwBQVVfeXFMTWhLdXdvcHJwbDZWYTNNWGkxXy1qSVpsYXBPTEdEMUZNZlRHOGloeEhEbmVnTTV1Z1pMV2FaLXc5WGdkbGdYS1VhQm1nc0tJdGFVQUxDdF8tamFZbHZrVF9TRkJsbHlTeXpGbWt2T0gzTHB1by14OTFEdVA2eHhsTHkwemtOSkNfOWVYQzM0Qkc1eE5kN2xuSEZhSDB5NW1ZTlJ2MlVEdWFRQ1JxWEFDSDg3Ym9DeklyY1JfTE8?oc=5",
           "image": "",
@@ -87,12 +87,12 @@
         {
           "rank": 8,
           "source": "CNN",
-          "title_zh": "2024 年之前 0% 的介绍年利率是 100% 疯狂的",
-          "title_en": "0% intro APR until 2024 is 100% insane",
+          "title_zh": "将不断上涨的房屋净值转化为可以使用的现金",
+          "title_en": "Turn Your Rising Home Equity Into Cash You Can Use",
           "summary_zh": "",
-          "url": "https://www.fool.com/the-ascent/credit-cards/landing/wells-fargo-reflect-review/?utm_site=theascent&utm_campaign=ta-cc-co-cnn-welref2-ron-5-hp-sfpb&utm_medium=cpc&utm_source=cnn",
+          "url": "https://www.lendingtree.com/?splitterid=home-equity&cproduct=he&cchannel=content&csource=cnn&cmethod=heform&ccreative=risingequitycash_housemoneystack&placement_name=sectionfronts&ad_headline=risingequitycash&ad_image_name=housemoneystack&ctype=sectionfronts&bdst=revshare&mtaid=AC53E&esourceid=6348616",
           "image": "",
-          "published": "2026-11-17T16:40:39.633987+08:00",
+          "published": "2026-11-17T16:44:19.128113+08:00",
           "score": 4.0
         }
       ]
@@ -116,7 +116,7 @@
           "source": "arXiv cs.AI",
           "title_zh": "逻辑链断点：开放权重语言模型中推理退化的受控变量基准",
           "title_en": "The Logic Chain Breaking Point: A Controlled-Variable Benchmark for Reasoning Degradation in Open-Weight Language Models",
-          "summary_zh": "arXiv:2611.20447v1 公告类型：新 摘要：我们介绍了逻辑链断点，这是一种用于开放权重语言模型中演绎推理的受控变量基准。它跨越三个阶段：(i) 纯 modus-p",
+          "summary_zh": "arXiv:2611.20447v1 公告类型：新 摘要：我们介绍了逻辑链断点，这是一种用于开放权重语言模型中演绎推理的受控变量基准。它跨越三个阶段：(i) 纯粹的 modus-p",
           "url": "https://arxiv.org/abs/2611.20447",
           "image": "",
           "published": "2026-11-17T00:00:00-05:00",
@@ -146,26 +146,26 @@
         },
         {
           "rank": 5,
-          "source": "Anthropic",
-          "title_zh": "更糟糕的是：多用户多代理团队的性能如何下降 - 人类对齐科学博客",
-          "title_en": "Worse Together: How Performance Breaks Down in Multi-User Multi-Agent Teams - Anthropic Alignment Science blog",
-          "summary_zh": "更糟糕的是：多用户多代理团队的性能如何下降 人类对齐科学博客",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5mZm01S0Via2g3cWczVVB5YlNSMlI1a2FKekVZY0liWmMzQndHSnIyNVd2RnlLUWFWb3ItWG1KZVZQY2Q3aUlGeGM2UzRDb0Qxc3dtWEFQZkN3TDdmMDJoam1R?oc=5",
-          "image": "",
-          "published": "2026-11-11T17:13:59+00:00",
-          "score": 10.0
+          "source": "Google DeepMind",
+          "title_zh": "Gemini Robotics 2.5 加速现实世界的通用灵活性",
+          "title_en": "Gemini Robotics 2.5 accelerates real-world general dexterity",
+          "summary_zh": "我们最强大的视觉-语言-动作模型增强了机器人的灵活性、可靠性和安全性",
+          "url": "https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence/",
+          "image": "https://lh3.googleusercontent.com/F1CrVEYRb8lJOyyxGgcyow-Td1de-nkp7K8MZrhjrKPANJUc0EYB754Ninn-Yrppjdb54nolOWo6Rk8iDaRNuixWwLaEKc0K9ImGooxen9fj9IOh=w528-h297-n-nu-rw-lo",
+          "published": "2026-11-09T19:51:47+00:00",
+          "score": 9.5
         }
       ]
     }
   ],
   "source_counts": {
     "BBC News": 19,
-    "CNN": 4,
+    "CNN": 3,
     "VOA": 4,
     "NBC": 3,
     "OpenAI Research": 69,
-    "Google DeepMind": 8,
+    "Google DeepMind": 11,
     "Anthropic": 16,
-    "arXiv cs.AI": 717
+    "arXiv cs.AI": 715
   }
 }
