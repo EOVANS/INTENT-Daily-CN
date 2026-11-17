@@ -9,6 +9,7 @@ import html
 import importlib.util
 import json
 import os
+import re
 import sys
 import time
 import traceback
@@ -112,8 +113,29 @@ def translate(text):
     return text
 
 
+JUNK_HOSTS = ("fool.com", "cnn.com/_", "cnnunderscored", "doubleclick", "outbrain", "taboola")
+JUNK_TITLE = ("intro apr", "credit card", "click here", "sign up", "episode", "podcast",
+              "newsletter", "watch:", "listen:", "how to watch", "live updates",
+              "bbc parliament", "questions,")
+SOURCE_SUFFIX = re.compile(
+    r"\s*[-–|]\s*(BBC News|BBC|CNN News|CNN|NBC News|NBC|VOA News|VOA|Voice of America English News"
+    r"|Voice of America|Anthropic Alignment Science blog|Anthropic)\s*$", re.I)
+
+
+def clean_title(title):
+    return SOURCE_SUFFIX.sub("", (title or "").strip()).strip()
+
+
+def is_junk(item):
+    link = (item.get("link") or "").lower()
+    if any(h in link for h in JUNK_HOSTS):
+        return True
+    title = (item.get("title") or "").lower()
+    return any(p in title for p in JUNK_TITLE)
+
+
 def collect(now, sources, window_h, keywords, per_source_cap):
-    """比内置版更宽：直连 feed -> 窗口内条目不足时补 Google News -> 仍不足才用无日期条目"""
+    """直连 feed -> 窗口内不足时补 Google News -> 仍不足才用无日期条目"""
     cutoff = now - timedelta(hours=window_h)
     pool, counts = [], {}
     for source, cfg in sources.items():
@@ -130,6 +152,10 @@ def collect(now, sources, window_h, keywords, per_source_cap):
             from_google = len(extra)
             raw_items += extra
             inwin = [i for i in raw_items if i["published"] and i["published"] >= cutoff]
+        raw_items = [i for i in raw_items if not is_junk(i)]
+        for item in raw_items:
+            item["title"] = clean_title(item["title"])
+        inwin = [i for i in raw_items if i["published"] and i["published"] >= cutoff]
         undated = [i for i in raw_items if not i["published"]][:4]
         used = inwin if len(inwin) >= 3 else inwin + undated
         for item in undated:
