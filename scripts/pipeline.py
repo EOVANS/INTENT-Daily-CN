@@ -112,7 +112,7 @@ def translate(text):
 
 
 def collect(now, sources, window_h, keywords, per_source_cap):
-    """比内置版更宽：直连 feed -> 窗口内条目不足时补 Google News -> 仍不足才用无日期条目"""
+    """直连 feed -> 窗口内不足时补 Google News -> 仍不足才用无日期条目"""
     cutoff = now - timedelta(hours=window_h)
     pool, counts = [], {}
     for source, cfg in sources.items():
@@ -145,7 +145,16 @@ def collect(now, sources, window_h, keywords, per_source_cap):
         item["score"] = bf.score_item(item, now, keywords)
         unique.append(item)
 
+    # 多样性保底：每个来源的最佳一条加权，保证四家媒体都能进入前 8
+    leaders = {}
+    for item in unique:
+        if item["score"] >= 3.0:
+            leaders.setdefault(item["source"], item)
+    for item in leaders.values():
+        item["score"] += 100.0
+
     unique.sort(key=lambda x: x["score"], reverse=True)
+
     chosen, used_count = [], {}
     for item in unique:
         src = item["source"]
