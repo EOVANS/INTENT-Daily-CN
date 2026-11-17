@@ -129,6 +129,8 @@ def collect(now, sources, window_h, keywords, per_source_cap):
             inwin = [i for i in raw_items if i["published"] and i["published"] >= cutoff]
         undated = [i for i in raw_items if not i["published"]][:4]
         used = inwin if len(inwin) >= 3 else inwin + undated
+        for item in undated:
+            item["published"] = now  # 无日期条目多为 feed 头部最新稿，按当前时间计分
         counts[source] = len(used)
         STATUS["sources"][source] = {"raw": len(raw_items), "in_window": len(inwin),
                                      "from_google": from_google, "undated": len(undated),
@@ -145,16 +147,7 @@ def collect(now, sources, window_h, keywords, per_source_cap):
         item["score"] = bf.score_item(item, now, keywords)
         unique.append(item)
 
-    # 多样性保底：每个来源的最佳一条加权，保证四家媒体都能进入前 8
-    leaders = {}
-    for item in unique:
-        if item["score"] >= 3.0:
-            leaders.setdefault(item["source"], item)
-    for item in leaders.values():
-        item["score"] += 100.0
-
     unique.sort(key=lambda x: x["score"], reverse=True)
-
     chosen, used_count = [], {}
     for item in unique:
         src = item["source"]
@@ -162,6 +155,22 @@ def collect(now, sources, window_h, keywords, per_source_cap):
             continue
         chosen.append(item)
         used_count[src] = used_count.get(src, 0) + 1
+
+    # 覆盖保底：有候选却没进榜的来源，用它的最佳一条替换超额来源里最弱的一条
+    have = {i["source"] for i in chosen}
+    for source in sources:
+        if source in have:
+            continue
+        best = next((i for i in unique if i["source"] == source), None)
+        if best is None:
+            continue
+        for item in reversed(chosen):
+            if sum(1 for c in chosen if c["source"] == item["source"]) > 1:
+                chosen.remove(item)
+                break
+        chosen.append(best)
+
+    chosen.sort(key=lambda x: x["score"], reverse=True)
     return chosen, counts
 
 
