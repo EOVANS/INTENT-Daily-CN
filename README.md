@@ -88,3 +88,4 @@ python3 scripts/monthly.py                      # 生成本月回顾
 ```
 
 > 生成文件由 Actions 自动提交，请勿手工编辑 `docs/`、`archive/`。
+> 由 Cynosure/Atelier 幻想焦点  打造❤️
