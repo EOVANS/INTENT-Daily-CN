@@ -5,6 +5,7 @@
 任何异常都会写进 docs/status.json（含 traceback 尾部），保证失败可诊断。
 """
 
+import html
 import importlib.util
 import json
 import os
@@ -112,12 +113,14 @@ def translate(text):
 
 
 def collect(now, sources, window_h, keywords, per_source_cap):
-    """直连 feed -> 窗口内不足时补 Google News -> 仍不足才用无日期条目"""
+    """比内置版更宽：直连 feed -> 窗口内条目不足时补 Google News -> 仍不足才用无日期条目"""
     cutoff = now - timedelta(hours=window_h)
     pool, counts = [], {}
     for source, cfg in sources.items():
-        raw_items = []
-        for feed in cfg["feeds"]:
+        raw_items = bf.parse_feed(fetch(cfg["feeds"][0]), source) if cfg["feeds"] else []
+        for feed in cfg["feeds"][1:]:
+            if len(raw_items) >= 3:
+                break
             raw_items += bf.parse_feed(fetch(feed), source)
         inwin = [i for i in raw_items if i["published"] and i["published"] >= cutoff]
         from_google = 0
@@ -193,12 +196,76 @@ PRODUCT_NAME = "每日新闻"
 _orig_rss, _orig_md = bf.build_rss, bf.build_md
 
 
-def build_rss(blocks, now):
-    return _orig_rss(blocks, now).replace("每日国际要闻 + AI 研究动态", PRODUCT_NAME)
-
-
 def build_md(blocks, now, today, stats):
     return _orig_md(blocks, now, today, stats).replace("每日国际要闻", PRODUCT_NAME)
+
+
+def build_rss(blocks, now):
+    """每期只出一条 <item>：当天全部要闻 + AI 摘要打包在同一条描述里"""
+    day = now.strftime("%Y-%m-%d")
+    body = []
+    for block in blocks:
+        items = block["items"]
+        if not items:
+            continue
+        body.append('<h3 style="margin:22px 0 6px;font-size:15px;color:#1d4ed8">%s</h3>'
+                    % html.escape(block["label"]))
+        if block.get("desc"):
+            body.append('<p style="color:#6b7280;font-size:12px;margin:0 0 10px">%s</p>'
+                        % html.escape(block["desc"]))
+        for idx, item in enumerate(items, 1):
+            body.append('<h4 style="margin:16px 0 6px;font-size:16px;line-height:1.5">%d. %s</h4>'
+                        % (idx, html.escape(item.get("title_zh") or item["title"])))
+            if item["image"]:
+                body.append('<p style="margin:0 0 8px"><img src="%s" alt="" '
+                            'style="max-width:100%%;border-radius:6px"/></p>'
+                            % html.escape(item["image"], quote=True))
+            summary = item.get("summary_zh") or item["summary"] or ""
+            if summary:
+                body.append('<p style="line-height:1.75;margin:0 0 6px">%s</p>'
+                            % html.escape(summary))
+            body.append('<p style="color:#9ca3af;font-size:12px;margin:0 0 4px">来源：%s · %s</p>'
+                        % (html.escape(item["source"]), html.escape(item["title"])))
+            body.append('<p style="margin:0 0 4px"><a href="%s">阅读原文 / Read original</a></p>'
+                        % html.escape(item["link"], quote=True))
+
+    first_img = ""
+    for block in blocks:
+        for item in block["items"]:
+            if item["image"]:
+                first_img = item["image"]
+                break
+        if first_img:
+            break
+
+    total = sum(len(b["items"]) for b in blocks)
+    out = ['<?xml version="1.0" encoding="UTF-8"?>',
+           '<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" '
+           'xmlns:media="http://search.yahoo.com/mrss/" '
+           'xmlns:dc="http://purl.org/dc/elements/1.1/">',
+           "<channel>",
+           "<title>INTENT Daily CN · %s</title>" % html.escape(PRODUCT_NAME),
+           "<link>%s</link>" % html.escape(bf.SITE),
+           '<atom:link href="%s" rel="self" type="application/rss+xml"/>' % html.escape(bf.FEED_URL),
+           "<description><![CDATA[每日北京时间 07:35 自动更新，每期一条，内含当天国际要闻"
+           "（BBC News / CNN / VOA / NBC）与 AI 研究动态（OpenAI Research / Google DeepMind / "
+           "Anthropic / arXiv）的中文摘要。]]></description>",
+           "<language>zh-CN</language>",
+           "<lastBuildDate>%s</lastBuildDate>" % bf.format_datetime(now),
+           "<generator>INTENT Daily CN</generator>", "<ttl>60</ttl>",
+           "<item>",
+           "<title>%s · %s｜%d 条要闻</title>" % (html.escape(PRODUCT_NAME), day, total),
+           "<link>%s</link>" % html.escape(bf.FEED_URL),
+           '<guid isPermaLink="false">%s#%s</guid>' % (html.escape(bf.FEED_URL), day),
+           "<description>%s</description>" % bf.cdata("\n".join(body)),
+           "<pubDate>%s</pubDate>" % bf.format_datetime(now),
+           "<dc:source>BBC News / CNN / VOA / NBC</dc:source>",
+           "<category>%s</category>" % html.escape(PRODUCT_NAME)]
+    if first_img:
+        out += ['<media:content url="%s" medium="image"/>' % html.escape(first_img, quote=True),
+                '<media:thumbnail url="%s"/>' % html.escape(first_img, quote=True)]
+    out += ["</item>", "</channel>", "</rss>"]
+    return "\n".join(out)
 
 
 bf.build_rss, bf.build_md = build_rss, build_md

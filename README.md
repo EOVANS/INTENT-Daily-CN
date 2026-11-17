@@ -2,7 +2,7 @@
 
 **每日新闻**的中文 RSS 订阅源：每天北京时间 **07:35** 自动抓取整理，GitHub Actions 全自动构建。
 
-- **RSS 地址**：`https://raw.githubusercontent.com/EOVANS/INTENT-Daily-CN/main/docs/feed.xml`
+- **RSS 地址**（每天一条，内含当天全部要闻摘要）：`https://raw.githubusercontent.com/EOVANS/INTENT-Daily-CN/main/docs/feed.xml`
 - **Markdown 版**：`https://raw.githubusercontent.com/EOVANS/INTENT-Daily-CN/main/docs/latest.md`
 - **月度回顾**：`https://raw.githubusercontent.com/EOVANS/INTENT-Daily-CN/main/docs/monthly/latest.md`
 
@@ -14,6 +14,8 @@
 | --- | --- | --- | --- |
 | 一、国际要闻 | BBC News / CNN / VOA / NBC | 过去约 24 小时 | 最多 8 条，按重要性降序 |
 | 二、AI 研究动态 | OpenAI Research / Google DeepMind / Anthropic / arXiv cs.AI | 过去约 21 天 | 最多 5 条 |
+
+RSS 每期只出一条：标题为「每日新闻 · 日期｜N 条要闻」，正文里按序号依次给出标题、配图、摘要、来源与原文链接。
 
 国际要闻板块严格限定四家英文媒体（CNN 的 feed 不带日期，按最新稿计分；VOA 官方接口常被拦截，走 Google News 站内检索兜底，仍只取 voanews.com 的文章）。
 
@@ -29,12 +31,12 @@
 4. 关键词权重 + 时效性 + 是否带图 计算重要性得分，降序排列。
 5. 单源条数上限，并对「有候选却未进榜」的来源做覆盖保底，保证 BBC / CNN / VOA / NBC 都有露出。
 6. 标题与摘要译为中文（clients5 → gtx → MyMemory 三级回退，全失败则保留英文，流水线不中断）。
-7. 输出 RSS 2.0（含 `media:content` 配图）、Markdown 摘要、HTML 预览页、JSON 数据。
+7. 打包成单条 RSS item（HTML 描述，含配图）+ Markdown 摘要 + HTML 预览页 + JSON 数据。
 
 ## 产物
 
 ```
-docs/feed.xml              # RSS 订阅源（主产物）
+docs/feed.xml              # RSS 订阅源（每天一条，主产物）
 docs/latest.md             # 最新一期 Markdown
 docs/latest.json           # 结构化数据（含得分、原文标题、配图）
 docs/status.json           # 最近一次构建的诊断信息（每源条数、翻译成功率、错误堆栈）
