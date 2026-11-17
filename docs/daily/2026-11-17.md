@@ -1,6 +1,6 @@
 # INTENT Daily CN · 每日国际要闻
 
-> **日期**：2026-11-17（北京时间）｜**生成**：15:57｜每日 07:35 自动更新
+> **日期**：2026-11-17（北京时间）｜**生成**：16:01｜每日 07:35 自动更新
 > **RSS 订阅**：<https://raw.githubusercontent.com/EOVANS/INTENT-Daily-CN/main/docs/feed.xml>
 
 ## 一、国际要闻（BBC / CNN / VOA / NBC）
@@ -144,8 +144,8 @@ Worse Together: How Performance Breaks Down in Multi-User Multi-Agent Teams Anth
 | VOA | 0 |
 | NBC | 3 |
 | OpenAI Research | 69 |
-| Google DeepMind | 8 |
-| Anthropic | 17 |
+| Google DeepMind | 11 |
+| Anthropic | 16 |
 | arXiv cs.AI | 276 |
 
 > 由 GitHub Actions 自动生成，请勿手工编辑。

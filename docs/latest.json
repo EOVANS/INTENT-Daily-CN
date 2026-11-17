@@ -1,6 +1,6 @@
 {
   "date": "2026-11-17",
-  "generated_at": "2026-11-17T15:57:17.779495+08:00",
+  "generated_at": "2026-11-17T16:01:49.815266+08:00",
   "rss": "https://raw.githubusercontent.com/EOVANS/INTENT-Daily-CN/main/docs/feed.xml",
   "markdown": "https://raw.githubusercontent.com/EOVANS/INTENT-Daily-CN/main/docs/latest.md",
   "blocks": [
@@ -16,7 +16,7 @@
           "url": "https://www.bbc.co.uk/news/articles/c8y5x3n4kywpo?at_medium=RSS&at_campaign=rss",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e2e5/live/66487e80-e1a0-11f1-902c-ad301cbf1208.jpg",
           "published": "2026-11-16T10:57:48+00:00",
-          "score": 13.13
+          "score": 13.12
         },
         {
           "rank": 2,
@@ -38,7 +38,7 @@
           "url": "https://www.bbc.co.uk/news/articles/c30rk8x5g80qo?at_medium=RSS&at_campaign=rss",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ba46/live/5efa38d0-df84-11f1-a701-fddedf244c16.png",
           "published": "2026-11-17T05:59:01+00:00",
-          "score": 9.92
+          "score": 9.91
         },
         {
           "rank": 4,
@@ -49,7 +49,7 @@
           "url": "https://www.bbc.co.uk/news/articles/c5n4exg1kkmyo?at_medium=RSS&at_campaign=rss",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f4ce/live/59eafa00-e1c3-11f1-8a52-0b287ff76f43.jpg",
           "published": "2026-11-16T20:33:57+00:00",
-          "score": 9.53
+          "score": 9.52
         },
         {
           "rank": 5,
@@ -98,7 +98,7 @@
           "url": "https://arxiv.org/abs/2611.18359",
           "image": "",
           "published": "2026-11-17T00:00:00-05:00",
-          "score": 23.7
+          "score": 23.69
         },
         {
           "rank": 2,
@@ -109,7 +109,7 @@
           "url": "https://arxiv.org/abs/2610.00890",
           "image": "",
           "published": "2026-11-17T00:00:00-05:00",
-          "score": 19.45
+          "score": 19.44
         },
         {
           "rank": 3,
@@ -153,8 +153,8 @@
     "VOA": 0,
     "NBC": 3,
     "OpenAI Research": 69,
-    "Google DeepMind": 8,
-    "Anthropic": 17,
+    "Google DeepMind": 11,
+    "Anthropic": 16,
     "arXiv cs.AI": 276
   }
 }
