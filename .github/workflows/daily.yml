@@ -41,6 +41,7 @@ jobs:
         run: python scripts/pipeline.py
 
       - name: Commit generated feed
+        if: always()
         run: |
           git config user.name "INTENT Daily CN Bot"
           git config user.email "actions@users.noreply.github.com"
