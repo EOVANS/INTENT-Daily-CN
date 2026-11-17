@@ -1,0 +1,60 @@
+name: Monthly Review
+
+on:
+  schedule:
+    # 28-31 日 23:35 UTC 尝试触发；仅当北京时间是 1 号时真正构建
+    - cron: "35 23 28-31 * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - "scripts/monthly.py"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: monthly-review
+  cancel-in-progress: false
+
+jobs:
+  review:
+    if: github.actor != 'github-actions[bot]'
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Check if it is the 1st (Asia/Shanghai)
+        id: gate
+        run: |
+          if [ "$(TZ=Asia/Shanghai date +%d)" = "01" ] || [ "${{ github.event_name }}" = "workflow_dispatch" ] || [ "${{ github.event_name }}" = "push" ]; then
+            echo "run=yes" >> "$GITHUB_OUTPUT"
+          else
+            echo "run=no" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Build monthly review
+        if: steps.gate.outputs.run == 'yes'
+        env:
+          MONTH_WINDOW_DAYS: "32"
+          MONTH_TOP_N: "10"
+          MONTH_CAT_CAP: "4"
+        run: python scripts/monthly.py
+
+      - name: Commit monthly review
+        if: steps.gate.outputs.run == 'yes'
+        run: |
+          git config user.name "INTENT Daily CN Bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add docs/monthly
+          if git diff --cached --quiet; then
+            echo "no changes"
+          else
+            git commit -m "monthly: $(TZ=Asia/Shanghai date +%Y-%m) 月度重大事件回顾"
+            git push
+          fi

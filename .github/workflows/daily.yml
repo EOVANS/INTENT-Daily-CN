@@ -32,17 +32,13 @@ jobs:
         with:
           python-version: "3.12"
 
-      - name: Diagnose sources
-        continue-on-error: true
-        run: python scripts/diagnose.py
-
-      - name: Build feed
+      - name: Build daily feed
         env:
           NEWS_WINDOW_HOURS: "26"
           AI_WINDOW_HOURS: "504"
           NEWS_TOP_N: "8"
           AI_TOP_N: "5"
-        run: python scripts/build_feed.py
+        run: python scripts/pipeline.py
 
       - name: Commit generated feed
         run: |
