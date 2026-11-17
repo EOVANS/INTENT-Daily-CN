@@ -1,6 +1,6 @@
 {
   "date": "2026-11-17",
-  "generated_at": "2026-11-17T16:39:08.030211+08:00",
+  "generated_at": "2026-11-17T16:40:39.633987+08:00",
   "rss": "https://raw.githubusercontent.com/EOVANS/INTENT-Daily-CN/main/docs/feed.xml",
   "markdown": "https://raw.githubusercontent.com/EOVANS/INTENT-Daily-CN/main/docs/latest.md",
   "blocks": [
@@ -9,17 +9,6 @@
       "items": [
         {
           "rank": 1,
-          "source": "NBC",
-          "title_zh": "万斯表示，他和特朗普在伊朗战争问题上“没有任何分歧”",
-          "title_en": "Vance says there’s ‘no daylight’ between him and Trump on the war in Iran",
-          "summary_zh": "JD万斯周一表示，他和唐纳德·特朗普总统在伊朗战争问题上完全一致，此前副总统本月将共和党在中期选举中的选举失败归因于选民的挫败感",
-          "url": "https://www.nbcnews.com/politics/jd-vance/vance-says-no-daylight-trump-iran-war-rcna609681",
-          "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-11/261116-jd-vance-sjr-1542-2d6453.jpg",
-          "published": "2026-11-17T02:59:31+00:00",
-          "score": 17.44
-        },
-        {
-          "rank": 2,
           "source": "BBC News",
           "title_zh": "南非发生两起大规模枪击事件 造成17人死亡",
           "title_en": "Two mass shootings in South Africa leave 17 dead",
@@ -30,7 +19,7 @@
           "score": 13.1
         },
         {
-          "rank": 3,
+          "rank": 2,
           "source": "BBC News",
           "title_zh": "克里米亚大桥因乌克兰罢工而关闭，俄罗斯袭击基辅过境点",
           "title_en": "Crimea bridge shut after reported Ukrainian strike, as Russia hits Kyiv crossings",
@@ -41,7 +30,7 @@
           "score": 9.98
         },
         {
-          "rank": 4,
+          "rank": 3,
           "source": "BBC News",
           "title_zh": "乌克兰指责俄罗斯在“双击”袭击造成72人死亡后将救援行动作为目标",
           "title_en": "Ukraine accuses Russia of targeting rescue operation after 'double-tap' strike kills 72",
@@ -52,7 +41,7 @@
           "score": 9.89
         },
         {
-          "rank": 5,
+          "rank": 4,
           "source": "BBC News",
           "title_zh": "法医专家表示，他对尸检照片的分析表明爱泼斯坦被杀",
           "title_en": "Forensic expert says his analysis of autopsy photos suggests Epstein was killed",
@@ -63,37 +52,48 @@
           "score": 9.5
         },
         {
+          "rank": 5,
+          "source": "VOA",
+          "title_zh": "美国与九个合作伙伴在特习会前签署 SI 供应链协议 - 美国之音",
+          "title_en": "US, nine partners sign SI supply chain accord ahead of Trump-Xi meeting - Voice of America English News",
+          "summary_zh": "美国与九个合作伙伴在特习会之前签署 SI 供应链协议",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOUHlVajNkY2FXdEl2b3o1ZEFaajdoZ0xiSUdsOS00SzBqVU5ZaEY1X3dHSV95Q0VoRmlVT2NzcmtZcUpJelRyV2RYLVVQMlRRc1BIQTRJbFpRYkJ5STZZNFNXbThLX2lQa195SlQzUk1JM3o5RnlmOGtCR2p4QU94NGViMmRYVEtnSHhaZXdwYjRpdzYybmxDczEzTmlnZjFTUUdiaktzcGpIeU9fYWZjWkIzQnJid214TGfSAbwBQVVfeXFMTWhLdXdvcHJwbDZWYTNNWGkxXy1qSVpsYXBPTEdEMUZNZlRHOGloeEhEbmVnTTV1Z1pMV2FaLXc5WGdkbGdYS1VhQm1nc0tJdGFVQUxDdF8tamFZbHZrVF9TRkJsbHlTeXpGbWt2T0gzTHB1by14OTFEdVA2eHhsTHkwemtOSkNfOWVYQzM0Qkc1eE5kN2xuSEZhSDB5NW1ZTlJ2MlVEdWFRQ1JxWEFDSDg3Ym9DeklyY1JfTE8?oc=5",
+          "image": "",
+          "published": "2026-11-16T21:15:16+00:00",
+          "score": 5.87
+        },
+        {
           "rank": 6,
           "source": "NBC",
-          "title_zh": "加州因流氓黑客事件起诉 ChatGPT 制造商 OpenAI",
-          "title_en": "California sues ChatGPT maker OpenAI over rogue hacking incidents",
-          "summary_zh": "加州总检察长 Rob Bonta 周一对 OpenAI 提起了全面诉讼，指控这家科技巨头创建的人工智能模型“没有提供必要的保障和监控，从而危及公共安全”。",
-          "url": "https://www.nbcnews.com/tech/tech-news/california-sues-chatgpt-maker-openai-rogue-hacking-incidents-rcna609596",
-          "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-09/260922-openai-mn-1535-07d0e7.jpg",
-          "published": "2026-11-16T18:52:09+00:00",
-          "score": 8.58
+          "title_zh": "150万人聚集在一起为教皇利奥送行，结束了为期12天的历史性南美之旅",
+          "title_en": "1.5 million gather for Pope Leo's send-off, closing out a historic 12-day trip to South America",
+          "summary_zh": "150 万人聚集在秘鲁利马为教皇利奥送行，结束了为期 12 天的历史性南美之旅。泰勒蒙多的豪尔赫·德圣地亚哥讨论了教宗留给南美天主教徒的信息。",
+          "url": "https://www.nbcnews.com/video/1-5-million-gather-for-pope-leo-s-send-off-closing-out-a-historic-12-day-trip-to-south-america-273610309517",
+          "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_11/1794871674775_now_hallie_jde_pope_leo_south_america_261116_S3_1920x1080-shthjy.jpg",
+          "published": "2026-11-16T23:28:00+00:00",
+          "score": 4.25
         },
         {
           "rank": 7,
           "source": "NBC",
-          "title_zh": "华盛顿特区健身房枪击事件的受害者之一是一名枪支管制活动人士",
-          "title_en": "One of the victims of the Washington, D.C., gym shooting is a gun control activist",
-          "summary_zh": "女儿周一表示，上周华盛顿特区枪击事件中受伤的人之一是来自明尼苏达州的反枪支活动人士，当时她正在遛狗。",
-          "url": "https://www.nbcnews.com/news/us-news/victim-washington-dc-gym-shooting-gun-control-activist-rcna609705",
-          "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-11/261116-Susan-Thurston-Hamerski-vsb-1927-ce3323.jpg",
-          "published": "2026-11-16T23:47:54+00:00",
-          "score": 7.87
+          "title_zh": "英国当局正在调查拉塞尔·布兰德在监狱中发出的信息是否违反规定",
+          "title_en": "U.K. authorities investigating if Russell Brand's message from prison violates rules",
+          "summary_zh": "英国当局正在调查拉塞尔·布兰德在监狱中写下并由他的妻子通过视频发表的声明是否违反了禁止囚犯发表可能引起不安的言论的规定。",
+          "url": "https://www.nbcnews.com/video/u-k-authorities-investigating-if-russell-brand-s-message-from-prison-violates-rules-273585221856",
+          "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_11/1794848524479_now_current_brand_message_prison_261116_S3_1920x1080-28b21t.jpg",
+          "published": "2026-11-16T17:02:09+00:00",
+          "score": 4.01
         },
         {
           "rank": 8,
-          "source": "NBC",
-          "title_zh": "加州救生员畅谈大胆救援",
-          "title_en": "California lifeguard speaks out about daring rescue",
-          "summary_zh": "新视频显示 29 岁的救生员 Griffin Houldin 冲入危险的海浪中拯救一名游泳者。霍丁与 10 到 15 英尺高的海浪作斗争，将他推向悬崖。 NBC 新闻的 Liz Kreutz 今天与他进行了交谈。",
-          "url": "https://www.nbcnews.com/nightly-news/video/california-lifeguard-speaks-out-about-daring-rescue-273613381734",
-          "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_11/1794874990473_nn_lkr_daringrescue_261116_S3_1920x1080-ithox8.jpg",
-          "published": "2026-11-17T00:23:15+00:00",
-          "score": 7.44
+          "source": "CNN",
+          "title_zh": "2024 年之前 0% 的介绍年利率是 100% 疯狂的",
+          "title_en": "0% intro APR until 2024 is 100% insane",
+          "summary_zh": "",
+          "url": "https://www.fool.com/the-ascent/credit-cards/landing/wells-fargo-reflect-review/?utm_site=theascent&utm_campaign=ta-cc-co-cnn-welref2-ron-5-hp-sfpb&utm_medium=cpc&utm_source=cnn",
+          "image": "",
+          "published": "2026-11-17T16:40:39.633987+08:00",
+          "score": 4.0
         }
       ]
     },
@@ -116,7 +116,7 @@
           "source": "arXiv cs.AI",
           "title_zh": "逻辑链断点：开放权重语言模型中推理退化的受控变量基准",
           "title_en": "The Logic Chain Breaking Point: A Controlled-Variable Benchmark for Reasoning Degradation in Open-Weight Language Models",
-          "summary_zh": "arXiv:2611.20447v1 公告类型：新 摘要：我们介绍了逻辑链断点，这是一种用于开放权重语言模型中演绎推理的受控变量基准。它跨越三个阶段：(i) 纯粹的 modus-p",
+          "summary_zh": "arXiv:2611.20447v1 公告类型：新 摘要：我们介绍了逻辑链断点，这是一种用于开放权重语言模型中演绎推理的受控变量基准。它跨越三个阶段：(i) 纯 modus-p",
           "url": "https://arxiv.org/abs/2611.20447",
           "image": "",
           "published": "2026-11-17T00:00:00-05:00",
@@ -159,12 +159,12 @@
     }
   ],
   "source_counts": {
-    "BBC News": 38,
+    "BBC News": 19,
     "CNN": 4,
     "VOA": 4,
-    "NBC": 27,
-    "OpenAI Research": 138,
-    "Google DeepMind": 11,
+    "NBC": 3,
+    "OpenAI Research": 69,
+    "Google DeepMind": 8,
     "Anthropic": 16,
     "arXiv cs.AI": 717
   }
