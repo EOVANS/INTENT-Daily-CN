@@ -188,6 +188,21 @@ bf.fetch = fetch
 bf.translate = translate
 bf.collect = collect
 
+# 产品名统一为「每日新闻」（覆盖 build_feed 里写死的中文标题）
+PRODUCT_NAME = "每日新闻"
+_orig_rss, _orig_md = bf.build_rss, bf.build_md
+
+
+def build_rss(blocks, now):
+    return _orig_rss(blocks, now).replace("每日国际要闻 + AI 研究动态", PRODUCT_NAME)
+
+
+def build_md(blocks, now, today, stats):
+    return _orig_md(blocks, now, today, stats).replace("每日国际要闻", PRODUCT_NAME)
+
+
+bf.build_rss, bf.build_md = build_rss, build_md
+
 rc = 1
 try:
     rc = bf.main() or 0
