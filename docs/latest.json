@@ -1,6 +1,6 @@
 {
   "date": "2026-11-17",
-  "generated_at": "2026-11-17T15:54:28.981156+08:00",
+  "generated_at": "2026-11-17T15:57:17.779495+08:00",
   "rss": "https://raw.githubusercontent.com/EOVANS/INTENT-Daily-CN/main/docs/feed.xml",
   "markdown": "https://raw.githubusercontent.com/EOVANS/INTENT-Daily-CN/main/docs/latest.md",
   "blocks": [
@@ -21,13 +21,13 @@
         {
           "rank": 2,
           "source": "BBC News",
-          "title_zh": "Ukraine and Russia trade strikes on key bridges",
-          "title_en": "Ukraine and Russia trade strikes on key bridges",
-          "summary_zh": "A bridge linking Crimea and Russia has reportedly been damaged, while two major routes through Kyiv are closed.",
+          "title_zh": "Crimea bridge shut after reported Ukrainian strike, as Russia hits Kyiv crossings",
+          "title_en": "Crimea bridge shut after reported Ukrainian strike, as Russia hits Kyiv crossings",
+          "summary_zh": "The bridge linking Crimea and Russia has reportedly sustained major damage, while two routes through Kyiv are closed.",
           "url": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ef42/live/91d5bfa0-e258-11f1-8199-439bbe0918ee.jpg",
-          "published": "2026-11-17T07:30:43+00:00",
-          "score": 9.98
+          "published": "2026-11-17T07:55:32+00:00",
+          "score": 10.0
         },
         {
           "rank": 3,
@@ -82,7 +82,7 @@
           "url": "https://www.nbcnews.com/world/the-vatican/pope-leo-south-america-tour-uruguay-argentina-peru-milei-fujimori-rcna608513",
           "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-11/261116-pope-mb-1100-38c7ce.jpg",
           "published": "2026-11-16T16:02:33+00:00",
-          "score": 4.01
+          "score": 4.0
         }
       ]
     },
@@ -153,7 +153,7 @@
     "VOA": 0,
     "NBC": 3,
     "OpenAI Research": 69,
-    "Google DeepMind": 11,
+    "Google DeepMind": 8,
     "Anthropic": 17,
     "arXiv cs.AI": 276
   }

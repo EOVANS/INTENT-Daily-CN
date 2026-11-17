@@ -6,7 +6,7 @@
 <atom:link href="https://raw.githubusercontent.com/EOVANS/INTENT-Daily-CN/main/docs/feed.xml" rel="self" type="application/rss+xml"/>
 <description><![CDATA[每日北京时间 07:35 自动更新。板块一：BBC News / CNN / VOA / NBC 国际要闻；板块二：OpenAI Research / Google DeepMind / Anthropic / arXiv 的 AI 研究动态。]]></description>
 <language>zh-CN</language>
-<lastBuildDate>Tue, 17 Nov 2026 15:54:28 +0800</lastBuildDate>
+<lastBuildDate>Tue, 17 Nov 2026 15:57:17 +0800</lastBuildDate>
 <generator>INTENT Daily CN</generator>
 <ttl>60</ttl>
 <item>
@@ -22,11 +22,11 @@
 <media:thumbnail url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e2e5/live/66487e80-e1a0-11f1-902c-ad301cbf1208.jpg"/>
 </item>
 <item>
-<title>【BBC News】Ukraine and Russia trade strikes on key bridges</title>
+<title>【BBC News】Crimea bridge shut after reported Ukrainian strike, as Russia hits Kyiv crossings</title>
 <link>https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&amp;at_campaign=rss</link>
 <guid isPermaLink="true">https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&amp;at_campaign=rss</guid>
-<description><![CDATA[<p><img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ef42/live/91d5bfa0-e258-11f1-8199-439bbe0918ee.jpg" alt="" style="max-width:100%;border-radius:6px"/></p><p>A bridge linking Crimea and Russia has reportedly been damaged, while two major routes through Kyiv are closed.</p><p style="color:#9ca3af;font-size:12px">来源：BBC News · Ukraine and Russia trade strikes on key bridges</p><p><a href="https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&amp;at_campaign=rss">阅读原文 / Read original</a></p>]]></description>
-<pubDate>Tue, 17 Nov 2026 07:30:43 +0000</pubDate>
+<description><![CDATA[<p><img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ef42/live/91d5bfa0-e258-11f1-8199-439bbe0918ee.jpg" alt="" style="max-width:100%;border-radius:6px"/></p><p>The bridge linking Crimea and Russia has reportedly sustained major damage, while two routes through Kyiv are closed.</p><p style="color:#9ca3af;font-size:12px">来源：BBC News · Crimea bridge shut after reported Ukrainian strike, as Russia hits Kyiv crossings</p><p><a href="https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&amp;at_campaign=rss">阅读原文 / Read original</a></p>]]></description>
+<pubDate>Tue, 17 Nov 2026 07:55:32 +0000</pubDate>
 <dc:source>BBC News</dc:source>
 <category>一、国际要闻（BBC / CNN / VOA / NBC）</category>
 <category>BBC News</category>

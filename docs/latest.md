@@ -1,6 +1,6 @@
 # INTENT Daily CN · 每日国际要闻
 
-> **日期**：2026-11-17（北京时间）｜**生成**：15:54｜每日 07:35 自动更新
+> **日期**：2026-11-17（北京时间）｜**生成**：15:57｜每日 07:35 自动更新
 > **RSS 订阅**：<https://raw.githubusercontent.com/EOVANS/INTENT-Daily-CN/main/docs/feed.xml>
 
 ## 一、国际要闻（BBC / CNN / VOA / NBC）
@@ -18,15 +18,15 @@ The shootings in KwaZulu-Natal and Gauteng highlight South Africa's struggle to 
 - **发布时间**：2026-11-16 18:57
 - **原文链接**：<https://www.bbc.co.uk/news/articles/c8y5x3n4kywpo?at_medium=RSS&at_campaign=rss>
 
-### 2. Ukraine and Russia trade strikes on key bridges
+### 2. Crimea bridge shut after reported Ukrainian strike, as Russia hits Kyiv crossings
 
-A bridge linking Crimea and Russia has reportedly been damaged, while two major routes through Kyiv are closed.
+The bridge linking Crimea and Russia has reportedly sustained major damage, while two routes through Kyiv are closed.
 
 ![BBC News](https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ef42/live/91d5bfa0-e258-11f1-8199-439bbe0918ee.jpg)
 
 - **来源**：BBC News
-- **原文标题**：Ukraine and Russia trade strikes on key bridges
-- **发布时间**：2026-11-17 15:30
+- **原文标题**：Crimea bridge shut after reported Ukrainian strike, as Russia hits Kyiv crossings
+- **发布时间**：2026-11-17 15:55
 - **原文链接**：<https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss>
 
 ### 3. Ukraine accuses Russia of targeting rescue operation after 'double-tap' strike kills 72
@@ -144,7 +144,7 @@ Worse Together: How Performance Breaks Down in Multi-User Multi-Agent Teams Anth
 | VOA | 0 |
 | NBC | 3 |
 | OpenAI Research | 69 |
-| Google DeepMind | 11 |
+| Google DeepMind | 8 |
 | Anthropic | 17 |
 | arXiv cs.AI | 276 |
 
