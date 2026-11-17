@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""流水线包装：可观测性 + 多供应商翻译链
+"""流水线包装：可观测性 + 多供应商翻译 + 更稳的收录逻辑
 
 任何异常都会写进 docs/status.json（含 traceback 尾部），保证失败可诊断。
 """
@@ -14,13 +14,17 @@ import traceback
 import urllib.parse
 import urllib.request
 import xml.etree.ElementTree as ET
+from datetime import timedelta
 
 spec = importlib.util.spec_from_file_location("bf", "scripts/build_feed.py")
 bf = importlib.util.module_from_spec(spec)
 spec.loader.exec_module(bf)
 
 STATUS = {"started": time.strftime("%Y-%m-%dT%H:%M:%S%z"), "feeds": {}, "translate": {},
-          "translate_provider": None, "error": None}
+          "translate_provider": None, "sources": {}, "error": None}
+
+# VOA 官方 RSS 在数据中心 IP 上常被拦截，强制走 Google News 兜底
+bf.NEWS_SOURCES["VOA"]["google"] = True
 
 _orig_fetch = bf.fetch
 
@@ -52,11 +56,10 @@ def _get(url):
 def p_gtx(text):
     url = ("https://translate.googleapis.com/translate_a/single"
            "?client=gtx&sl=en&tl=zh-CN&dt=t&q=" + urllib.parse.quote(text[:420]))
-    body = _get(url)
-    data = json.loads(body)
+    data = json.loads(_get(url))
     if isinstance(data, list):
         return "".join(seg[0] for seg in data[0] if seg and seg[0]).strip()
-    raise ValueError("unexpected shape: %s" % body[:80])
+    raise ValueError("unexpected shape")
 
 
 def p_clients5(text):
@@ -77,12 +80,11 @@ def p_mymemory(text):
     data = json.loads(_get(url))
     out = ((data.get("responseData") or {}).get("translatedText") or "").strip()
     if not out:
-        raise ValueError("empty translatedText %s"
-                         % str(data.get("responseStatus"))[:40])
+        raise ValueError("empty translatedText")
     return out
 
 
-PROVIDERS = [("google-gtx", p_gtx), ("google-clients5", p_clients5), ("mymemory", p_mymemory)]
+PROVIDERS = [("google-clients5", p_clients5), ("google-gtx", p_gtx), ("mymemory", p_mymemory)]
 _tr = {}
 
 
@@ -109,8 +111,54 @@ def translate(text):
     return text
 
 
+def collect(now, sources, window_h, keywords, per_source_cap):
+    """比内置版更宽：直连 feed -> 窗口内条目不足时补 Google News -> 仍不足才用无日期条目"""
+    cutoff = now - timedelta(hours=window_h)
+    pool, counts = [], {}
+    for source, cfg in sources.items():
+        raw_items = []
+        for feed in cfg["feeds"]:
+            raw_items += bf.parse_feed(fetch(feed), source)
+        inwin = [i for i in raw_items if i["published"] and i["published"] >= cutoff]
+        from_google = 0
+        if len(inwin) < 3 and cfg.get("google"):
+            extra = bf.parse_feed(fetch(bf.GOOGLE % cfg["domain"]), source)
+            extra = [i for i in extra if i["published"] and i["published"] >= cutoff]
+            from_google = len(extra)
+            raw_items += extra
+            inwin = [i for i in raw_items if i["published"] and i["published"] >= cutoff]
+        undated = [i for i in raw_items if not i["published"]][:4]
+        used = inwin if len(inwin) >= 3 else inwin + undated
+        counts[source] = len(used)
+        STATUS["sources"][source] = {"raw": len(raw_items), "in_window": len(inwin),
+                                     "from_google": from_google, "undated": len(undated),
+                                     "used": len(used)}
+        pool += used
+
+    seen_t, seen_u, unique = set(), set(), []
+    for item in pool:
+        key_t, key_u = bf.norm(item["title"]), item["link"].split("?")[0]
+        if key_t in seen_t or key_u in seen_u:
+            continue
+        seen_t.add(key_t)
+        seen_u.add(key_u)
+        item["score"] = bf.score_item(item, now, keywords)
+        unique.append(item)
+
+    unique.sort(key=lambda x: x["score"], reverse=True)
+    chosen, used_count = [], {}
+    for item in unique:
+        src = item["source"]
+        if used_count.get(src, 0) >= per_source_cap:
+            continue
+        chosen.append(item)
+        used_count[src] = used_count.get(src, 0) + 1
+    return chosen, counts
+
+
 bf.fetch = fetch
 bf.translate = translate
+bf.collect = collect
 
 rc = 1
 try:
