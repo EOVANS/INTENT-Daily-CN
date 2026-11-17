@@ -6,7 +6,7 @@
 <atom:link href="https://raw.githubusercontent.com/EOVANS/INTENT-Daily-CN/main/docs/feed.xml" rel="self" type="application/rss+xml"/>
 <description><![CDATA[每日北京时间 07:35 自动更新。板块一：BBC News / CNN / VOA / NBC 国际要闻；板块二：OpenAI Research / Google DeepMind / Anthropic / arXiv 的 AI 研究动态。]]></description>
 <language>zh-CN</language>
-<lastBuildDate>Tue, 17 Nov 2026 16:31:36 +0800</lastBuildDate>
+<lastBuildDate>Tue, 17 Nov 2026 16:34:52 +0800</lastBuildDate>
 <generator>INTENT Daily CN</generator>
 <ttl>60</ttl>
 <item>

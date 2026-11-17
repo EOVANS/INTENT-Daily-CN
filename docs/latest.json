@@ -1,6 +1,6 @@
 {
   "date": "2026-11-17",
-  "generated_at": "2026-11-17T16:31:36.150179+08:00",
+  "generated_at": "2026-11-17T16:34:52.075856+08:00",
   "rss": "https://raw.githubusercontent.com/EOVANS/INTENT-Daily-CN/main/docs/feed.xml",
   "markdown": "https://raw.githubusercontent.com/EOVANS/INTENT-Daily-CN/main/docs/latest.md",
   "blocks": [
@@ -109,7 +109,7 @@
           "url": "https://arxiv.org/abs/2611.19871",
           "image": "",
           "published": "2026-11-17T00:00:00-05:00",
-          "score": 22.83
+          "score": 22.82
         },
         {
           "rank": 2,
@@ -120,7 +120,7 @@
           "url": "https://arxiv.org/abs/2611.20447",
           "image": "",
           "published": "2026-11-17T00:00:00-05:00",
-          "score": 21.98
+          "score": 21.97
         },
         {
           "rank": 3,
@@ -164,7 +164,7 @@
     "VOA": 4,
     "NBC": 27,
     "OpenAI Research": 138,
-    "Google DeepMind": 8,
+    "Google DeepMind": 22,
     "Anthropic": 16,
     "arXiv cs.AI": 717
   }

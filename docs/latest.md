@@ -1,6 +1,6 @@
 # INTENT Daily CN · 每日国际要闻
 
-> **日期**：2026-11-17（北京时间）｜**生成**：16:31｜每日 07:35 自动更新
+> **日期**：2026-11-17（北京时间）｜**生成**：16:34｜每日 07:35 自动更新
 > **RSS 订阅**：<https://raw.githubusercontent.com/EOVANS/INTENT-Daily-CN/main/docs/feed.xml>
 
 ## 一、国际要闻（BBC / CNN / VOA / NBC）
@@ -155,7 +155,7 @@ OpenAI 使用分层监控来检测前沿模型错位和未经授权的代理行�
 | VOA | 4 |
 | NBC | 27 |
 | OpenAI Research | 138 |
-| Google DeepMind | 8 |
+| Google DeepMind | 22 |
 | Anthropic | 16 |
 | arXiv cs.AI | 717 |
 
