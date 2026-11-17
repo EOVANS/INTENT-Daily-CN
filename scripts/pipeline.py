@@ -158,6 +158,7 @@ def collect(now, sources, window_h, keywords, per_source_cap):
 
     # 覆盖保底：有候选却没进榜的来源，用它的最佳一条替换超额来源里最弱的一条
     have = {i["source"] for i in chosen}
+    floor_items = []
     for source in sources:
         if source in have:
             continue
@@ -169,6 +170,15 @@ def collect(now, sources, window_h, keywords, per_source_cap):
                 chosen.remove(item)
                 break
         chosen.append(best)
+        floor_items.append(best)
+
+    # 保底条目必须活过下游“取前 N”的切片，因此输出恰好 N 条
+    top_n = int(os.environ.get("NEWS_TOP_N" if "BBC News" in sources else "AI_TOP_N", "8"))
+    if floor_items:
+        keep = [i for i in chosen if i not in floor_items]
+        slots = max(top_n - len(floor_items), 0)
+        chosen = keep[:slots] + floor_items
+    chosen = chosen[:top_n]
 
     chosen.sort(key=lambda x: x["score"], reverse=True)
     return chosen, counts
