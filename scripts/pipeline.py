@@ -113,7 +113,9 @@ def translate(text):
     return text
 
 
-JUNK_HOSTS = ("fool.com", "cnn.com/_", "cnnunderscored", "doubleclick", "outbrain", "taboola")
+JUNK_HOSTS = ("fool.com", "lendingtree.com", "nerdwallet.com", "bankrate.com", "capitalone.com",
+             "wellsfargo.com", "ascent", "doubleclick", "outbrain", "taboola",
+             "splitterid=", "csource=", "utm_source=cnn")
 JUNK_TITLE = ("intro apr", "credit card", "click here", "sign up", "episode", "podcast",
               "newsletter", "watch:", "listen:", "how to watch", "live updates",
               "bbc parliament", "questions,")
