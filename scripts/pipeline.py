@@ -27,6 +27,9 @@ STATUS = {"started": time.strftime("%Y-%m-%dT%H:%M:%S%z"), "feeds": {}, "transla
 
 # VOA 官方 RSS 在数据中心 IP 上常被拦截，强制走 Google News 兜底
 bf.NEWS_SOURCES["VOA"]["google"] = True
+# CNN 的 RSS 无 pubDate，前几条全是第三方广告位（lendingtree / fool.com），
+# 无法稳定拿到干净要闻，按用户要求直接剔除该来源
+bf.NEWS_SOURCES.pop("CNN", None)
 
 _orig_fetch = bf.fetch
 
@@ -225,7 +228,9 @@ _orig_rss, _orig_md = bf.build_rss, bf.build_md
 
 
 def build_md(blocks, now, today, stats):
-    return _orig_md(blocks, now, today, stats).replace("每日国际要闻", PRODUCT_NAME)
+    return (_orig_md(blocks, now, today, stats)
+            .replace("每日国际要闻", PRODUCT_NAME)
+            .replace("BBC / CNN / VOA / NBC", "BBC / VOA / NBC"))
 
 
 def build_rss(blocks, now):
@@ -242,8 +247,10 @@ def build_rss(blocks, now):
             body.append('<p style="color:#6b7280;font-size:12px;margin:0 0 10px">%s</p>'
                         % html.escape(block["desc"]))
         for idx, item in enumerate(items, 1):
-            body.append('<h4 style="margin:16px 0 6px;font-size:16px;line-height:1.5">%d. %s</h4>'
-                        % (idx, html.escape(item.get("title_zh") or item["title"])))
+            body.append('<h4 style="margin:16px 0 6px;font-size:16px;line-height:1.5">%d. '
+                        '<a href="%s" style="color:#111827;text-decoration:none">%s</a></h4>'
+                        % (idx, html.escape(item["link"], quote=True),
+                           html.escape(item.get("title_zh") or item["title"])))
             if item["image"]:
                 body.append('<p style="margin:0 0 8px"><img src="%s" alt="" '
                             'style="max-width:100%%;border-radius:6px"/></p>'
@@ -254,8 +261,6 @@ def build_rss(blocks, now):
                             % html.escape(summary))
             body.append('<p style="color:#9ca3af;font-size:12px;margin:0 0 4px">来源：%s · %s</p>'
                         % (html.escape(item["source"]), html.escape(item["title"])))
-            body.append('<p style="margin:0 0 4px"><a href="%s">阅读原文 / Read original</a></p>'
-                        % html.escape(item["link"], quote=True))
 
     first_img = ""
     for block in blocks:
@@ -276,7 +281,7 @@ def build_rss(blocks, now):
            "<link>%s</link>" % html.escape(bf.SITE),
            '<atom:link href="%s" rel="self" type="application/rss+xml"/>' % html.escape(bf.FEED_URL),
            "<description><![CDATA[每日北京时间 07:35 自动更新，每期一条，内含当天国际要闻"
-           "（BBC News / CNN / VOA / NBC）与 AI 研究动态（OpenAI Research / Google DeepMind / "
+           "（BBC News / VOA / NBC）与 AI 研究动态（OpenAI Research / Google DeepMind / "
            "Anthropic / arXiv）的中文摘要。]]></description>",
            "<language>zh-CN</language>",
            "<lastBuildDate>%s</lastBuildDate>" % bf.format_datetime(now),
@@ -287,13 +292,13 @@ def build_rss(blocks, now):
            '<guid isPermaLink="false">%s#%s</guid>' % (html.escape(bf.FEED_URL), day),
            "<description>%s</description>" % bf.cdata("\n".join(body)),
            "<pubDate>%s</pubDate>" % bf.format_datetime(now),
-           "<dc:source>BBC News / CNN / VOA / NBC</dc:source>",
+           "<dc:source>BBC News / VOA / NBC</dc:source>",
            "<category>%s</category>" % html.escape(PRODUCT_NAME)]
     if first_img:
         out += ['<media:content url="%s" medium="image"/>' % html.escape(first_img, quote=True),
                 '<media:thumbnail url="%s"/>' % html.escape(first_img, quote=True)]
     out += ["</item>", "</channel>", "</rss>"]
-    return "\n".join(out)
+    return "\n".join(out).replace("BBC / CNN / VOA / NBC", "BBC / VOA / NBC")
 
 
 bf.build_rss, bf.build_md = build_rss, build_md
