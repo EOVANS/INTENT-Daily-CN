@@ -2,8 +2,12 @@ name: Daily Feed Build
 
 on:
   schedule:
-    # 23:35 UTC = 07:35 Asia/Shanghai (next day)
+    # 23:35 UTC = 07:35 Asia/Shanghai（次日）——主班
     - cron: "35 23 * * *"
+    # 00:35 UTC = 08:35 CST —— 补跑一（GitHub 定时偶发延迟/漏跳）
+    - cron: "35 0 * * *"
+    # 02:35 UTC = 10:35 CST —— 补跑二
+    - cron: "35 2 * * *"
   workflow_dispatch:
   push:
     branches: [main]
@@ -27,12 +31,29 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
+      - name: Guard (skip if today's issue already built)
+        id: guard
+        run: |
+          if [ "${{ github.event_name }}" != "schedule" ]; then
+            echo "skip=false" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+          TODAY=$(TZ=Asia/Shanghai date +%Y-%m-%d)
+          if [ -f "docs/daily/$TODAY.md" ]; then
+            echo "today's issue exists, skip"
+            echo "skip=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "no issue for $TODAY yet, build"
+            echo "skip=false" >> "$GITHUB_OUTPUT"
+          fi
+
       - name: Setup Python
         uses: actions/setup-python@v5
         with:
           python-version: "3.12"
 
       - name: Build daily feed
+        if: steps.guard.outputs.skip != 'true'
         env:
           NEWS_WINDOW_HOURS: "26"
           AI_WINDOW_HOURS: "504"
@@ -49,6 +70,6 @@ jobs:
           if git diff --cached --quiet; then
             echo "no changes to commit"
           else
-            git commit -m "feed: $(TZ=Asia/Shanghai date +%Y-%m-%d) 每日要闻 + AI 研究"
+            git commit -m "feed: $(TZ=Asia/Shanghai date +%Y-%m-%d) 每日新闻 + AI 研究"
             git push
           fi
