@@ -285,15 +285,24 @@ def build_rss(blocks, now):
            "Anthropic / arXiv）的中文摘要。]]></description>",
            "<language>zh-CN</language>",
            "<lastBuildDate>%s</lastBuildDate>" % bf.format_datetime(now),
-           "<generator>INTENT Daily CN</generator>", "<ttl>60</ttl>",
-           "<item>",
+           "<generator>INTENT Daily CN</generator>", "<ttl>60</ttl>"]
+
+    if first_img:
+        out += ["<image>",
+                "<url>%s</url>" % html.escape(first_img, quote=True),
+                "<title>%s</title>" % html.escape(PRODUCT_NAME),
+                "<link>%s</link>" % html.escape(bf.SITE),
+                "</image>"]
+
+    out += ["<item>",
            "<title>%s · %s｜%d 条要闻</title>" % (html.escape(PRODUCT_NAME), day, total),
-           "<link>%s</link>" % html.escape(bf.FEED_URL),
+           "<link>%s</link>" % html.escape(bf.SITE + "/blob/main/docs/latest.md"),
            '<guid isPermaLink="false">%s#%s</guid>' % (html.escape(bf.FEED_URL), day),
            "<description>%s</description>" % bf.cdata("\n".join(body)),
            "<pubDate>%s</pubDate>" % bf.format_datetime(now),
            "<dc:source>BBC News / VOA / NBC</dc:source>",
            "<category>%s</category>" % html.escape(PRODUCT_NAME)]
+
     if first_img:
         out += ['<media:content url="%s" medium="image"/>' % html.escape(first_img, quote=True),
                 '<media:thumbnail url="%s"/>' % html.escape(first_img, quote=True)]
