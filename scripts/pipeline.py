@@ -16,7 +16,12 @@ import traceback
 import urllib.parse
 import urllib.request
 import xml.etree.ElementTree as ET
-from datetime import timedelta
+from datetime import timedelta, timezone
+
+
+def gmt(dt):
+    return dt.astimezone(timezone.utc).strftime("%a, %d %b %Y %H:%M:%S GMT")
+
 
 spec = importlib.util.spec_from_file_location("bf", "scripts/build_feed.py")
 bf = importlib.util.module_from_spec(spec)
@@ -233,8 +238,34 @@ def build_md(blocks, now, today, stats):
             .replace("BBC / CNN / VOA / NBC", "BBC / VOA / NBC"))
 
 
+def _history_items(today, limit=6):
+    """从 archive/ 里取最近若干天的整条 <item>，让 feed 保持多条目，兼容更严格的阅读器。"""
+    items = []
+    try:
+        names = sorted((n for n in os.listdir("archive") if n.endswith(".xml")), reverse=True)
+    except OSError:
+        return items
+    for name in names:
+        day = name[:-4]
+        if day == today:
+            continue
+        try:
+            txt = open(os.path.join("archive", name), encoding="utf-8").read()
+        except OSError:
+            continue
+        m = re.search(r"<item>.*?</item>", txt, re.S)
+        if not m:
+            continue
+        block = m.group(0).replace("/blob/main/docs/latest.md",
+                                   "/blob/main/docs/daily/%s.md" % day)
+        items.append(block)
+        if len(items) >= limit:
+            break
+    return items
+
+
 def build_rss(blocks, now):
-    """每期只出一条 <item>：当天全部要闻 + AI 摘要打包在同一条描述里"""
+    """每期一条主 <item>（当天全部要闻 + AI 摘要），并附带最近数日历史条目"""
     day = now.strftime("%Y-%m-%d")
     body = []
     for block in blocks:
@@ -284,7 +315,7 @@ def build_rss(blocks, now):
            "（BBC News / VOA / NBC）与 AI 研究动态（OpenAI Research / Google DeepMind / "
            "Anthropic / arXiv）的中文摘要。]]></description>",
            "<language>zh-CN</language>",
-           "<lastBuildDate>%s</lastBuildDate>" % bf.format_datetime(now),
+           "<lastBuildDate>%s</lastBuildDate>" % gmt(now),
            "<generator>INTENT Daily CN</generator>", "<ttl>60</ttl>"]
 
     if first_img:
@@ -294,19 +325,25 @@ def build_rss(blocks, now):
                 "<link>%s</link>" % html.escape(bf.SITE),
                 "</image>"]
 
-    out += ["<item>",
-           "<title>%s · %s｜%d 条要闻</title>" % (html.escape(PRODUCT_NAME), day, total),
-           "<link>%s</link>" % html.escape(bf.SITE + "/blob/main/docs/latest.md"),
-           '<guid isPermaLink="false">%s#%s</guid>' % (html.escape(bf.FEED_URL), day),
-           "<description>%s</description>" % bf.cdata("\n".join(body)),
-           "<pubDate>%s</pubDate>" % bf.format_datetime(now),
-           "<dc:source>BBC News / VOA / NBC</dc:source>",
-           "<category>%s</category>" % html.escape(PRODUCT_NAME)]
-
+    today_item = "\n".join([
+        "<item>",
+        "<title>%s · %s｜%d 条要闻</title>" % (html.escape(PRODUCT_NAME), day, total),
+        "<link>%s</link>" % html.escape("%s/blob/main/docs/daily/%s.md" % (bf.SITE, day)),
+        '<guid isPermaLink="false">%s#%s</guid>' % (html.escape(bf.FEED_URL), day),
+        "<description>%s</description>" % bf.cdata("\n".join(body)),
+        "<pubDate>%s</pubDate>" % gmt(now),
+        "<dc:source>BBC News / VOA / NBC</dc:source>",
+        "<category>%s</category>" % html.escape(PRODUCT_NAME),
+    ])
     if first_img:
-        out += ['<media:content url="%s" medium="image"/>' % html.escape(first_img, quote=True),
-                '<media:thumbnail url="%s"/>' % html.escape(first_img, quote=True)]
-    out += ["</item>", "</channel>", "</rss>"]
+        esc = html.escape(first_img, quote=True)
+        today_item += '\n<media:content url="%s" medium="image"/>' % esc
+        today_item += '\n<media:thumbnail url="%s"/>' % esc
+    today_item += "\n</item>"
+
+    out.append(today_item)
+    out += _history_items(day, limit=6)
+    out += ["</channel>", "</rss>"]
     return "\n".join(out).replace("BBC / CNN / VOA / NBC", "BBC / VOA / NBC")
 
 
