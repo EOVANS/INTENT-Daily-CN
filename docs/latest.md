@@ -1,97 +1,99 @@
 # INTENT Daily CN · 每日新闻
 
-> **日期**：2026-11-17（北京时间）｜**生成**：16:50｜每日 07:35 自动更新
+> **日期**：2026-11-18（北京时间）｜**生成**：12:40｜每日 07:35 自动更新
 > **RSS 订阅**：<https://raw.githubusercontent.com/EOVANS/INTENT-Daily-CN/main/docs/feed.xml>
 
 ## 一、国际要闻（BBC / VOA / NBC）
 
 *过去 24 小时全球 Breaking News，按重要性降序。*
 
-### 1. 南非发生两起大规模枪击事件 造成17人死亡
+### 1. 泽伦斯基称赞乌克兰“史无前例”的袭击，普京的克里米亚大桥部分倒塌
 
-夸祖鲁-纳塔尔省和豪登省的枪击事件凸显了南非遏制暴力犯罪的努力。
+乌克兰表示，针对俄罗斯吞并的克里米亚战略桥梁的导弹和无人机袭击花了数周时间策划。
 
-![BBC News](https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e2e5/live/66487e80-e1a0-11f1-902c-ad301cbf1208.jpg)
-
-- **来源**：BBC News
-- **原文标题**：Two mass shootings in South Africa leave 17 dead
-- **发布时间**：2026-11-16 18:57
-- **原文链接**：<https://www.bbc.co.uk/news/articles/c8y5x3n4kywpo?at_medium=RSS&at_campaign=rss>
-
-### 2. 克里米亚大桥因乌克兰罢工而关闭，俄罗斯袭击基辅过境点
-
-据报道，连接克里米亚和俄罗斯的桥梁遭受重大损坏，穿过基辅的两条路线也被关闭。
-
-![BBC News](https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/22e4/live/526312a0-e258-11f1-8199-439bbe0918ee.jpg)
+![BBC News](https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/222d/live/db8315b0-e278-11f1-99a1-253766e7ad8b.png)
 
 - **来源**：BBC News
-- **原文标题**：Crimea bridge shut after reported Ukrainian strike, as Russia hits Kyiv crossings
-- **发布时间**：2026-11-17 16:06
+- **原文标题**：Putin's Crimean Bridge partly collapses as Zelensky hails 'unprecedented' attack by Ukraine
+- **发布时间**：2026-11-18 05:24
 - **原文链接**：<https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss>
 
-### 3. 乌克兰指责俄罗斯在“双击”袭击造成72人死亡后将救援行动作为目标
+### 2. 特朗普警告伊朗有关“脏弹”阴谋的报道
 
-官员称，乌克兰南部遭受“双击”袭击后打捞尸体的工作因俄罗斯持续袭击而受到阻碍。
+在有报道称伊朗计划对华盛顿发动“脏弹”袭击后，特朗普总统警告伊朗政权。 NBC 新闻的加布·古铁雷斯报道。
 
-![BBC News](https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ba46/live/5efa38d0-df84-11f1-a701-fddedf244c16.png)
+![NBC](https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_11/1794959551030_nn_ggu_trump_asia_trip_iran_261117_S3_1920x1080-sik842.jpg)
+
+- **来源**：NBC
+- **原文标题**：Trump warns Iran over report of ‘dirty bomb’ plot
+- **发布时间**：2026-11-18 07:52
+- **原文链接**：<https://www.nbcnews.com/nightly-news/video/trump-warns-iran-over-report-of-dirty-bomb-plot-273681989904>
+
+### 3. 特朗普关税挤压加拿大汽车业，卡尼将目光投向中国
+
+总理建议中国汽车制造商可以在加拿大取代美国汽车制造商，但有人表示这并不容易。
+
+![BBC News](https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dab7/live/371458b0-e299-11f1-8dda-8925a81c3da5.jpg)
 
 - **来源**：BBC News
-- **原文标题**：Ukraine accuses Russia of targeting rescue operation after 'double-tap' strike kills 72
-- **发布时间**：2026-11-17 13:59
-- **原文链接**：<https://www.bbc.co.uk/news/articles/c30rk8x5g80qo?at_medium=RSS&at_campaign=rss>
+- **原文标题**：Carney looks to China as Trump tariffs squeeze Canada's car industry
+- **发布时间**：2026-11-18 02:58
+- **原文链接**：<https://www.bbc.co.uk/news/articles/cq98xlz09ye0o?at_medium=RSS&at_campaign=rss>
 
-### 4. 法医专家表示，他对尸检照片的分析表明爱泼斯坦被杀
+### 4. 西班牙大选中值得关注的人
 
-迈克尔·弗里曼教授告诉英国广播公司《新闻之夜》，他认为被定罪的性犯罪者的伤势符合凶杀案。
+西班牙将于 11 月 29 日举行投票，在社会党领导的八年统治之后，保守派和极右翼最有可能获胜。
 
-![BBC News](https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f4ce/live/59eafa00-e1c3-11f1-8a52-0b287ff76f43.jpg)
+![BBC News](https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/35a3/live/3ec32a00-df88-11f1-a5d4-0b20a170e974.jpg)
 
 - **来源**：BBC News
-- **原文标题**：Forensic expert says his analysis of autopsy photos suggests Epstein was killed
-- **发布时间**：2026-11-17 04:33
-- **原文链接**：<https://www.bbc.co.uk/news/articles/c5n4exg1kkmyo?at_medium=RSS&at_campaign=rss>
+- **原文标题**：Who to watch in Spain's election race
+- **发布时间**：2026-11-18 02:13
+- **原文链接**：<https://www.bbc.co.uk/news/articles/cxr5g4lyp94no?at_medium=RSS&at_campaign=rss>
 
-### 5. 美国与九个合作伙伴在特习会前签署 SI 供应链协议
+### 5. 弗拉基米尔·普京 (Vladimir Putin) 珍贵的桥梁在乌克兰袭击中部分被毁
 
-美国与九个合作伙伴在特习会之前签署 SI 供应链协议
+周二，连接被占领的克里米亚半岛和俄罗斯大陆的一座重要桥梁遭受严重破坏，这对俄罗斯总统弗拉基米尔·普京来说是一个具有里程碑意义的打击。
 
-- **来源**：VOA
-- **原文标题**：US, nine partners sign SI supply chain accord ahead of Trump-Xi meeting
-- **发布时间**：2026-11-17 05:15
-- **原文链接**：<https://news.google.com/rss/articles/CBMiugFBVV95cUxOUHlVajNkY2FXdEl2b3o1ZEFaajdoZ0xiSUdsOS00SzBqVU5ZaEY1X3dHSV95Q0VoRmlVT2NzcmtZcUpJelRyV2RYLVVQMlRRc1BIQTRJbFpRYkJ5STZZNFNXbThLX2lQa195SlQzUk1JM3o5RnlmOGtCR2p4QU94NGViMmRYVEtnSHhaZXdwYjRpdzYybmxDczEzTmlnZjFTUUdiaktzcGpIeU9fYWZjWkIzQnJid214TGfSAbwBQVVfeXFMTWhLdXdvcHJwbDZWYTNNWGkxXy1qSVpsYXBPTEdEMUZNZlRHOGloeEhEbmVnTTV1Z1pMV2FaLXc5WGdkbGdYS1VhQm1nc0tJdGFVQUxDdF8tamFZbHZrVF9TRkJsbHlTeXpGbWt2T0gzTHB1by14OTFEdVA2eHhsTHkwemtOSkNfOWVYQzM0Qkc1eE5kN2xuSEZhSDB5NW1ZTlJ2MlVEdWFRQ1JxWEFDSDg3Ym9DeklyY1JfTE8?oc=5>
-
-### 6. 150万人聚集在一起为教皇利奥送行，结束了为期12天的历史性南美之旅
-
-150 万人聚集在秘鲁利马为教皇利奥送行，结束了为期 12 天的历史性南美之旅。泰勒蒙多的豪尔赫·德圣地亚哥讨论了教宗留给南美天主教徒的信息。
-
-![NBC](https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_11/1794871674775_now_hallie_jde_pope_leo_south_america_261116_S3_1920x1080-shthjy.jpg)
+![NBC](https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-11/261117-kerch-mb-0840-c3bfa3.jpg)
 
 - **来源**：NBC
-- **原文标题**：1.5 million gather for Pope Leo's send-off, closing out a historic 12-day trip to South America
-- **发布时间**：2026-11-17 07:28
-- **原文链接**：<https://www.nbcnews.com/video/1-5-million-gather-for-pope-leo-s-send-off-closing-out-a-historic-12-day-trip-to-south-america-273610309517>
+- **原文标题**：Vladimir Putin’s prized bridge is partially destroyed in Ukrainian strike
+- **发布时间**：2026-11-17 17:06
+- **原文链接**：<https://www.nbcnews.com/world/russia/kerch-bridge-strikes-putin-crimea-ukraine-russia-war-kyiv-rcna609756>
 
-### 7. 英国当局正在调查拉塞尔·布兰德在监狱中发出的信息是否违反规定
+### 6. 抗议者在马尼拉市中心集会，反对特朗普总统访问菲律宾
 
-英国当局正在调查拉塞尔·布兰德在监狱中写下并由他的妻子通过视频发表的声明是否违反了禁止囚犯发表可能引起不安的言论的规定。
+菲律宾各地数千人抗议唐纳德·特朗普抵达马尼拉参加东南亚国家联盟（ASEAN）峰会，这是他前往中国之前亚洲之行的第一站。恶魔
 
-![NBC](https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_11/1794848524479_now_current_brand_message_prison_261116_S3_1920x1080-28b21t.jpg)
-
-- **来源**：NBC
-- **原文标题**：U.K. authorities investigating if Russell Brand's message from prison violates rules
-- **发布时间**：2026-11-17 01:02
-- **原文链接**：<https://www.nbcnews.com/video/u-k-authorities-investigating-if-russell-brand-s-message-from-prison-violates-rules-273585221856>
-
-### 8. 教皇利奥 12 天南美洲历史性之旅的亮点
-
-当教皇利奥在乌拉圭、阿根廷和秘鲁进行为期 12 天的南美洲艰苦之旅时，数百万人前来迎接。
-
-![NBC](https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-11/261116-pope-mb-1100-38c7ce.jpg)
+![NBC](https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_11/1794946583079_f_mo_philippines_protests_trump_opposition_261117_S3_1920x1080-4d95lw.jpg)
 
 - **来源**：NBC
-- **原文标题**：Highlights from Pope Leo’s historic, 12-day tour of South America
-- **发布时间**：2026-11-17 00:02
-- **原文链接**：<https://www.nbcnews.com/world/the-vatican/pope-leo-south-america-tour-uruguay-argentina-peru-milei-fujimori-rcna608513>
+- **原文标题**：Protesters rally in downtown Manila to oppose President Trump's visit to the Philippines
+- **发布时间**：2026-11-18 04:16
+- **原文链接**：<https://www.nbcnews.com/video/protesters-rally-in-downtown-manila-to-oppose-president-trump-s-visit-to-the-philippines-273669189543>
+
+### 7. 卫生部称，72 岁巴勒斯坦妇女在约旦河西岸被以色列定居者枪杀
+
+巴勒斯坦人称，杜尤克塔赫塔的定居者发动了袭击，而以色列军方则表示，定居者在受到袭击后开枪。
+
+![BBC News](https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d277/live/17a72100-e286-11f1-a094-5fdc692f3e33.jpg)
+
+- **来源**：BBC News
+- **原文标题**：Palestinian woman, 72, shot dead by Israeli settlers in West Bank, health ministry says
+- **发布时间**：2026-11-18 04:30
+- **原文链接**：<https://www.bbc.co.uk/news/articles/cqrlg377638yo?at_medium=RSS&at_campaign=rss>
+
+### 8. 克里姆林宫陷阱？欧洲认为弗拉基米尔·普京在美国谈判中的新要求存在危险
+
+欧洲领导人长期以来一直担心被排除在美俄有关乌克兰问题的和平谈判之外。现在特朗普的团队正在谈判非洲大陆的安全结构。
+
+![NBC](https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-11/261117-putin-witkoff-mb-0945-f4a413.jpg)
+
+- **来源**：NBC
+- **原文标题**：A Kremlin trap? Europe sees danger in Vladimir Putin’s new demand in U.S. talks
+- **发布时间**：2026-11-18 00:54
+- **原文链接**：<https://www.nbcnews.com/world/europe/europe-danger-vladimir-putin-ukraine-war-nato-security-architecture-rcna609558>
 
 ## 二、AI 研究动态（OpenAI Research 等）
 
@@ -150,12 +152,12 @@ OpenAI 使用分层监控来检测前沿模型错位和未经授权的代理行�
 
 | 来源 | 窗口内条数 |
 | --- | --- |
-| BBC News | 19 |
-| VOA | 4 |
-| NBC | 3 |
-| OpenAI Research | 69 |
-| Google DeepMind | 11 |
-| Anthropic | 16 |
+| BBC News | 25 |
+| VOA | 5 |
+| NBC | 5 |
+| OpenAI Research | 74 |
+| Google DeepMind | 10 |
+| Anthropic | 11 |
 | arXiv cs.AI | 715 |
 
 > 由 GitHub Actions 自动生成，请勿手工编辑。

@@ -1,6 +1,6 @@
 {
-  "date": "2026-11-17",
-  "generated_at": "2026-11-17T16:50:05.265152+08:00",
+  "date": "2026-11-18",
+  "generated_at": "2026-11-18T12:40:11.559699+08:00",
   "rss": "https://raw.githubusercontent.com/EOVANS/INTENT-Daily-CN/main/docs/feed.xml",
   "markdown": "https://raw.githubusercontent.com/EOVANS/INTENT-Daily-CN/main/docs/latest.md",
   "blocks": [
@@ -10,90 +10,90 @@
         {
           "rank": 1,
           "source": "BBC News",
-          "title_zh": "南非发生两起大规模枪击事件 造成17人死亡",
-          "title_en": "Two mass shootings in South Africa leave 17 dead",
-          "summary_zh": "夸祖鲁-纳塔尔省和豪登省的枪击事件凸显了南非遏制暴力犯罪的努力。",
-          "url": "https://www.bbc.co.uk/news/articles/c8y5x3n4kywpo?at_medium=RSS&at_campaign=rss",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e2e5/live/66487e80-e1a0-11f1-902c-ad301cbf1208.jpg",
-          "published": "2026-11-16T10:57:48+00:00",
-          "score": 13.09
+          "title_zh": "泽伦斯基称赞乌克兰“史无前例”的袭击，普京的克里米亚大桥部分倒塌",
+          "title_en": "Putin's Crimean Bridge partly collapses as Zelensky hails 'unprecedented' attack by Ukraine",
+          "summary_zh": "乌克兰表示，针对俄罗斯吞并的克里米亚战略桥梁的导弹和无人机袭击花了数周时间策划。",
+          "url": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/222d/live/db8315b0-e278-11f1-99a1-253766e7ad8b.png",
+          "published": "2026-11-17T21:24:35+00:00",
+          "score": 16.7
         },
         {
           "rank": 2,
-          "source": "BBC News",
-          "title_zh": "克里米亚大桥因乌克兰罢工而关闭，俄罗斯袭击基辅过境点",
-          "title_en": "Crimea bridge shut after reported Ukrainian strike, as Russia hits Kyiv crossings",
-          "summary_zh": "据报道，连接克里米亚和俄罗斯的桥梁遭受重大损坏，穿过基辅的两条路线也被关闭。",
-          "url": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/22e4/live/526312a0-e258-11f1-8199-439bbe0918ee.jpg",
-          "published": "2026-11-17T08:06:32+00:00",
-          "score": 9.97
+          "source": "NBC",
+          "title_zh": "特朗普警告伊朗有关“脏弹”阴谋的报道",
+          "title_en": "Trump warns Iran over report of ‘dirty bomb’ plot",
+          "summary_zh": "在有报道称伊朗计划对华盛顿发动“脏弹”袭击后，特朗普总统警告伊朗政权。 NBC 新闻的加布·古铁雷斯报道。",
+          "url": "https://www.nbcnews.com/nightly-news/video/trump-warns-iran-over-report-of-dirty-bomb-plot-273681989904",
+          "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_11/1794959551030_nn_ggu_trump_asia_trip_iran_261117_S3_1920x1080-sik842.jpg",
+          "published": "2026-11-17T23:52:37+00:00",
+          "score": 13.42
         },
         {
           "rank": 3,
           "source": "BBC News",
-          "title_zh": "乌克兰指责俄罗斯在“双击”袭击造成72人死亡后将救援行动作为目标",
-          "title_en": "Ukraine accuses Russia of targeting rescue operation after 'double-tap' strike kills 72",
-          "summary_zh": "官员称，乌克兰南部遭受“双击”袭击后打捞尸体的工作因俄罗斯持续袭击而受到阻碍。",
-          "url": "https://www.bbc.co.uk/news/articles/c30rk8x5g80qo?at_medium=RSS&at_campaign=rss",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ba46/live/5efa38d0-df84-11f1-a701-fddedf244c16.png",
-          "published": "2026-11-17T05:59:01+00:00",
-          "score": 9.88
+          "title_zh": "特朗普关税挤压加拿大汽车业，卡尼将目光投向中国",
+          "title_en": "Carney looks to China as Trump tariffs squeeze Canada's car industry",
+          "summary_zh": "总理建议中国汽车制造商可以在加拿大取代美国汽车制造商，但有人表示这并不容易。",
+          "url": "https://www.bbc.co.uk/news/articles/cq98xlz09ye0o?at_medium=RSS&at_campaign=rss",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dab7/live/371458b0-e299-11f1-8dda-8925a81c3da5.jpg",
+          "published": "2026-11-17T18:58:57+00:00",
+          "score": 11.6
         },
         {
           "rank": 4,
           "source": "BBC News",
-          "title_zh": "法医专家表示，他对尸检照片的分析表明爱泼斯坦被杀",
-          "title_en": "Forensic expert says his analysis of autopsy photos suggests Epstein was killed",
-          "summary_zh": "迈克尔·弗里曼教授告诉英国广播公司《新闻之夜》，他认为被定罪的性犯罪者的伤势符合凶杀案。",
-          "url": "https://www.bbc.co.uk/news/articles/c5n4exg1kkmyo?at_medium=RSS&at_campaign=rss",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f4ce/live/59eafa00-e1c3-11f1-8a52-0b287ff76f43.jpg",
-          "published": "2026-11-16T20:33:57+00:00",
-          "score": 9.49
+          "title_zh": "西班牙大选中值得关注的人",
+          "title_en": "Who to watch in Spain's election race",
+          "summary_zh": "西班牙将于 11 月 29 日举行投票，在社会党领导的八年统治之后，保守派和极右翼最有可能获胜。",
+          "url": "https://www.bbc.co.uk/news/articles/cxr5g4lyp94no?at_medium=RSS&at_campaign=rss",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/35a3/live/3ec32a00-df88-11f1-a5d4-0b20a170e974.jpg",
+          "published": "2026-11-17T18:13:45+00:00",
+          "score": 11.56
         },
         {
           "rank": 5,
-          "source": "VOA",
-          "title_zh": "美国与九个合作伙伴在特习会前签署 SI 供应链协议",
-          "title_en": "US, nine partners sign SI supply chain accord ahead of Trump-Xi meeting",
-          "summary_zh": "美国与九个合作伙伴在特习会之前签署 SI 供应链协议",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOUHlVajNkY2FXdEl2b3o1ZEFaajdoZ0xiSUdsOS00SzBqVU5ZaEY1X3dHSV95Q0VoRmlVT2NzcmtZcUpJelRyV2RYLVVQMlRRc1BIQTRJbFpRYkJ5STZZNFNXbThLX2lQa195SlQzUk1JM3o5RnlmOGtCR2p4QU94NGViMmRYVEtnSHhaZXdwYjRpdzYybmxDczEzTmlnZjFTUUdiaktzcGpIeU9fYWZjWkIzQnJid214TGfSAbwBQVVfeXFMTWhLdXdvcHJwbDZWYTNNWGkxXy1qSVpsYXBPTEdEMUZNZlRHOGloeEhEbmVnTTV1Z1pMV2FaLXc5WGdkbGdYS1VhQm1nc0tJdGFVQUxDdF8tamFZbHZrVF9TRkJsbHlTeXpGbWt2T0gzTHB1by14OTFEdVA2eHhsTHkwemtOSkNfOWVYQzM0Qkc1eE5kN2xuSEZhSDB5NW1ZTlJ2MlVEdWFRQ1JxWEFDSDg3Ym9DeklyY1JfTE8?oc=5",
-          "image": "",
-          "published": "2026-11-16T21:15:16+00:00",
-          "score": 5.87
+          "source": "NBC",
+          "title_zh": "弗拉基米尔·普京 (Vladimir Putin) 珍贵的桥梁在乌克兰袭击中部分被毁",
+          "title_en": "Vladimir Putin’s prized bridge is partially destroyed in Ukrainian strike",
+          "summary_zh": "周二，连接被占领的克里米亚半岛和俄罗斯大陆的一座重要桥梁遭受严重破坏，这对俄罗斯总统弗拉基米尔·普京来说是一个具有里程碑意义的打击。",
+          "url": "https://www.nbcnews.com/world/russia/kerch-bridge-strikes-putin-crimea-ukraine-russia-war-kyiv-rcna609756",
+          "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-11/261117-kerch-mb-0840-c3bfa3.jpg",
+          "published": "2026-11-17T09:06:06+00:00",
+          "score": 11.07
         },
         {
           "rank": 6,
           "source": "NBC",
-          "title_zh": "150万人聚集在一起为教皇利奥送行，结束了为期12天的历史性南美之旅",
-          "title_en": "1.5 million gather for Pope Leo's send-off, closing out a historic 12-day trip to South America",
-          "summary_zh": "150 万人聚集在秘鲁利马为教皇利奥送行，结束了为期 12 天的历史性南美之旅。泰勒蒙多的豪尔赫·德圣地亚哥讨论了教宗留给南美天主教徒的信息。",
-          "url": "https://www.nbcnews.com/video/1-5-million-gather-for-pope-leo-s-send-off-closing-out-a-historic-12-day-trip-to-south-america-273610309517",
-          "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_11/1794871674775_now_hallie_jde_pope_leo_south_america_261116_S3_1920x1080-shthjy.jpg",
-          "published": "2026-11-16T23:28:00+00:00",
-          "score": 4.25
+          "title_zh": "抗议者在马尼拉市中心集会，反对特朗普总统访问菲律宾",
+          "title_en": "Protesters rally in downtown Manila to oppose President Trump's visit to the Philippines",
+          "summary_zh": "菲律宾各地数千人抗议唐纳德·特朗普抵达马尼拉参加东南亚国家联盟（ASEAN）峰会，这是他前往中国之前亚洲之行的第一站。恶魔",
+          "url": "https://www.nbcnews.com/video/protesters-rally-in-downtown-manila-to-oppose-president-trump-s-visit-to-the-philippines-273669189543",
+          "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_11/1794946583079_f_mo_philippines_protests_trump_opposition_261117_S3_1920x1080-4d95lw.jpg",
+          "published": "2026-11-17T20:16:27+00:00",
+          "score": 9.69
         },
         {
           "rank": 7,
-          "source": "NBC",
-          "title_zh": "英国当局正在调查拉塞尔·布兰德在监狱中发出的信息是否违反规定",
-          "title_en": "U.K. authorities investigating if Russell Brand's message from prison violates rules",
-          "summary_zh": "英国当局正在调查拉塞尔·布兰德在监狱中写下并由他的妻子通过视频发表的声明是否违反了禁止囚犯发表可能引起不安的言论的规定。",
-          "url": "https://www.nbcnews.com/video/u-k-authorities-investigating-if-russell-brand-s-message-from-prison-violates-rules-273585221856",
-          "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_11/1794848524479_now_current_brand_message_prison_261116_S3_1920x1080-28b21t.jpg",
-          "published": "2026-11-16T17:02:09+00:00",
-          "score": 4.01
+          "source": "BBC News",
+          "title_zh": "卫生部称，72 岁巴勒斯坦妇女在约旦河西岸被以色列定居者枪杀",
+          "title_en": "Palestinian woman, 72, shot dead by Israeli settlers in West Bank, health ministry says",
+          "summary_zh": "巴勒斯坦人称，杜尤克塔赫塔的定居者发动了袭击，而以色列军方则表示，定居者在受到袭击后开枪。",
+          "url": "https://www.bbc.co.uk/news/articles/cqrlg377638yo?at_medium=RSS&at_campaign=rss",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d277/live/17a72100-e286-11f1-a094-5fdc692f3e33.jpg",
+          "published": "2026-11-17T20:30:20+00:00",
+          "score": 9.66
         },
         {
           "rank": 8,
           "source": "NBC",
-          "title_zh": "教皇利奥 12 天南美洲历史性之旅的亮点",
-          "title_en": "Highlights from Pope Leo’s historic, 12-day tour of South America",
-          "summary_zh": "当教皇利奥在乌拉圭、阿根廷和秘鲁进行为期 12 天的南美洲艰苦之旅时，数百万人前来迎接。",
-          "url": "https://www.nbcnews.com/world/the-vatican/pope-leo-south-america-tour-uruguay-argentina-peru-milei-fujimori-rcna608513",
-          "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-11/261116-pope-mb-1100-38c7ce.jpg",
-          "published": "2026-11-16T16:02:33+00:00",
-          "score": 3.97
+          "title_zh": "克里姆林宫陷阱？欧洲认为弗拉基米尔·普京在美国谈判中的新要求存在危险",
+          "title_en": "A Kremlin trap? Europe sees danger in Vladimir Putin’s new demand in U.S. talks",
+          "summary_zh": "欧洲领导人长期以来一直担心被排除在美俄有关乌克兰问题的和平谈判之外。现在特朗普的团队正在谈判非洲大陆的安全结构。",
+          "url": "https://www.nbcnews.com/world/europe/europe-danger-vladimir-putin-ukraine-war-nato-security-architecture-rcna609558",
+          "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-11/261117-putin-witkoff-mb-0945-f4a413.jpg",
+          "published": "2026-11-17T16:54:09+00:00",
+          "score": 8.21
         }
       ]
     },
@@ -109,7 +109,7 @@
           "url": "https://arxiv.org/abs/2611.19871",
           "image": "",
           "published": "2026-11-17T00:00:00-05:00",
-          "score": 22.81
+          "score": 22.11
         },
         {
           "rank": 2,
@@ -120,7 +120,7 @@
           "url": "https://arxiv.org/abs/2611.20447",
           "image": "",
           "published": "2026-11-17T00:00:00-05:00",
-          "score": 21.96
+          "score": 21.26
         },
         {
           "rank": 3,
@@ -159,12 +159,12 @@
     }
   ],
   "source_counts": {
-    "BBC News": 19,
-    "VOA": 4,
-    "NBC": 3,
-    "OpenAI Research": 69,
-    "Google DeepMind": 11,
-    "Anthropic": 16,
+    "BBC News": 25,
+    "VOA": 5,
+    "NBC": 5,
+    "OpenAI Research": 74,
+    "Google DeepMind": 10,
+    "Anthropic": 11,
     "arXiv cs.AI": 715
   }
 }
