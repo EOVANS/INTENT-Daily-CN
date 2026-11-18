@@ -1,6 +1,6 @@
 {
   "date": "2026-11-18",
-  "generated_at": "2026-11-18T19:17:05.411111+08:00",
+  "generated_at": "2026-11-18T22:40:50.041929+08:00",
   "rss": "https://raw.githubusercontent.com/EOVANS/INTENT-Daily-CN/main/docs/feed.xml",
   "markdown": "https://raw.githubusercontent.com/EOVANS/INTENT-Daily-CN/main/docs/latest.md",
   "blocks": [
@@ -10,16 +10,27 @@
         {
           "rank": 1,
           "source": "BBC News",
+          "title_zh": "史蒂夫·罗森伯格：与习近平和特朗普的历史性会谈对普京来说是一个妙招",
+          "title_en": "Steve Rosenberg: Historic talks with Xi and Trump are a coup for Putin",
+          "summary_zh": "周四美国、中国和俄罗斯领导人之间的会晤将为弗拉基米尔·普京提供一个大舞台，但这并不会让他更接近赢得乌克兰战争。",
+          "url": "https://www.bbc.co.uk/news/articles/c9n70gd320mpo?at_medium=RSS&at_campaign=rss",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/331b/live/2dc2ba90-e33e-11f1-9479-d17d3e98c29d.jpg",
+          "published": "2026-11-18T10:53:21+00:00",
+          "score": 20.34
+        },
+        {
+          "rank": 2,
+          "source": "BBC News",
           "title_zh": "泽伦斯基称赞乌克兰“史无前例”的袭击，普京的克里米亚大桥部分倒塌",
           "title_en": "Putin's Crimean Bridge partly collapses as Zelensky hails 'unprecedented' attack by Ukraine",
           "summary_zh": "乌克兰表示，针对俄罗斯吞并的克里米亚战略桥梁的导弹和无人机袭击花了数周时间策划。",
           "url": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/222d/live/db8315b0-e278-11f1-99a1-253766e7ad8b.png",
           "published": "2026-11-17T21:24:35+00:00",
-          "score": 16.42
+          "score": 16.28
         },
         {
-          "rank": 2,
+          "rank": 3,
           "source": "NBC",
           "title_zh": "特朗普警告伊朗有关“脏弹”阴谋的报道",
           "title_en": "Trump warns Iran over report of ‘dirty bomb’ plot",
@@ -27,21 +38,32 @@
           "url": "https://www.nbcnews.com/nightly-news/video/trump-warns-iran-over-report-of-dirty-bomb-plot-273681989904",
           "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_11/1794959551030_nn_ggu_trump_asia_trip_iran_261117_S3_1920x1080-sik842.jpg",
           "published": "2026-11-17T23:52:37+00:00",
-          "score": 13.17
-        },
-        {
-          "rank": 3,
-          "source": "BBC News",
-          "title_zh": "西班牙大选中值得关注的人",
-          "title_en": "Who to watch in Spain's election race",
-          "summary_zh": "西班牙将于 11 月 29 日举行投票，在社会党领导的八年统治之后，保守派和极右翼最有可能获胜。",
-          "url": "https://www.bbc.co.uk/news/articles/cxr5g4lyp94no?at_medium=RSS&at_campaign=rss",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/35a3/live/3ec32a00-df88-11f1-a5d4-0b20a170e974.jpg",
-          "published": "2026-11-17T18:13:45+00:00",
-          "score": 11.29
+          "score": 13.04
         },
         {
           "rank": 4,
+          "source": "BBC News",
+          "title_zh": "西班牙大选中值得关注的人",
+          "title_en": "Who to watch in Spain's election race",
+          "summary_zh": "西班牙将于 11 月 29 日举行投票，在社会党领导的八年统治之后，保守党在大多数民意调查中领先。",
+          "url": "https://www.bbc.co.uk/news/articles/cxr5g4lyp94no?at_medium=RSS&at_campaign=rss",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/35a3/live/3ec32a00-df88-11f1-a5d4-0b20a170e974.jpg",
+          "published": "2026-11-18T11:44:25+00:00",
+          "score": 11.88
+        },
+        {
+          "rank": 5,
+          "source": "BBC News",
+          "title_zh": "特朗普在中国举行历史性会谈前与普京和习近平握手",
+          "title_en": "Trump shakes hands with Putin and Xi ahead of historic talks in China",
+          "summary_zh": "三位领导人将于周四在备受关注的峰会期间首次会面。",
+          "url": "https://www.bbc.co.uk/news/articles/ck9d75x5wwwwo?at_medium=RSS&at_campaign=rss",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a9fb/live/b2707bf0-e349-11f1-99aa-0f40b013ad11.jpg",
+          "published": "2026-11-18T12:39:24+00:00",
+          "score": 10.92
+        },
+        {
+          "rank": 6,
           "source": "NBC",
           "title_zh": "习近平在特朗普抵达中国时向他致意，这是普京会谈前罕见的举动",
           "title_en": "Xi greets Trump as he arrives in China, a rare move ahead of Putin talks",
@@ -49,10 +71,10 @@
           "url": "https://www.nbcnews.com/world/asia/xi-jinping-greets-trump-arrives-china-tarmac-putin-talks-shenzhen-apec-rcna609962",
           "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-11/261118-trump-china-2-rs-afe183.jpg",
           "published": "2026-11-18T10:29:18+00:00",
-          "score": 9.97
+          "score": 9.84
         },
         {
-          "rank": 5,
+          "rank": 7,
           "source": "NBC",
           "title_zh": "抗议者在马尼拉市中心集会，反对特朗普总统访问菲律宾",
           "title_en": "Protesters rally in downtown Manila to oppose President Trump's visit to the Philippines",
@@ -60,29 +82,7 @@
           "url": "https://www.nbcnews.com/video/protesters-rally-in-downtown-manila-to-oppose-president-trump-s-visit-to-the-philippines-273669189543",
           "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_11/1794946583079_f_mo_philippines_protests_trump_opposition_261117_S3_1920x1080-4d95lw.jpg",
           "published": "2026-11-17T20:16:27+00:00",
-          "score": 9.44
-        },
-        {
-          "rank": 6,
-          "source": "BBC News",
-          "title_zh": "卫生部称，72 岁巴勒斯坦妇女在约旦河西岸被以色列定居者枪杀",
-          "title_en": "Palestinian woman, 72, shot dead by Israeli settlers in West Bank, health ministry says",
-          "summary_zh": "巴勒斯坦人称，杜尤克塔赫塔的定居者发动了袭击，而以色列军方则表示，定居者在受到袭击后开枪。",
-          "url": "https://www.bbc.co.uk/news/articles/cqrlg377638yo?at_medium=RSS&at_campaign=rss",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d277/live/17a72100-e286-11f1-a094-5fdc692f3e33.jpg",
-          "published": "2026-11-17T20:30:20+00:00",
-          "score": 9.38
-        },
-        {
-          "rank": 7,
-          "source": "BBC News",
-          "title_zh": "“这真的很可怕”：母亲描述俄罗斯袭击基辅大桥期间的庇护",
-          "title_en": "'It was really scary': Mother describes sheltering during Russia strikes on Kyiv bridge",
-          "summary_zh": "莫斯科以基辅的桥梁为目标，而乌克兰则严重损坏了连接俄罗斯和被占领克里米亚的一座重要桥梁。",
-          "url": "https://www.bbc.co.uk/news/articles/cq7825234lgmo?at_medium=RSS&at_campaign=rss",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f084/live/ab522920-e29c-11f1-8dda-8925a81c3da5.jpg",
-          "published": "2026-11-17T17:19:57+00:00",
-          "score": 9.25
+          "score": 9.31
         },
         {
           "rank": 8,
@@ -93,7 +93,7 @@
           "url": "https://www.nbcnews.com/world/europe/europe-danger-vladimir-putin-ukraine-war-nato-security-architecture-rcna609558",
           "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-11/261117-putin-witkoff-mb-0945-f4a413.jpg",
           "published": "2026-11-17T16:54:09+00:00",
-          "score": 7.96
+          "score": 7.83
         }
       ]
     },
@@ -109,7 +109,7 @@
           "url": "https://arxiv.org/abs/2608.08077",
           "image": "",
           "published": "2026-11-18T00:00:00-05:00",
-          "score": 22.3
+          "score": 22.18
         },
         {
           "rank": 2,
@@ -120,7 +120,7 @@
           "url": "https://arxiv.org/abs/2609.33319",
           "image": "",
           "published": "2026-11-18T00:00:00-05:00",
-          "score": 21.45
+          "score": 21.33
         },
         {
           "rank": 3,
@@ -146,14 +146,14 @@
         },
         {
           "rank": 5,
-          "source": "Google DeepMind",
-          "title_zh": "Gemini Robotics 2.5 加速现实世界的通用灵活性",
-          "title_en": "Gemini Robotics 2.5 accelerates real-world general dexterity",
-          "summary_zh": "我们最强大的视觉-语言-动作模型增强了机器人的灵活性、可靠性和安全性",
-          "url": "https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence/",
-          "image": "https://lh3.googleusercontent.com/F1CrVEYRb8lJOyyxGgcyow-Td1de-nkp7K8MZrhjrKPANJUc0EYB754Ninn-Yrppjdb54nolOWo6Rk8iDaRNuixWwLaEKc0K9ImGooxen9fj9IOh=w528-h297-n-nu-rw-lo",
-          "published": "2026-11-09T19:51:47+00:00",
-          "score": 9.5
+          "source": "Anthropic",
+          "title_zh": "更糟糕的是：多用户多代理团队的性能如何下降",
+          "title_en": "Worse Together: How Performance Breaks Down in Multi-User Multi-Agent Teams",
+          "summary_zh": "更糟糕的是：多用户多代理团队的性能如何下降 人类对齐科学博客",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5mZm01S0Via2g3cWczVVB5YlNSMlI1a2FKekVZY0liWmMzQndHSnIyNVd2RnlLUWFWb3ItWG1KZVZQY2Q3aUlGeGM2UzRDb0Qxc3dtWEFQZkN3TDdmMDJoam1R?oc=5",
+          "image": "",
+          "published": "2026-11-11T17:13:59+00:00",
+          "score": 7.5
         }
       ]
     }
@@ -162,8 +162,8 @@
     "BBC News": 24,
     "VOA": 5,
     "NBC": 7,
-    "OpenAI Research": 73,
-    "Google DeepMind": 10,
+    "OpenAI Research": 72,
+    "Google DeepMind": 4,
     "Anthropic": 11,
     "arXiv cs.AI": 319
   }

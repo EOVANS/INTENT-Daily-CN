@@ -6,7 +6,7 @@
 <atom:link href="https://raw.githubusercontent.com/EOVANS/INTENT-Daily-CN/main/docs/feed.xml" rel="self" type="application/rss+xml"/>
 <description><![CDATA[每日北京时间 07:35 自动更新，每期一条，内含当天国际要闻（BBC News / VOA / NBC）与 AI 研究动态（OpenAI Research / Google DeepMind / Anthropic / arXiv）的中文摘要。]]></description>
 <language>zh-CN</language>
-<lastBuildDate>Wed, 18 Nov 2026 19:17:05 +0800</lastBuildDate>
+<lastBuildDate>Wed, 18 Nov 2026 22:40:50 +0800</lastBuildDate>
 <generator>INTENT Daily CN</generator>
 <ttl>60</ttl>
 <item>
@@ -15,34 +15,34 @@
 <guid isPermaLink="false">https://raw.githubusercontent.com/EOVANS/INTENT-Daily-CN/main/docs/feed.xml#2026-11-18</guid>
 <description><![CDATA[<h3 style="margin:22px 0 6px;font-size:15px;color:#1d4ed8">一、国际要闻（BBC / VOA / NBC）</h3>
 <p style="color:#6b7280;font-size:12px;margin:0 0 10px">过去 24 小时全球 Breaking News，按重要性降序。</p>
-<h4 style="margin:16px 0 6px;font-size:16px;line-height:1.5">1. <a href="https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&amp;at_campaign=rss" style="color:#111827;text-decoration:none">泽伦斯基称赞乌克兰“史无前例”的袭击，普京的克里米亚大桥部分倒塌</a></h4>
+<h4 style="margin:16px 0 6px;font-size:16px;line-height:1.5">1. <a href="https://www.bbc.co.uk/news/articles/c9n70gd320mpo?at_medium=RSS&amp;at_campaign=rss" style="color:#111827;text-decoration:none">史蒂夫·罗森伯格：与习近平和特朗普的历史性会谈对普京来说是一个妙招</a></h4>
+<p style="margin:0 0 8px"><img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/331b/live/2dc2ba90-e33e-11f1-9479-d17d3e98c29d.jpg" alt="" style="max-width:100%;border-radius:6px"/></p>
+<p style="line-height:1.75;margin:0 0 6px">周四美国、中国和俄罗斯领导人之间的会晤将为弗拉基米尔·普京提供一个大舞台，但这并不会让他更接近赢得乌克兰战争。</p>
+<p style="color:#9ca3af;font-size:12px;margin:0 0 4px">来源：BBC News · Steve Rosenberg: Historic talks with Xi and Trump are a coup for Putin</p>
+<h4 style="margin:16px 0 6px;font-size:16px;line-height:1.5">2. <a href="https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&amp;at_campaign=rss" style="color:#111827;text-decoration:none">泽伦斯基称赞乌克兰“史无前例”的袭击，普京的克里米亚大桥部分倒塌</a></h4>
 <p style="margin:0 0 8px"><img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/222d/live/db8315b0-e278-11f1-99a1-253766e7ad8b.png" alt="" style="max-width:100%;border-radius:6px"/></p>
 <p style="line-height:1.75;margin:0 0 6px">乌克兰表示，针对俄罗斯吞并的克里米亚战略桥梁的导弹和无人机袭击花了数周时间策划。</p>
 <p style="color:#9ca3af;font-size:12px;margin:0 0 4px">来源：BBC News · Putin&#x27;s Crimean Bridge partly collapses as Zelensky hails &#x27;unprecedented&#x27; attack by Ukraine</p>
-<h4 style="margin:16px 0 6px;font-size:16px;line-height:1.5">2. <a href="https://www.nbcnews.com/nightly-news/video/trump-warns-iran-over-report-of-dirty-bomb-plot-273681989904" style="color:#111827;text-decoration:none">特朗普警告伊朗有关“脏弹”阴谋的报道</a></h4>
+<h4 style="margin:16px 0 6px;font-size:16px;line-height:1.5">3. <a href="https://www.nbcnews.com/nightly-news/video/trump-warns-iran-over-report-of-dirty-bomb-plot-273681989904" style="color:#111827;text-decoration:none">特朗普警告伊朗有关“脏弹”阴谋的报道</a></h4>
 <p style="margin:0 0 8px"><img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_11/1794959551030_nn_ggu_trump_asia_trip_iran_261117_S3_1920x1080-sik842.jpg" alt="" style="max-width:100%;border-radius:6px"/></p>
 <p style="line-height:1.75;margin:0 0 6px">在有报道称伊朗计划对华盛顿发动“脏弹”袭击后，特朗普总统警告伊朗政权。 NBC 新闻的加布·古铁雷斯报道。</p>
 <p style="color:#9ca3af;font-size:12px;margin:0 0 4px">来源：NBC · Trump warns Iran over report of ‘dirty bomb’ plot</p>
-<h4 style="margin:16px 0 6px;font-size:16px;line-height:1.5">3. <a href="https://www.bbc.co.uk/news/articles/cxr5g4lyp94no?at_medium=RSS&amp;at_campaign=rss" style="color:#111827;text-decoration:none">西班牙大选中值得关注的人</a></h4>
+<h4 style="margin:16px 0 6px;font-size:16px;line-height:1.5">4. <a href="https://www.bbc.co.uk/news/articles/cxr5g4lyp94no?at_medium=RSS&amp;at_campaign=rss" style="color:#111827;text-decoration:none">西班牙大选中值得关注的人</a></h4>
 <p style="margin:0 0 8px"><img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/35a3/live/3ec32a00-df88-11f1-a5d4-0b20a170e974.jpg" alt="" style="max-width:100%;border-radius:6px"/></p>
-<p style="line-height:1.75;margin:0 0 6px">西班牙将于 11 月 29 日举行投票，在社会党领导的八年统治之后，保守派和极右翼最有可能获胜。</p>
+<p style="line-height:1.75;margin:0 0 6px">西班牙将于 11 月 29 日举行投票，在社会党领导的八年统治之后，保守党在大多数民意调查中领先。</p>
 <p style="color:#9ca3af;font-size:12px;margin:0 0 4px">来源：BBC News · Who to watch in Spain&#x27;s election race</p>
-<h4 style="margin:16px 0 6px;font-size:16px;line-height:1.5">4. <a href="https://www.nbcnews.com/world/asia/xi-jinping-greets-trump-arrives-china-tarmac-putin-talks-shenzhen-apec-rcna609962" style="color:#111827;text-decoration:none">习近平在特朗普抵达中国时向他致意，这是普京会谈前罕见的举动</a></h4>
+<h4 style="margin:16px 0 6px;font-size:16px;line-height:1.5">5. <a href="https://www.bbc.co.uk/news/articles/ck9d75x5wwwwo?at_medium=RSS&amp;at_campaign=rss" style="color:#111827;text-decoration:none">特朗普在中国举行历史性会谈前与普京和习近平握手</a></h4>
+<p style="margin:0 0 8px"><img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a9fb/live/b2707bf0-e349-11f1-99aa-0f40b013ad11.jpg" alt="" style="max-width:100%;border-radius:6px"/></p>
+<p style="line-height:1.75;margin:0 0 6px">三位领导人将于周四在备受关注的峰会期间首次会面。</p>
+<p style="color:#9ca3af;font-size:12px;margin:0 0 4px">来源：BBC News · Trump shakes hands with Putin and Xi ahead of historic talks in China</p>
+<h4 style="margin:16px 0 6px;font-size:16px;line-height:1.5">6. <a href="https://www.nbcnews.com/world/asia/xi-jinping-greets-trump-arrives-china-tarmac-putin-talks-shenzhen-apec-rcna609962" style="color:#111827;text-decoration:none">习近平在特朗普抵达中国时向他致意，这是普京会谈前罕见的举动</a></h4>
 <p style="margin:0 0 8px"><img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-11/261118-trump-china-2-rs-afe183.jpg" alt="" style="max-width:100%;border-radius:6px"/></p>
 <p style="line-height:1.75;margin:0 0 6px">在与俄罗斯总统弗拉基米尔·普京进行历史性三方会谈之前，中国领导人习近平于周三抵达中国，亲自迎接唐纳德·特朗普总统，这是罕见且令人惊讶的举动。</p>
 <p style="color:#9ca3af;font-size:12px;margin:0 0 4px">来源：NBC · Xi greets Trump as he arrives in China, a rare move ahead of Putin talks</p>
-<h4 style="margin:16px 0 6px;font-size:16px;line-height:1.5">5. <a href="https://www.nbcnews.com/video/protesters-rally-in-downtown-manila-to-oppose-president-trump-s-visit-to-the-philippines-273669189543" style="color:#111827;text-decoration:none">抗议者在马尼拉市中心集会，反对特朗普总统访问菲律宾</a></h4>
+<h4 style="margin:16px 0 6px;font-size:16px;line-height:1.5">7. <a href="https://www.nbcnews.com/video/protesters-rally-in-downtown-manila-to-oppose-president-trump-s-visit-to-the-philippines-273669189543" style="color:#111827;text-decoration:none">抗议者在马尼拉市中心集会，反对特朗普总统访问菲律宾</a></h4>
 <p style="margin:0 0 8px"><img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_11/1794946583079_f_mo_philippines_protests_trump_opposition_261117_S3_1920x1080-4d95lw.jpg" alt="" style="max-width:100%;border-radius:6px"/></p>
 <p style="line-height:1.75;margin:0 0 6px">菲律宾各地数千人抗议唐纳德·特朗普抵达马尼拉参加东南亚国家联盟（ASEAN）峰会，这是他前往中国之前亚洲之行的第一站。恶魔</p>
 <p style="color:#9ca3af;font-size:12px;margin:0 0 4px">来源：NBC · Protesters rally in downtown Manila to oppose President Trump&#x27;s visit to the Philippines</p>
-<h4 style="margin:16px 0 6px;font-size:16px;line-height:1.5">6. <a href="https://www.bbc.co.uk/news/articles/cqrlg377638yo?at_medium=RSS&amp;at_campaign=rss" style="color:#111827;text-decoration:none">卫生部称，72 岁巴勒斯坦妇女在约旦河西岸被以色列定居者枪杀</a></h4>
-<p style="margin:0 0 8px"><img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d277/live/17a72100-e286-11f1-a094-5fdc692f3e33.jpg" alt="" style="max-width:100%;border-radius:6px"/></p>
-<p style="line-height:1.75;margin:0 0 6px">巴勒斯坦人称，杜尤克塔赫塔的定居者发动了袭击，而以色列军方则表示，定居者在受到袭击后开枪。</p>
-<p style="color:#9ca3af;font-size:12px;margin:0 0 4px">来源：BBC News · Palestinian woman, 72, shot dead by Israeli settlers in West Bank, health ministry says</p>
-<h4 style="margin:16px 0 6px;font-size:16px;line-height:1.5">7. <a href="https://www.bbc.co.uk/news/articles/cq7825234lgmo?at_medium=RSS&amp;at_campaign=rss" style="color:#111827;text-decoration:none">“这真的很可怕”：母亲描述俄罗斯袭击基辅大桥期间的庇护</a></h4>
-<p style="margin:0 0 8px"><img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f084/live/ab522920-e29c-11f1-8dda-8925a81c3da5.jpg" alt="" style="max-width:100%;border-radius:6px"/></p>
-<p style="line-height:1.75;margin:0 0 6px">莫斯科以基辅的桥梁为目标，而乌克兰则严重损坏了连接俄罗斯和被占领克里米亚的一座重要桥梁。</p>
-<p style="color:#9ca3af;font-size:12px;margin:0 0 4px">来源：BBC News · &#x27;It was really scary&#x27;: Mother describes sheltering during Russia strikes on Kyiv bridge</p>
 <h4 style="margin:16px 0 6px;font-size:16px;line-height:1.5">8. <a href="https://www.nbcnews.com/world/europe/europe-danger-vladimir-putin-ukraine-war-nato-security-architecture-rcna609558" style="color:#111827;text-decoration:none">克里姆林宫陷阱？欧洲认为弗拉基米尔·普京在美国谈判中的新要求存在危险</a></h4>
 <p style="margin:0 0 8px"><img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-11/261117-putin-witkoff-mb-0945-f4a413.jpg" alt="" style="max-width:100%;border-radius:6px"/></p>
 <p style="line-height:1.75;margin:0 0 6px">欧洲领导人长期以来一直担心被排除在美俄有关乌克兰问题的和平谈判之外。现在特朗普的团队正在谈判非洲大陆的安全结构。</p>
@@ -61,15 +61,14 @@
 <h4 style="margin:16px 0 6px;font-size:16px;line-height:1.5">4. <a href="https://openai.com/index/control-room" style="color:#111827;text-decoration:none">控制室：一个中央系统，用于跟踪和停止我们研究基础设施中的模型工作负载</a></h4>
 <p style="line-height:1.75;margin:0 0 6px">了解 OpenAI 的控制室如何跟踪我们研究基础设施中的模型工作负载，并在出现安全问题时快速阻止它们。</p>
 <p style="color:#9ca3af;font-size:12px;margin:0 0 4px">来源：OpenAI Research · Control Room: A central system to track and stop model workloads across our research infrastructure</p>
-<h4 style="margin:16px 0 6px;font-size:16px;line-height:1.5">5. <a href="https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence/" style="color:#111827;text-decoration:none">Gemini Robotics 2.5 加速现实世界的通用灵活性</a></h4>
-<p style="margin:0 0 8px"><img src="https://lh3.googleusercontent.com/F1CrVEYRb8lJOyyxGgcyow-Td1de-nkp7K8MZrhjrKPANJUc0EYB754Ninn-Yrppjdb54nolOWo6Rk8iDaRNuixWwLaEKc0K9ImGooxen9fj9IOh=w528-h297-n-nu-rw-lo" alt="" style="max-width:100%;border-radius:6px"/></p>
-<p style="line-height:1.75;margin:0 0 6px">我们最强大的视觉-语言-动作模型增强了机器人的灵活性、可靠性和安全性</p>
-<p style="color:#9ca3af;font-size:12px;margin:0 0 4px">来源：Google DeepMind · Gemini Robotics 2.5 accelerates real-world general dexterity</p>]]></description>
-<pubDate>Wed, 18 Nov 2026 19:17:05 +0800</pubDate>
+<h4 style="margin:16px 0 6px;font-size:16px;line-height:1.5">5. <a href="https://news.google.com/rss/articles/CBMiYkFVX3lxTE5mZm01S0Via2g3cWczVVB5YlNSMlI1a2FKekVZY0liWmMzQndHSnIyNVd2RnlLUWFWb3ItWG1KZVZQY2Q3aUlGeGM2UzRDb0Qxc3dtWEFQZkN3TDdmMDJoam1R?oc=5" style="color:#111827;text-decoration:none">更糟糕的是：多用户多代理团队的性能如何下降</a></h4>
+<p style="line-height:1.75;margin:0 0 6px">更糟糕的是：多用户多代理团队的性能如何下降 人类对齐科学博客</p>
+<p style="color:#9ca3af;font-size:12px;margin:0 0 4px">来源：Anthropic · Worse Together: How Performance Breaks Down in Multi-User Multi-Agent Teams</p>]]></description>
+<pubDate>Wed, 18 Nov 2026 22:40:50 +0800</pubDate>
 <dc:source>BBC News / VOA / NBC</dc:source>
 <category>每日新闻</category>
-<media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/222d/live/db8315b0-e278-11f1-99a1-253766e7ad8b.png" medium="image"/>
-<media:thumbnail url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/222d/live/db8315b0-e278-11f1-99a1-253766e7ad8b.png"/>
+<media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/331b/live/2dc2ba90-e33e-11f1-9479-d17d3e98c29d.jpg" medium="image"/>
+<media:thumbnail url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/331b/live/2dc2ba90-e33e-11f1-9479-d17d3e98c29d.jpg"/>
 </item>
 </channel>
 </rss>
