@@ -1,6 +1,6 @@
 # INTENT Daily CN · 每日新闻
 
-> **日期**：2026-11-18（北京时间）｜**生成**：12:40｜每日 07:35 自动更新
+> **日期**：2026-11-18（北京时间）｜**生成**：19:17｜每日 07:35 自动更新
 > **RSS 订阅**：<https://raw.githubusercontent.com/EOVANS/INTENT-Daily-CN/main/docs/feed.xml>
 
 ## 一、国际要闻（BBC / VOA / NBC）
@@ -29,18 +29,7 @@
 - **发布时间**：2026-11-18 07:52
 - **原文链接**：<https://www.nbcnews.com/nightly-news/video/trump-warns-iran-over-report-of-dirty-bomb-plot-273681989904>
 
-### 3. 特朗普关税挤压加拿大汽车业，卡尼将目光投向中国
-
-总理建议中国汽车制造商可以在加拿大取代美国汽车制造商，但有人表示这并不容易。
-
-![BBC News](https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dab7/live/371458b0-e299-11f1-8dda-8925a81c3da5.jpg)
-
-- **来源**：BBC News
-- **原文标题**：Carney looks to China as Trump tariffs squeeze Canada's car industry
-- **发布时间**：2026-11-18 02:58
-- **原文链接**：<https://www.bbc.co.uk/news/articles/cq98xlz09ye0o?at_medium=RSS&at_campaign=rss>
-
-### 4. 西班牙大选中值得关注的人
+### 3. 西班牙大选中值得关注的人
 
 西班牙将于 11 月 29 日举行投票，在社会党领导的八年统治之后，保守派和极右翼最有可能获胜。
 
@@ -51,18 +40,18 @@
 - **发布时间**：2026-11-18 02:13
 - **原文链接**：<https://www.bbc.co.uk/news/articles/cxr5g4lyp94no?at_medium=RSS&at_campaign=rss>
 
-### 5. 弗拉基米尔·普京 (Vladimir Putin) 珍贵的桥梁在乌克兰袭击中部分被毁
+### 4. 习近平在特朗普抵达中国时向他致意，这是普京会谈前罕见的举动
 
-周二，连接被占领的克里米亚半岛和俄罗斯大陆的一座重要桥梁遭受严重破坏，这对俄罗斯总统弗拉基米尔·普京来说是一个具有里程碑意义的打击。
+在与俄罗斯总统弗拉基米尔·普京进行历史性三方会谈之前，中国领导人习近平于周三抵达中国，亲自迎接唐纳德·特朗普总统，这是罕见且令人惊讶的举动。
 
-![NBC](https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-11/261117-kerch-mb-0840-c3bfa3.jpg)
+![NBC](https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-11/261118-trump-china-2-rs-afe183.jpg)
 
 - **来源**：NBC
-- **原文标题**：Vladimir Putin’s prized bridge is partially destroyed in Ukrainian strike
-- **发布时间**：2026-11-17 17:06
-- **原文链接**：<https://www.nbcnews.com/world/russia/kerch-bridge-strikes-putin-crimea-ukraine-russia-war-kyiv-rcna609756>
+- **原文标题**：Xi greets Trump as he arrives in China, a rare move ahead of Putin talks
+- **发布时间**：2026-11-18 18:29
+- **原文链接**：<https://www.nbcnews.com/world/asia/xi-jinping-greets-trump-arrives-china-tarmac-putin-talks-shenzhen-apec-rcna609962>
 
-### 6. 抗议者在马尼拉市中心集会，反对特朗普总统访问菲律宾
+### 5. 抗议者在马尼拉市中心集会，反对特朗普总统访问菲律宾
 
 菲律宾各地数千人抗议唐纳德·特朗普抵达马尼拉参加东南亚国家联盟（ASEAN）峰会，这是他前往中国之前亚洲之行的第一站。恶魔
 
@@ -73,7 +62,7 @@
 - **发布时间**：2026-11-18 04:16
 - **原文链接**：<https://www.nbcnews.com/video/protesters-rally-in-downtown-manila-to-oppose-president-trump-s-visit-to-the-philippines-273669189543>
 
-### 7. 卫生部称，72 岁巴勒斯坦妇女在约旦河西岸被以色列定居者枪杀
+### 6. 卫生部称，72 岁巴勒斯坦妇女在约旦河西岸被以色列定居者枪杀
 
 巴勒斯坦人称，杜尤克塔赫塔的定居者发动了袭击，而以色列军方则表示，定居者在受到袭击后开枪。
 
@@ -83,6 +72,17 @@
 - **原文标题**：Palestinian woman, 72, shot dead by Israeli settlers in West Bank, health ministry says
 - **发布时间**：2026-11-18 04:30
 - **原文链接**：<https://www.bbc.co.uk/news/articles/cqrlg377638yo?at_medium=RSS&at_campaign=rss>
+
+### 7. “这真的很可怕”：母亲描述俄罗斯袭击基辅大桥期间的庇护
+
+莫斯科以基辅的桥梁为目标，而乌克兰则严重损坏了连接俄罗斯和被占领克里米亚的一座重要桥梁。
+
+![BBC News](https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f084/live/ab522920-e29c-11f1-8dda-8925a81c3da5.jpg)
+
+- **来源**：BBC News
+- **原文标题**：'It was really scary': Mother describes sheltering during Russia strikes on Kyiv bridge
+- **发布时间**：2026-11-18 01:19
+- **原文链接**：<https://www.bbc.co.uk/news/articles/cq7825234lgmo?at_medium=RSS&at_campaign=rss>
 
 ### 8. 克里姆林宫陷阱？欧洲认为弗拉基米尔·普京在美国谈判中的新要求存在危险
 
@@ -99,23 +99,23 @@
 
 *OpenAI Research、Google DeepMind、Anthropic、arXiv cs.AI 的最新研究与发布。*
 
-### 1. 大型语言模型代理推理的交互式结构化环境扩展
+### 1. 探索、绘制、记住、决策：安全关键场景中 VLM 准备情况的基准
 
-arXiv:2611.19871v1 公告类型：新 摘要：通过环境交互进行强化学习是训练后范式的基石，用于将大型语言模型演变成能够进行多回合的自主代理
-
-- **来源**：arXiv cs.AI
-- **原文标题**：Interactive Structured Environment Scaling for Large Language Model Agentic Reasoning
-- **发布时间**：2026-11-17 13:00
-- **原文链接**：<https://arxiv.org/abs/2611.19871>
-
-### 2. 逻辑链断点：开放权重语言模型中推理退化的受控变量基准
-
-arXiv:2611.20447v1 公告类型：新 摘要：我们介绍了逻辑链断点，这是一种用于开放权重语言模型中演绎推理的受控变量基准。它跨越三个阶段：(i) 纯 modus-p
+arXiv:2608.08077v2 公告类型：替换 摘要：视觉语言模型 (VLM) 通常被部署为机器人技术的具体控制器，但目前尚不清楚它们能够如何很好地探索环境、维护内部信息
 
 - **来源**：arXiv cs.AI
-- **原文标题**：The Logic Chain Breaking Point: A Controlled-Variable Benchmark for Reasoning Degradation in Open-Weight Language Models
-- **发布时间**：2026-11-17 13:00
-- **原文链接**：<https://arxiv.org/abs/2611.20447>
+- **原文标题**：Explore, Map, Remember, Decide: A Benchmark for VLM Readiness in Safety-Critical Scenarios
+- **发布时间**：2026-11-18 13:00
+- **原文链接**：<https://arxiv.org/abs/2608.08077>
+
+### 2. PhysAlign：多模态物理推理中循证角色调整的基准
+
+arXiv:2609.33319v2 公告类型：替换 摘要：物理图理解的一个关键挑战是将视觉信息与其描述的物理实体、关系和条件正确关联起来。即使什么
+
+- **来源**：arXiv cs.AI
+- **原文标题**：PhysAlign: A Benchmark for Evidence-Grounded Role Alignment in Multimodal Physics Reasoning
+- **发布时间**：2026-11-18 13:00
+- **原文链接**：<https://arxiv.org/abs/2609.33319>
 
 ### 3. 我们如何检测前沿模型错位
 
@@ -152,12 +152,12 @@ OpenAI 使用分层监控来检测前沿模型错位和未经授权的代理行�
 
 | 来源 | 窗口内条数 |
 | --- | --- |
-| BBC News | 25 |
+| BBC News | 24 |
 | VOA | 5 |
-| NBC | 5 |
-| OpenAI Research | 74 |
+| NBC | 7 |
+| OpenAI Research | 73 |
 | Google DeepMind | 10 |
 | Anthropic | 11 |
-| arXiv cs.AI | 715 |
+| arXiv cs.AI | 319 |
 
 > 由 GitHub Actions 自动生成，请勿手工编辑。

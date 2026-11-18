@@ -1,6 +1,6 @@
 {
   "date": "2026-11-18",
-  "generated_at": "2026-11-18T12:40:11.559699+08:00",
+  "generated_at": "2026-11-18T19:17:05.411111+08:00",
   "rss": "https://raw.githubusercontent.com/EOVANS/INTENT-Daily-CN/main/docs/feed.xml",
   "markdown": "https://raw.githubusercontent.com/EOVANS/INTENT-Daily-CN/main/docs/latest.md",
   "blocks": [
@@ -16,7 +16,7 @@
           "url": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/222d/live/db8315b0-e278-11f1-99a1-253766e7ad8b.png",
           "published": "2026-11-17T21:24:35+00:00",
-          "score": 16.7
+          "score": 16.42
         },
         {
           "rank": 2,
@@ -27,21 +27,10 @@
           "url": "https://www.nbcnews.com/nightly-news/video/trump-warns-iran-over-report-of-dirty-bomb-plot-273681989904",
           "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_11/1794959551030_nn_ggu_trump_asia_trip_iran_261117_S3_1920x1080-sik842.jpg",
           "published": "2026-11-17T23:52:37+00:00",
-          "score": 13.42
+          "score": 13.17
         },
         {
           "rank": 3,
-          "source": "BBC News",
-          "title_zh": "特朗普关税挤压加拿大汽车业，卡尼将目光投向中国",
-          "title_en": "Carney looks to China as Trump tariffs squeeze Canada's car industry",
-          "summary_zh": "总理建议中国汽车制造商可以在加拿大取代美国汽车制造商，但有人表示这并不容易。",
-          "url": "https://www.bbc.co.uk/news/articles/cq98xlz09ye0o?at_medium=RSS&at_campaign=rss",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dab7/live/371458b0-e299-11f1-8dda-8925a81c3da5.jpg",
-          "published": "2026-11-17T18:58:57+00:00",
-          "score": 11.6
-        },
-        {
-          "rank": 4,
           "source": "BBC News",
           "title_zh": "西班牙大选中值得关注的人",
           "title_en": "Who to watch in Spain's election race",
@@ -49,21 +38,21 @@
           "url": "https://www.bbc.co.uk/news/articles/cxr5g4lyp94no?at_medium=RSS&at_campaign=rss",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/35a3/live/3ec32a00-df88-11f1-a5d4-0b20a170e974.jpg",
           "published": "2026-11-17T18:13:45+00:00",
-          "score": 11.56
+          "score": 11.29
+        },
+        {
+          "rank": 4,
+          "source": "NBC",
+          "title_zh": "习近平在特朗普抵达中国时向他致意，这是普京会谈前罕见的举动",
+          "title_en": "Xi greets Trump as he arrives in China, a rare move ahead of Putin talks",
+          "summary_zh": "在与俄罗斯总统弗拉基米尔·普京进行历史性三方会谈之前，中国领导人习近平于周三抵达中国，亲自迎接唐纳德·特朗普总统，这是罕见且令人惊讶的举动。",
+          "url": "https://www.nbcnews.com/world/asia/xi-jinping-greets-trump-arrives-china-tarmac-putin-talks-shenzhen-apec-rcna609962",
+          "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-11/261118-trump-china-2-rs-afe183.jpg",
+          "published": "2026-11-18T10:29:18+00:00",
+          "score": 9.97
         },
         {
           "rank": 5,
-          "source": "NBC",
-          "title_zh": "弗拉基米尔·普京 (Vladimir Putin) 珍贵的桥梁在乌克兰袭击中部分被毁",
-          "title_en": "Vladimir Putin’s prized bridge is partially destroyed in Ukrainian strike",
-          "summary_zh": "周二，连接被占领的克里米亚半岛和俄罗斯大陆的一座重要桥梁遭受严重破坏，这对俄罗斯总统弗拉基米尔·普京来说是一个具有里程碑意义的打击。",
-          "url": "https://www.nbcnews.com/world/russia/kerch-bridge-strikes-putin-crimea-ukraine-russia-war-kyiv-rcna609756",
-          "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-11/261117-kerch-mb-0840-c3bfa3.jpg",
-          "published": "2026-11-17T09:06:06+00:00",
-          "score": 11.07
-        },
-        {
-          "rank": 6,
           "source": "NBC",
           "title_zh": "抗议者在马尼拉市中心集会，反对特朗普总统访问菲律宾",
           "title_en": "Protesters rally in downtown Manila to oppose President Trump's visit to the Philippines",
@@ -71,10 +60,10 @@
           "url": "https://www.nbcnews.com/video/protesters-rally-in-downtown-manila-to-oppose-president-trump-s-visit-to-the-philippines-273669189543",
           "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_11/1794946583079_f_mo_philippines_protests_trump_opposition_261117_S3_1920x1080-4d95lw.jpg",
           "published": "2026-11-17T20:16:27+00:00",
-          "score": 9.69
+          "score": 9.44
         },
         {
-          "rank": 7,
+          "rank": 6,
           "source": "BBC News",
           "title_zh": "卫生部称，72 岁巴勒斯坦妇女在约旦河西岸被以色列定居者枪杀",
           "title_en": "Palestinian woman, 72, shot dead by Israeli settlers in West Bank, health ministry says",
@@ -82,7 +71,18 @@
           "url": "https://www.bbc.co.uk/news/articles/cqrlg377638yo?at_medium=RSS&at_campaign=rss",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d277/live/17a72100-e286-11f1-a094-5fdc692f3e33.jpg",
           "published": "2026-11-17T20:30:20+00:00",
-          "score": 9.66
+          "score": 9.38
+        },
+        {
+          "rank": 7,
+          "source": "BBC News",
+          "title_zh": "“这真的很可怕”：母亲描述俄罗斯袭击基辅大桥期间的庇护",
+          "title_en": "'It was really scary': Mother describes sheltering during Russia strikes on Kyiv bridge",
+          "summary_zh": "莫斯科以基辅的桥梁为目标，而乌克兰则严重损坏了连接俄罗斯和被占领克里米亚的一座重要桥梁。",
+          "url": "https://www.bbc.co.uk/news/articles/cq7825234lgmo?at_medium=RSS&at_campaign=rss",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f084/live/ab522920-e29c-11f1-8dda-8925a81c3da5.jpg",
+          "published": "2026-11-17T17:19:57+00:00",
+          "score": 9.25
         },
         {
           "rank": 8,
@@ -93,7 +93,7 @@
           "url": "https://www.nbcnews.com/world/europe/europe-danger-vladimir-putin-ukraine-war-nato-security-architecture-rcna609558",
           "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-11/261117-putin-witkoff-mb-0945-f4a413.jpg",
           "published": "2026-11-17T16:54:09+00:00",
-          "score": 8.21
+          "score": 7.96
         }
       ]
     },
@@ -103,24 +103,24 @@
         {
           "rank": 1,
           "source": "arXiv cs.AI",
-          "title_zh": "大型语言模型代理推理的交互式结构化环境扩展",
-          "title_en": "Interactive Structured Environment Scaling for Large Language Model Agentic Reasoning",
-          "summary_zh": "arXiv:2611.19871v1 公告类型：新 摘要：通过环境交互进行强化学习是训练后范式的基石，用于将大型语言模型演变成能够进行多回合的自主代理",
-          "url": "https://arxiv.org/abs/2611.19871",
+          "title_zh": "探索、绘制、记住、决策：安全关键场景中 VLM 准备情况的基准",
+          "title_en": "Explore, Map, Remember, Decide: A Benchmark for VLM Readiness in Safety-Critical Scenarios",
+          "summary_zh": "arXiv:2608.08077v2 公告类型：替换 摘要：视觉语言模型 (VLM) 通常被部署为机器人技术的具体控制器，但目前尚不清楚它们能够如何很好地探索环境、维护内部信息",
+          "url": "https://arxiv.org/abs/2608.08077",
           "image": "",
-          "published": "2026-11-17T00:00:00-05:00",
-          "score": 22.11
+          "published": "2026-11-18T00:00:00-05:00",
+          "score": 22.3
         },
         {
           "rank": 2,
           "source": "arXiv cs.AI",
-          "title_zh": "逻辑链断点：开放权重语言模型中推理退化的受控变量基准",
-          "title_en": "The Logic Chain Breaking Point: A Controlled-Variable Benchmark for Reasoning Degradation in Open-Weight Language Models",
-          "summary_zh": "arXiv:2611.20447v1 公告类型：新 摘要：我们介绍了逻辑链断点，这是一种用于开放权重语言模型中演绎推理的受控变量基准。它跨越三个阶段：(i) 纯 modus-p",
-          "url": "https://arxiv.org/abs/2611.20447",
+          "title_zh": "PhysAlign：多模态物理推理中循证角色调整的基准",
+          "title_en": "PhysAlign: A Benchmark for Evidence-Grounded Role Alignment in Multimodal Physics Reasoning",
+          "summary_zh": "arXiv:2609.33319v2 公告类型：替换 摘要：物理图理解的一个关键挑战是将视觉信息与其描述的物理实体、关系和条件正确关联起来。即使什么",
+          "url": "https://arxiv.org/abs/2609.33319",
           "image": "",
-          "published": "2026-11-17T00:00:00-05:00",
-          "score": 21.26
+          "published": "2026-11-18T00:00:00-05:00",
+          "score": 21.45
         },
         {
           "rank": 3,
@@ -159,12 +159,12 @@
     }
   ],
   "source_counts": {
-    "BBC News": 25,
+    "BBC News": 24,
     "VOA": 5,
-    "NBC": 5,
-    "OpenAI Research": 74,
+    "NBC": 7,
+    "OpenAI Research": 73,
     "Google DeepMind": 10,
     "Anthropic": 11,
-    "arXiv cs.AI": 715
+    "arXiv cs.AI": 319
   }
 }

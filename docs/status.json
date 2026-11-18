@@ -1,10 +1,10 @@
 {
-  "started": "2026-11-18T04:40:11+0000",
+  "started": "2026-11-18T11:17:05+0000",
   "feeds": {
     "https://feeds.bbci.co.uk/news/world/rss.xml": {
       "ok": true,
-      "bytes": 21892,
-      "entries": 28
+      "bytes": 21193,
+      "entries": 27
     },
     "https://www.voanews.com/api/zrqoev-qqm": {
       "ok": true,
@@ -18,18 +18,18 @@
     },
     "https://news.google.com/rss/search?q=site:voanews.com+when:7d&hl=en-US&gl=US&ceid=US:en": {
       "ok": true,
-      "bytes": 74369,
-      "entries": 55
+      "bytes": 75734,
+      "entries": 56
     },
     "https://feeds.nbcnews.com/nbcnews/public/world": {
       "ok": true,
-      "bytes": 66725,
+      "bytes": 66737,
       "entries": 25
     },
     "https://openai.com/news/rss.xml": {
       "ok": true,
-      "bytes": 855746,
-      "entries": 1406
+      "bytes": 856420,
+      "entries": 1407
     },
     "https://deepmind.google/blog/rss.xml": {
       "ok": true,
@@ -51,13 +51,8 @@
     },
     "http://export.arxiv.org/rss/cs.AI": {
       "ok": true,
-      "bytes": 892,
-      "entries": 0
-    },
-    "https://rss.arxiv.org/rss/cs.AI": {
-      "ok": true,
-      "bytes": 1574912,
-      "entries": 717
+      "bytes": 709773,
+      "entries": 319
     }
   },
   "translate": {
@@ -70,11 +65,11 @@
   "translate_provider": "google-clients5",
   "sources": {
     "BBC News": {
-      "raw": 28,
-      "in_window": 25,
+      "raw": 27,
+      "in_window": 24,
       "from_google": 0,
       "undated": 0,
-      "used": 25
+      "used": 24
     },
     "VOA": {
       "raw": 5,
@@ -85,17 +80,17 @@
     },
     "NBC": {
       "raw": 25,
-      "in_window": 5,
+      "in_window": 7,
       "from_google": 0,
       "undated": 0,
-      "used": 5
+      "used": 7
     },
     "OpenAI Research": {
-      "raw": 1406,
-      "in_window": 74,
+      "raw": 1407,
+      "in_window": 73,
       "from_google": 0,
       "undated": 0,
-      "used": 74
+      "used": 73
     },
     "Google DeepMind": {
       "raw": 100,
@@ -112,13 +107,13 @@
       "used": 11
     },
     "arXiv cs.AI": {
-      "raw": 715,
-      "in_window": 715,
+      "raw": 319,
+      "in_window": 319,
       "from_google": 0,
       "undated": 0,
-      "used": 715
+      "used": 319
     }
   },
   "error": null,
-  "finished": "2026-11-18T04:40:25+0000"
+  "finished": "2026-11-18T11:17:19+0000"
 }
