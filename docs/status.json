@@ -1,10 +1,10 @@
 {
-  "started": "2026-11-18T14:44:00+0000",
+  "started": "2026-11-18T15:04:59+0000",
   "feeds": {
     "https://feeds.bbci.co.uk/news/world/rss.xml": {
       "ok": true,
-      "bytes": 21245,
-      "entries": 27
+      "bytes": 22011,
+      "entries": 28
     },
     "https://www.voanews.com/api/zrqoev-qqm": {
       "ok": true,
@@ -18,8 +18,8 @@
     },
     "https://news.google.com/rss/search?q=site:voanews.com+when:7d&hl=en-US&gl=US&ceid=US:en": {
       "ok": true,
-      "bytes": 74468,
-      "entries": 55
+      "bytes": 71169,
+      "entries": 53
     },
     "https://feeds.nbcnews.com/nbcnews/public/world": {
       "ok": true,
@@ -57,12 +57,17 @@
   },
   "translate": {
     "google-clients5": {
-      "ok": 21,
-      "fail": 5,
+      "ok": 25,
+      "fail": 1,
       "last_error": "ValueError: empty or unchanged output"
     },
     "google-gtx": {
-      "ok": 5,
+      "ok": 0,
+      "fail": 1,
+      "last_error": "HTTPError: HTTP Error 429: Too Many Requests"
+    },
+    "mymemory": {
+      "ok": 1,
       "fail": 0,
       "last_error": ""
     }
@@ -70,11 +75,11 @@
   "translate_provider": "google-clients5",
   "sources": {
     "BBC News": {
-      "raw": 27,
-      "in_window": 24,
+      "raw": 28,
+      "in_window": 25,
       "from_google": 0,
       "undated": 0,
-      "used": 24
+      "used": 25
     },
     "VOA": {
       "raw": 5,
@@ -120,5 +125,5 @@
     }
   },
   "error": null,
-  "finished": "2026-11-18T14:44:13+0000"
+  "finished": "2026-11-18T15:05:19+0000"
 }

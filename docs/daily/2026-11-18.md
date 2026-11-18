@@ -1,6 +1,6 @@
 # INTENT Daily CN · 每日新闻
 
-> **日期**：2026-11-18（北京时间）｜**生成**：22:44｜每日 07:35 自动更新
+> **日期**：2026-11-18（北京时间）｜**生成**：23:04｜每日 07:35 自动更新
 > **RSS 订阅**：<https://raw.githubusercontent.com/EOVANS/INTENT-Daily-CN/main/docs/feed.xml>
 
 ## 一、国际要闻（BBC / VOA / NBC）
@@ -99,7 +99,7 @@
 
 *OpenAI Research、Google DeepMind、Anthropic、arXiv cs.AI 的最新研究与发布。*
 
-### 1. 探索、绘制、记住、决策：安全关键场景中 VLM 准备情况的基准
+### 1. 探索、映射、记忆、决策：安全关键场景中VLM就绪度的基准
 
 arXiv:2608.08077v2 公告类型：替换 摘要：视觉语言模型 (VLM) 通常被部署为机器人技术的具体控制器，但目前尚不清楚它们能够如何很好地探索环境、维护内部信息
 
@@ -152,7 +152,7 @@ OpenAI 使用分层监控来检测前沿模型错位和未经授权的代理行�
 
 | 来源 | 窗口内条数 |
 | --- | --- |
-| BBC News | 24 |
+| BBC News | 25 |
 | VOA | 5 |
 | NBC | 7 |
 | OpenAI Research | 72 |
