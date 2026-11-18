@@ -1,6 +1,6 @@
 # INTENT Daily CN · 每日新闻
 
-> **日期**：2026-11-18（北京时间）｜**生成**：22:40｜每日 07:35 自动更新
+> **日期**：2026-11-18（北京时间）｜**生成**：22:44｜每日 07:35 自动更新
 > **RSS 订阅**：<https://raw.githubusercontent.com/EOVANS/INTENT-Daily-CN/main/docs/feed.xml>
 
 ## 一、国际要闻（BBC / VOA / NBC）
@@ -135,14 +135,16 @@ OpenAI 使用分层监控来检测前沿模型错位和未经授权的代理行�
 - **发布时间**：2026-11-09 21:00
 - **原文链接**：<https://openai.com/index/control-room>
 
-### 5. 更糟糕的是：多用户多代理团队的性能如何下降
+### 5. Gemini Robotics 2.5 加速现实世界的通用灵活性
 
-更糟糕的是：多用户多代理团队的性能如何下降 人类对齐科学博客
+我们最强大的视觉-语言-动作模型增强了机器人的灵活性、可靠性和安全性
 
-- **来源**：Anthropic
-- **原文标题**：Worse Together: How Performance Breaks Down in Multi-User Multi-Agent Teams
-- **发布时间**：2026-11-12 01:13
-- **原文链接**：<https://news.google.com/rss/articles/CBMiYkFVX3lxTE5mZm01S0Via2g3cWczVVB5YlNSMlI1a2FKekVZY0liWmMzQndHSnIyNVd2RnlLUWFWb3ItWG1KZVZQY2Q3aUlGeGM2UzRDb0Qxc3dtWEFQZkN3TDdmMDJoam1R?oc=5>
+![Google DeepMind](https://lh3.googleusercontent.com/F1CrVEYRb8lJOyyxGgcyow-Td1de-nkp7K8MZrhjrKPANJUc0EYB754Ninn-Yrppjdb54nolOWo6Rk8iDaRNuixWwLaEKc0K9ImGooxen9fj9IOh=w528-h297-n-nu-rw-lo)
+
+- **来源**：Google DeepMind
+- **原文标题**：Gemini Robotics 2.5 accelerates real-world general dexterity
+- **发布时间**：2026-11-10 03:51
+- **原文链接**：<https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence/>
 
 ---
 
@@ -154,7 +156,7 @@ OpenAI 使用分层监控来检测前沿模型错位和未经授权的代理行�
 | VOA | 5 |
 | NBC | 7 |
 | OpenAI Research | 72 |
-| Google DeepMind | 4 |
+| Google DeepMind | 10 |
 | Anthropic | 11 |
 | arXiv cs.AI | 319 |
 

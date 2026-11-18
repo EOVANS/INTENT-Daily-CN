@@ -6,12 +6,17 @@
 <atom:link href="https://raw.githubusercontent.com/EOVANS/INTENT-Daily-CN/main/docs/feed.xml" rel="self" type="application/rss+xml"/>
 <description><![CDATA[每日北京时间 07:35 自动更新，每期一条，内含当天国际要闻（BBC News / VOA / NBC）与 AI 研究动态（OpenAI Research / Google DeepMind / Anthropic / arXiv）的中文摘要。]]></description>
 <language>zh-CN</language>
-<lastBuildDate>Wed, 18 Nov 2026 22:40:50 +0800</lastBuildDate>
+<lastBuildDate>Wed, 18 Nov 2026 22:44:00 +0800</lastBuildDate>
 <generator>INTENT Daily CN</generator>
 <ttl>60</ttl>
+<image>
+<url>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/331b/live/2dc2ba90-e33e-11f1-9479-d17d3e98c29d.jpg</url>
+<title>每日新闻</title>
+<link>https://github.com/EOVANS/INTENT-Daily-CN</link>
+</image>
 <item>
 <title>每日新闻 · 2026-11-18｜13 条要闻</title>
-<link>https://raw.githubusercontent.com/EOVANS/INTENT-Daily-CN/main/docs/feed.xml</link>
+<link>https://github.com/EOVANS/INTENT-Daily-CN/blob/main/docs/latest.md</link>
 <guid isPermaLink="false">https://raw.githubusercontent.com/EOVANS/INTENT-Daily-CN/main/docs/feed.xml#2026-11-18</guid>
 <description><![CDATA[<h3 style="margin:22px 0 6px;font-size:15px;color:#1d4ed8">一、国际要闻（BBC / VOA / NBC）</h3>
 <p style="color:#6b7280;font-size:12px;margin:0 0 10px">过去 24 小时全球 Breaking News，按重要性降序。</p>
@@ -61,10 +66,11 @@
 <h4 style="margin:16px 0 6px;font-size:16px;line-height:1.5">4. <a href="https://openai.com/index/control-room" style="color:#111827;text-decoration:none">控制室：一个中央系统，用于跟踪和停止我们研究基础设施中的模型工作负载</a></h4>
 <p style="line-height:1.75;margin:0 0 6px">了解 OpenAI 的控制室如何跟踪我们研究基础设施中的模型工作负载，并在出现安全问题时快速阻止它们。</p>
 <p style="color:#9ca3af;font-size:12px;margin:0 0 4px">来源：OpenAI Research · Control Room: A central system to track and stop model workloads across our research infrastructure</p>
-<h4 style="margin:16px 0 6px;font-size:16px;line-height:1.5">5. <a href="https://news.google.com/rss/articles/CBMiYkFVX3lxTE5mZm01S0Via2g3cWczVVB5YlNSMlI1a2FKekVZY0liWmMzQndHSnIyNVd2RnlLUWFWb3ItWG1KZVZQY2Q3aUlGeGM2UzRDb0Qxc3dtWEFQZkN3TDdmMDJoam1R?oc=5" style="color:#111827;text-decoration:none">更糟糕的是：多用户多代理团队的性能如何下降</a></h4>
-<p style="line-height:1.75;margin:0 0 6px">更糟糕的是：多用户多代理团队的性能如何下降 人类对齐科学博客</p>
-<p style="color:#9ca3af;font-size:12px;margin:0 0 4px">来源：Anthropic · Worse Together: How Performance Breaks Down in Multi-User Multi-Agent Teams</p>]]></description>
-<pubDate>Wed, 18 Nov 2026 22:40:50 +0800</pubDate>
+<h4 style="margin:16px 0 6px;font-size:16px;line-height:1.5">5. <a href="https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence/" style="color:#111827;text-decoration:none">Gemini Robotics 2.5 加速现实世界的通用灵活性</a></h4>
+<p style="margin:0 0 8px"><img src="https://lh3.googleusercontent.com/F1CrVEYRb8lJOyyxGgcyow-Td1de-nkp7K8MZrhjrKPANJUc0EYB754Ninn-Yrppjdb54nolOWo6Rk8iDaRNuixWwLaEKc0K9ImGooxen9fj9IOh=w528-h297-n-nu-rw-lo" alt="" style="max-width:100%;border-radius:6px"/></p>
+<p style="line-height:1.75;margin:0 0 6px">我们最强大的视觉-语言-动作模型增强了机器人的灵活性、可靠性和安全性</p>
+<p style="color:#9ca3af;font-size:12px;margin:0 0 4px">来源：Google DeepMind · Gemini Robotics 2.5 accelerates real-world general dexterity</p>]]></description>
+<pubDate>Wed, 18 Nov 2026 22:44:00 +0800</pubDate>
 <dc:source>BBC News / VOA / NBC</dc:source>
 <category>每日新闻</category>
 <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/331b/live/2dc2ba90-e33e-11f1-9479-d17d3e98c29d.jpg" medium="image"/>

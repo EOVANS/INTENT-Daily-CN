@@ -1,6 +1,6 @@
 {
   "date": "2026-11-18",
-  "generated_at": "2026-11-18T22:40:50.041929+08:00",
+  "generated_at": "2026-11-18T22:44:00.689812+08:00",
   "rss": "https://raw.githubusercontent.com/EOVANS/INTENT-Daily-CN/main/docs/feed.xml",
   "markdown": "https://raw.githubusercontent.com/EOVANS/INTENT-Daily-CN/main/docs/latest.md",
   "blocks": [
@@ -60,7 +60,7 @@
           "url": "https://www.bbc.co.uk/news/articles/ck9d75x5wwwwo?at_medium=RSS&at_campaign=rss",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a9fb/live/b2707bf0-e349-11f1-99aa-0f40b013ad11.jpg",
           "published": "2026-11-18T12:39:24+00:00",
-          "score": 10.92
+          "score": 10.91
         },
         {
           "rank": 6,
@@ -146,14 +146,14 @@
         },
         {
           "rank": 5,
-          "source": "Anthropic",
-          "title_zh": "更糟糕的是：多用户多代理团队的性能如何下降",
-          "title_en": "Worse Together: How Performance Breaks Down in Multi-User Multi-Agent Teams",
-          "summary_zh": "更糟糕的是：多用户多代理团队的性能如何下降 人类对齐科学博客",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5mZm01S0Via2g3cWczVVB5YlNSMlI1a2FKekVZY0liWmMzQndHSnIyNVd2RnlLUWFWb3ItWG1KZVZQY2Q3aUlGeGM2UzRDb0Qxc3dtWEFQZkN3TDdmMDJoam1R?oc=5",
-          "image": "",
-          "published": "2026-11-11T17:13:59+00:00",
-          "score": 7.5
+          "source": "Google DeepMind",
+          "title_zh": "Gemini Robotics 2.5 加速现实世界的通用灵活性",
+          "title_en": "Gemini Robotics 2.5 accelerates real-world general dexterity",
+          "summary_zh": "我们最强大的视觉-语言-动作模型增强了机器人的灵活性、可靠性和安全性",
+          "url": "https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence/",
+          "image": "https://lh3.googleusercontent.com/F1CrVEYRb8lJOyyxGgcyow-Td1de-nkp7K8MZrhjrKPANJUc0EYB754Ninn-Yrppjdb54nolOWo6Rk8iDaRNuixWwLaEKc0K9ImGooxen9fj9IOh=w528-h297-n-nu-rw-lo",
+          "published": "2026-11-09T19:51:47+00:00",
+          "score": 9.5
         }
       ]
     }
@@ -163,7 +163,7 @@
     "VOA": 5,
     "NBC": 7,
     "OpenAI Research": 72,
-    "Google DeepMind": 4,
+    "Google DeepMind": 10,
     "Anthropic": 11,
     "arXiv cs.AI": 319
   }
