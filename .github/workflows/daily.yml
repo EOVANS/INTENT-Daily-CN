@@ -73,3 +73,10 @@ jobs:
             git commit -m "feed: $(TZ=Asia/Shanghai date +%Y-%m-%d) 每日新闻 + AI 研究"
             git push
           fi
+
+      - name: Purge jsDelivr cache
+        if: steps.guard.outputs.skip != 'true'
+        run: |
+          for p in docs/feed.xml docs/latest.md docs/latest.json; do
+            curl -s -m 20 "https://purge.jsdelivr.net/gh/${{ github.repository }}@main/$p" > /dev/null && echo "purged $p" || true
+          done
