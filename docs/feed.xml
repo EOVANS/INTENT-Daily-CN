@@ -6,14 +6,76 @@
 <atom:link href="https://raw.githubusercontent.com/EOVANS/INTENT-Daily-CN/main/docs/feed.xml" rel="self" type="application/rss+xml"/>
 <description><![CDATA[每日北京时间 07:35 自动更新，每期一条，内含当天国际要闻（BBC News / VOA / NBC）与 AI 研究动态（OpenAI Research / Google DeepMind / Anthropic / arXiv）的中文摘要。]]></description>
 <language>zh-CN</language>
-<lastBuildDate>Thu, 19 Nov 2026 04:26:38 GMT</lastBuildDate>
+<lastBuildDate>Fri, 20 Nov 2026 00:46:08 GMT</lastBuildDate>
 <generator>INTENT Daily CN</generator>
 <ttl>60</ttl>
 <image>
-<url>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/17b2/live/72c78770-e36f-11f1-a094-5fdc692f3e33.jpg</url>
+<url>https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-11/261118-trump-putin0xi-mb-1145-4e0e2f.jpg</url>
 <title>每日新闻</title>
 <link>https://github.com/EOVANS/INTENT-Daily-CN</link>
 </image>
+<item>
+<title>每日新闻 · 2026-11-20｜13 条要闻</title>
+<link>https://github.com/EOVANS/INTENT-Daily-CN/blob/main/docs/daily/2026-11-20.md</link>
+<guid isPermaLink="false">https://raw.githubusercontent.com/EOVANS/INTENT-Daily-CN/main/docs/feed.xml#2026-11-20</guid>
+<description><![CDATA[<h3 style="margin:22px 0 6px;font-size:15px;color:#1d4ed8">一、国际要闻（BBC / VOA / NBC）</h3>
+<p style="color:#6b7280;font-size:12px;margin:0 0 10px">过去 24 小时全球 Breaking News，按重要性降序。</p>
+<h4 style="margin:16px 0 6px;font-size:16px;line-height:1.5">1. <a href="https://www.nbcnews.com/world/asia/trump-pushes-three-way-nuclear-deal-russia-china-show-little-interest-rcna610145" style="color:#111827;text-decoration:none">俄罗斯和中国兴趣不大，特朗普推动三方核协议</a></h4>
+<p style="margin:0 0 8px"><img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-11/261118-trump-putin0xi-mb-1145-4e0e2f.jpg" alt="" style="max-width:100%;border-radius:6px"/></p>
+<p style="line-height:1.75;margin:0 0 6px">唐纳德·特朗普总统在周四与中国国家主席习近平和俄罗斯总统弗拉基米尔·普京举行的史无前例的三边会议上多次将防扩散问题列为首要议程，但他的目标是</p>
+<p style="color:#9ca3af;font-size:12px;margin:0 0 4px">来源：NBC · Trump pushes for three-way nuclear deal as Russia and China show little interest</p>
+<h4 style="margin:16px 0 6px;font-size:16px;line-height:1.5">2. <a href="https://www.bbc.co.uk/news/articles/cm879dqn3e1jo?at_medium=RSS&amp;at_campaign=rss" style="color:#111827;text-decoration:none">普京誓言将对乌克兰袭击克里米亚大桥做出“更加痛苦”的反应</a></h4>
+<p style="margin:0 0 8px"><img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4dc7/live/1a9ba6c0-e424-11f1-b782-6bf340d7e154.jpg" alt="" style="max-width:100%;border-radius:6px"/></p>
+<p style="line-height:1.75;margin:0 0 6px">这座桥是俄罗斯占领克里米亚半岛的象征，在本周早些时候乌克兰的联合袭击中遭到严重损坏。</p>
+<p style="color:#9ca3af;font-size:12px;margin:0 0 4px">来源：BBC News · Putin vows &#x27;far more painful&#x27; response to Ukraine&#x27;s strikes on Crimean Bridge</p>
+<h4 style="margin:16px 0 6px;font-size:16px;line-height:1.5">3. <a href="https://www.bbc.co.uk/news/articles/ckzd9nln5e6go?at_medium=RSS&amp;at_campaign=rss" style="color:#111827;text-decoration:none">领导人称欧洲已准备好与俄罗斯就结束乌克兰战争进行谈判</a></h4>
+<p style="margin:0 0 8px"><img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1fd8/live/5c168a90-e44a-11f1-a094-5fdc692f3e33.jpg" alt="" style="max-width:100%;border-radius:6px"/></p>
+<p style="line-height:1.75;margin:0 0 6px">乌克兰的欧洲盟友表示，他们在柏林峰会上拥有“统一”的谈判立场。</p>
+<p style="color:#9ca3af;font-size:12px;margin:0 0 4px">来源：BBC News · Europe ready for talks with Russia on ending war in Ukraine, leaders say</p>
+<h4 style="margin:16px 0 6px;font-size:16px;line-height:1.5">4. <a href="https://www.bbc.co.uk/news/articles/c623j4ln97x7o?at_medium=RSS&amp;at_campaign=rss" style="color:#111827;text-decoration:none">特朗普、普京和习近平在历史性会晤后发表“和平宣言”</a></h4>
+<p style="margin:0 0 8px"><img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/56c4/live/c36d8970-e448-11f1-a094-5fdc692f3e33.jpg" alt="" style="max-width:100%;border-radius:6px"/></p>
+<p style="line-height:1.75;margin:0 0 6px">虽然两国总统此前曾进行过一对一会议，但这是他们的首次三边讨论。</p>
+<p style="color:#9ca3af;font-size:12px;margin:0 0 4px">来源：BBC News · Trump, Putin and Xi release &#x27;peace declaration&#x27; after historic meeting</p>
+<h4 style="margin:16px 0 6px;font-size:16px;line-height:1.5">5. <a href="https://www.bbc.co.uk/news/videos/c63rgnq05pdwo?at_medium=RSS&amp;at_campaign=rss" style="color:#111827;text-decoration:none">BBC 记者讨论特朗普、习近平和普京从历史性会谈中获得的成果</a></h4>
+<p style="margin:0 0 8px"><img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f353/live/34533260-e445-11f1-99b6-a35a62fa4264.jpg" alt="" style="max-width:100%;border-radius:6px"/></p>
+<p style="line-height:1.75;margin:0 0 6px">特朗普、普京和习近平在历史性的三边会谈后发表了“联合和平宣言”，但他们从会晤中得到了什么？</p>
+<p style="color:#9ca3af;font-size:12px;margin:0 0 4px">来源：BBC News · BBC correspondents discuss what Trump, Xi and Putin got out of historic talks</p>
+<h4 style="margin:16px 0 6px;font-size:16px;line-height:1.5">6. <a href="https://www.nbcnews.com/nightly-news/video/trump-s-historic-summit-with-xi-putin-273862213792" style="color:#111827;text-decoration:none">特朗普与习近平、普京的历史性峰会</a></h4>
+<p style="margin:0 0 8px"><img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_11/1795131957996_nn_tll_trump_xi_putin_summit_261119_S3_1920x1080-56lsdr.jpg" alt="" style="max-width:100%;border-radius:6px"/></p>
+<p style="line-height:1.75;margin:0 0 6px">特朗普总统与中国和俄罗斯领导人举行了历史性的三边峰会。 NBC 晚间新闻主播汤姆·拉马斯报道。</p>
+<p style="color:#9ca3af;font-size:12px;margin:0 0 4px">来源：NBC · Trump’s historic summit with Xi, Putin</p>
+<h4 style="margin:16px 0 6px;font-size:16px;line-height:1.5">7. <a href="https://www.nbcnews.com/video/-historic-embarrassment-schumer-criticizes-trump-s-meeting-with-xi-and-putin-273834053504" style="color:#111827;text-decoration:none">“历史性的尴尬”：舒默批评特朗普与习近平和普京的会面</a></h4>
+<p style="margin:0 0 8px"><img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_11/Schumer_Thumb_Site-fcs80t.jpg" alt="" style="max-width:100%;border-radius:6px"/></p>
+<p style="line-height:1.75;margin:0 0 6px">纽约州民主党参议员查克·舒默称特朗普总统与习近平和普京的三边会晤是“历史性的尴尬”，批评总统对中国和俄罗斯表现出友好的态度</p>
+<p style="color:#9ca3af;font-size:12px;margin:0 0 4px">来源：NBC · &#x27;Historic embarrassment&#x27;: Schumer criticizes Trump’s meeting with Xi and Putin</p>
+<h4 style="margin:16px 0 6px;font-size:16px;line-height:1.5">8. <a href="https://www.nbcnews.com/world/middle-east/gaza-ceasefire-tested-israel-tanks-cross-yellow-line-ground-raid-rcna610169" style="color:#111827;text-decoration:none">以色列坦克越过加沙停火“黄线”，巴勒斯坦人逃离</a></h4>
+<p style="margin:0 0 8px"><img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-11/261119-evacuate-gaza-2-rs-0182e2.jpg" alt="" style="max-width:100%;border-radius:6px"/></p>
+<p style="line-height:1.75;margin:0 0 6px">以色列越过加沙黄色停火线的地面行动迫使巴勒斯坦人逃离临时避难所，这标志着冲突再次升级，并有可能破坏本已岌岌可危的停火协议</p>
+<p style="color:#9ca3af;font-size:12px;margin:0 0 4px">来源：NBC · Palestinians flee as Israeli tanks cross Gaza ceasefire’s ‘yellow line’</p>
+<h3 style="margin:22px 0 6px;font-size:15px;color:#1d4ed8">二、AI 研究动态（OpenAI Research 等）</h3>
+<p style="color:#6b7280;font-size:12px;margin:0 0 10px">OpenAI Research、Google DeepMind、Anthropic、arXiv cs.AI 的最新研究与发布。</p>
+<h4 style="margin:16px 0 6px;font-size:16px;line-height:1.5">1. <a href="https://arxiv.org/abs/2608.08077" style="color:#111827;text-decoration:none">探索、绘制、记住、决策：安全关键场景中 VLM 准备情况的基准</a></h4>
+<p style="line-height:1.75;margin:0 0 6px">arXiv:2608.08077v2 公告类型：替换 摘要：视觉语言模型 (VLM) 通常被部署为机器人技术的具体控制器，但目前尚不清楚它们能够如何很好地探索环境、维护内部信息</p>
+<p style="color:#9ca3af;font-size:12px;margin:0 0 4px">来源：arXiv cs.AI · Explore, Map, Remember, Decide: A Benchmark for VLM Readiness in Safety-Critical Scenarios</p>
+<h4 style="margin:16px 0 6px;font-size:16px;line-height:1.5">2. <a href="https://arxiv.org/abs/2609.33319" style="color:#111827;text-decoration:none">PhysAlign：多模态物理推理中循证角色调整的基准</a></h4>
+<p style="line-height:1.75;margin:0 0 6px">arXiv:2609.33319v2 公告类型：替换 摘要：物理图理解的一个关键挑战是将视觉信息与其描述的物理实体、关系和条件正确关联起来。即使什么</p>
+<p style="color:#9ca3af;font-size:12px;margin:0 0 4px">来源：arXiv cs.AI · PhysAlign: A Benchmark for Evidence-Grounded Role Alignment in Multimodal Physics Reasoning</p>
+<h4 style="margin:16px 0 6px;font-size:16px;line-height:1.5">3. <a href="https://openai.com/index/managing-frontier-ai-risk" style="color:#111827;text-decoration:none">管理前沿人工智能风险：从培训到部署</a></h4>
+<p style="line-height:1.75;margin:0 0 6px">OpenAI 解释了它如何通过模型对齐、沙盒、阻止防护措施和监控来管理从培训到部署的前沿人工智能风险。</p>
+<p style="color:#9ca3af;font-size:12px;margin:0 0 4px">来源：OpenAI Research · Managing frontier AI risk: From training to deployment</p>
+<h4 style="margin:16px 0 6px;font-size:16px;line-height:1.5">4. <a href="https://openai.com/index/control-room" style="color:#111827;text-decoration:none">控制室：一个中央系统，用于跟踪和停止我们研究基础设施中的模型工作负载</a></h4>
+<p style="line-height:1.75;margin:0 0 6px">了解 OpenAI 的控制室如何跟踪我们研究基础设施中的模型工作负载，并在出现安全问题时快速阻止它们。</p>
+<p style="color:#9ca3af;font-size:12px;margin:0 0 4px">来源：OpenAI Research · Control Room: A central system to track and stop model workloads across our research infrastructure</p>
+<h4 style="margin:16px 0 6px;font-size:16px;line-height:1.5">5. <a href="https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence/" style="color:#111827;text-decoration:none">Gemini Robotics 2.5 加速现实世界的通用灵活性</a></h4>
+<p style="margin:0 0 8px"><img src="https://lh3.googleusercontent.com/F1CrVEYRb8lJOyyxGgcyow-Td1de-nkp7K8MZrhjrKPANJUc0EYB754Ninn-Yrppjdb54nolOWo6Rk8iDaRNuixWwLaEKc0K9ImGooxen9fj9IOh=w528-h297-n-nu-rw-lo" alt="" style="max-width:100%;border-radius:6px"/></p>
+<p style="line-height:1.75;margin:0 0 6px">我们最强大的视觉-语言-动作模型增强了机器人的灵活性、可靠性和安全性</p>
+<p style="color:#9ca3af;font-size:12px;margin:0 0 4px">来源：Google DeepMind · Gemini Robotics 2.5 accelerates real-world general dexterity</p>]]></description>
+<pubDate>Fri, 20 Nov 2026 00:46:08 GMT</pubDate>
+<dc:source>BBC News / VOA / NBC</dc:source>
+<category>每日新闻</category>
+<media:content url="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-11/261118-trump-putin0xi-mb-1145-4e0e2f.jpg" medium="image"/>
+<media:thumbnail url="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-11/261118-trump-putin0xi-mb-1145-4e0e2f.jpg"/>
+</item>
 <item>
 <title>每日新闻 · 2026-11-19｜13 条要闻</title>
 <link>https://github.com/EOVANS/INTENT-Daily-CN/blob/main/docs/daily/2026-11-19.md</link>

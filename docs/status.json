@@ -1,10 +1,10 @@
 {
-  "started": "2026-11-19T04:26:38+0000",
+  "started": "2026-11-20T00:46:08+0000",
   "feeds": {
     "https://feeds.bbci.co.uk/news/world/rss.xml": {
       "ok": true,
-      "bytes": 25799,
-      "entries": 33
+      "bytes": 27914,
+      "entries": 36
     },
     "https://www.voanews.com/api/zrqoev-qqm": {
       "ok": true,
@@ -18,33 +18,23 @@
     },
     "https://news.google.com/rss/search?q=site:voanews.com+when:7d&hl=en-US&gl=US&ceid=US:en": {
       "ok": true,
-      "bytes": 70215,
-      "entries": 53
+      "bytes": 68493,
+      "entries": 54
     },
     "https://feeds.nbcnews.com/nbcnews/public/world": {
       "ok": true,
-      "bytes": 65282,
+      "bytes": 66478,
       "entries": 25
     },
     "https://openai.com/news/rss.xml": {
       "ok": true,
-      "bytes": 860055,
-      "entries": 1413
+      "bytes": 863009,
+      "entries": 1418
     },
     "https://deepmind.google/blog/rss.xml": {
       "ok": true,
-      "bytes": 18235,
-      "xml_error": "not well-formed (invalid token): line 1, column 0"
-    },
-    "https://deepmind.com/blog/feed/basic": {
-      "ok": true,
-      "bytes": 18235,
-      "xml_error": "not well-formed (invalid token): line 1, column 0"
-    },
-    "https://news.google.com/rss/search?q=site:deepmind.google+when:7d&hl=en-US&gl=US&ceid=US:en": {
-      "ok": true,
-      "bytes": 6864,
-      "entries": 6
+      "bytes": 67710,
+      "entries": 100
     },
     "https://www.anthropic.com/rss.xml": {
       "ok": false,
@@ -56,13 +46,13 @@
     },
     "https://news.google.com/rss/search?q=site:anthropic.com+when:7d&hl=en-US&gl=US&ceid=US:en": {
       "ok": true,
-      "bytes": 13261,
-      "entries": 13
+      "bytes": 20938,
+      "entries": 21
     },
     "http://export.arxiv.org/rss/cs.AI": {
       "ok": true,
-      "bytes": 709773,
-      "entries": 319
+      "bytes": 886934,
+      "entries": 401
     }
   },
   "translate": {
@@ -75,55 +65,55 @@
   "translate_provider": "google-clients5",
   "sources": {
     "BBC News": {
-      "raw": 33,
+      "raw": 36,
       "in_window": 30,
       "from_google": 0,
       "undated": 0,
       "used": 30
     },
     "VOA": {
-      "raw": 2,
-      "in_window": 2,
-      "from_google": 3,
+      "raw": 5,
+      "in_window": 5,
+      "from_google": 5,
       "undated": 0,
-      "used": 2
+      "used": 5
     },
     "NBC": {
       "raw": 25,
-      "in_window": 8,
-      "from_google": 0,
-      "undated": 0,
-      "used": 8
-    },
-    "OpenAI Research": {
-      "raw": 1413,
-      "in_window": 76,
-      "from_google": 0,
-      "undated": 0,
-      "used": 76
-    },
-    "Google DeepMind": {
-      "raw": 6,
       "in_window": 6,
-      "from_google": 6,
+      "from_google": 0,
       "undated": 0,
       "used": 6
     },
-    "Anthropic": {
-      "raw": 13,
-      "in_window": 13,
-      "from_google": 13,
-      "undated": 0,
-      "used": 13
-    },
-    "arXiv cs.AI": {
-      "raw": 319,
-      "in_window": 319,
+    "OpenAI Research": {
+      "raw": 1418,
+      "in_window": 77,
       "from_google": 0,
       "undated": 0,
-      "used": 319
+      "used": 77
+    },
+    "Google DeepMind": {
+      "raw": 100,
+      "in_window": 11,
+      "from_google": 0,
+      "undated": 0,
+      "used": 11
+    },
+    "Anthropic": {
+      "raw": 21,
+      "in_window": 21,
+      "from_google": 21,
+      "undated": 0,
+      "used": 21
+    },
+    "arXiv cs.AI": {
+      "raw": 401,
+      "in_window": 401,
+      "from_google": 0,
+      "undated": 0,
+      "used": 401
     }
   },
   "error": null,
-  "finished": "2026-11-19T04:26:58+0000"
+  "finished": "2026-11-20T00:46:21+0000"
 }

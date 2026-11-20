@@ -1,6 +1,6 @@
 {
-  "date": "2026-11-19",
-  "generated_at": "2026-11-19T12:26:38.820339+08:00",
+  "date": "2026-11-20",
+  "generated_at": "2026-11-20T08:46:08.457274+08:00",
   "rss": "https://raw.githubusercontent.com/EOVANS/INTENT-Daily-CN/main/docs/feed.xml",
   "markdown": "https://raw.githubusercontent.com/EOVANS/INTENT-Daily-CN/main/docs/latest.md",
   "blocks": [
@@ -9,28 +9,6 @@
       "items": [
         {
           "rank": 1,
-          "source": "BBC News",
-          "title_zh": "史蒂夫·罗森伯格：与习近平和特朗普的历史性会谈对普京来说是一个妙招",
-          "title_en": "Steve Rosenberg: Historic talks with Xi and Trump are a coup for Putin",
-          "summary_zh": "周四美国、中国和俄罗斯领导人之间的会晤将为弗拉基米尔·普京提供一个大舞台，但这并不会让他更接近赢得乌克兰战争。",
-          "url": "https://www.bbc.co.uk/news/articles/c9n70gd320mpo?at_medium=RSS&at_campaign=rss",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/17b2/live/72c78770-e36f-11f1-a094-5fdc692f3e33.jpg",
-          "published": "2026-11-18T10:53:21+00:00",
-          "score": 19.77
-        },
-        {
-          "rank": 2,
-          "source": "NBC",
-          "title_zh": "乌克兰泽伦斯基对特朗普在乌克兰持续战争期间会见普京做出反应",
-          "title_en": "Ukraine's Zelenskyy reacts to Trump meeting Putin amid ongoing war in Ukraine",
-          "summary_zh": "乌克兰总统弗拉基米尔·泽连斯基告诉 NBC 新闻的理查德·恩格尔，他将“做他必须做的事情”，继续为“自由”而战，据报道，俄罗斯总统弗拉基米尔·普京取消了暗杀乌克兰总统的禁令。",
-          "url": "https://www.nbcnews.com/video/ukraine-s-zelenskyy-reacts-to-trump-meeting-putin-amid-ongoing-war-in-ukraine-273775685575",
-          "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_11/1795048250544_now_hallie_zelenskyy_interview_engel_261118_S3_1920x1080-s9cwm3.jpg",
-          "published": "2026-11-19T00:30:58+00:00",
-          "score": 16.15
-        },
-        {
-          "rank": 3,
           "source": "NBC",
           "title_zh": "俄罗斯和中国兴趣不大，特朗普推动三方核协议",
           "title_en": "Trump pushes for three-way nuclear deal as Russia and China show little interest",
@@ -38,62 +16,84 @@
           "url": "https://www.nbcnews.com/world/asia/trump-pushes-three-way-nuclear-deal-russia-china-show-little-interest-rcna610145",
           "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-11/261118-trump-putin0xi-mb-1145-4e0e2f.jpg",
           "published": "2026-11-19T03:46:42+00:00",
-          "score": 14.03
+          "score": 13.26
+        },
+        {
+          "rank": 2,
+          "source": "BBC News",
+          "title_zh": "普京誓言将对乌克兰袭击克里米亚大桥做出“更加痛苦”的反应",
+          "title_en": "Putin vows 'far more painful' response to Ukraine's strikes on Crimean Bridge",
+          "summary_zh": "这座桥是俄罗斯占领克里米亚半岛的象征，在本周早些时候乌克兰的联合袭击中遭到严重损坏。",
+          "url": "https://www.bbc.co.uk/news/articles/cm879dqn3e1jo?at_medium=RSS&at_campaign=rss",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4dc7/live/1a9ba6c0-e424-11f1-b782-6bf340d7e154.jpg",
+          "published": "2026-11-19T13:07:35+00:00",
+          "score": 12.51
+        },
+        {
+          "rank": 3,
+          "source": "BBC News",
+          "title_zh": "领导人称欧洲已准备好与俄罗斯就结束乌克兰战争进行谈判",
+          "title_en": "Europe ready for talks with Russia on ending war in Ukraine, leaders say",
+          "summary_zh": "乌克兰的欧洲盟友表示，他们在柏林峰会上拥有“统一”的谈判立场。",
+          "url": "https://www.bbc.co.uk/news/articles/ckzd9nln5e6go?at_medium=RSS&at_campaign=rss",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1fd8/live/5c168a90-e44a-11f1-a094-5fdc692f3e33.jpg",
+          "published": "2026-11-19T21:21:43+00:00",
+          "score": 11.86
         },
         {
           "rank": 4,
           "source": "BBC News",
-          "title_zh": "新视频显示克里米亚大桥部分倒塌前不久发生爆炸",
-          "title_en": "New video shows explosions moments before part of Crimea Bridge collapses",
-          "summary_zh": "BBC verify 分析了显示桥梁部分倒塌前最后时刻的镜头以及显示破坏规模的视频。",
-          "url": "https://www.bbc.co.uk/news/videos/ckvg28jy77z5o?at_medium=RSS&at_campaign=rss",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/442c/live/51ebbbe0-e36d-11f1-99a1-253766e7ad8b.png",
-          "published": "2026-11-18T17:09:43+00:00",
-          "score": 13.53
+          "title_zh": "特朗普、普京和习近平在历史性会晤后发表“和平宣言”",
+          "title_en": "Trump, Putin and Xi release 'peace declaration' after historic meeting",
+          "summary_zh": "虽然两国总统此前曾进行过一对一会议，但这是他们的首次三边讨论。",
+          "url": "https://www.bbc.co.uk/news/articles/c623j4ln97x7o?at_medium=RSS&at_campaign=rss",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/56c4/live/c36d8970-e448-11f1-a094-5fdc692f3e33.jpg",
+          "published": "2026-11-19T17:38:22+00:00",
+          "score": 10.7
         },
         {
           "rank": 5,
           "source": "BBC News",
-          "title_zh": "在旧天然气管道内，乌克兰正在与俄罗斯进行地下战争",
-          "title_en": "Inside the old gas pipeline where Ukraine is fighting an underground war with Russia",
-          "summary_zh": "观看：BBC 的乔纳森·比尔 (Jonathan Beale) 与乌克兰军队一起在地下、俄罗斯无人机看不见的地方进行战斗。",
-          "url": "https://www.bbc.co.uk/news/videos/c8p3vw4q6nzzo?at_medium=RSS&at_campaign=rss",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7a52/live/a0e1e280-e36b-11f1-99b6-a35a62fa4264.jpg",
-          "published": "2026-11-18T17:00:40+00:00",
-          "score": 13.52
+          "title_zh": "BBC 记者讨论特朗普、习近平和普京从历史性会谈中获得的成果",
+          "title_en": "BBC correspondents discuss what Trump, Xi and Putin got out of historic talks",
+          "summary_zh": "特朗普、普京和习近平在历史性的三边会谈后发表了“联合和平宣言”，但他们从会晤中得到了什么？",
+          "url": "https://www.bbc.co.uk/news/videos/c63rgnq05pdwo?at_medium=RSS&at_campaign=rss",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f353/live/34533260-e445-11f1-99b6-a35a62fa4264.jpg",
+          "published": "2026-11-19T17:23:29+00:00",
+          "score": 10.69
         },
         {
           "rank": 6,
           "source": "NBC",
-          "title_zh": "尽管利率上升，特朗普仍吹捧美国贸易协议和通胀",
-          "title_en": "Trump touts U.S. trade deals, inflation despite increased rates",
-          "summary_zh": "特朗普总统在 APEC 峰会上发表讲话时声称美国通胀率有所下降，并表示“过去三个月我们的通胀率低于 2%，这已经很了不起了”，并谈到了贸易协议。根据",
-          "url": "https://www.nbcnews.com/video/trump-touts-u-s-trade-deals-inflation-despite-increased-rates-273785413517",
-          "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_11/1795060685676_f_mo_la_trump_apec_inflation_trade_261118_S3_1920x1080-wlm2d7.jpg",
-          "published": "2026-11-19T03:58:10+00:00",
-          "score": 10.88
+          "title_zh": "特朗普与习近平、普京的历史性峰会",
+          "title_en": "Trump’s historic summit with Xi, Putin",
+          "summary_zh": "特朗普总统与中国和俄罗斯领导人举行了历史性的三边峰会。 NBC 晚间新闻主播汤姆·拉马斯报道。",
+          "url": "https://www.nbcnews.com/nightly-news/video/trump-s-historic-summit-with-xi-putin-273862213792",
+          "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_11/1795131957996_nn_tll_trump_xi_putin_summit_261119_S3_1920x1080-56lsdr.jpg",
+          "published": "2026-11-19T23:46:03+00:00",
+          "score": 9.96
         },
         {
           "rank": 7,
-          "source": "BBC News",
-          "title_zh": "BBC 记者讨论历史性的特朗普、习近平和普京会面",
-          "title_en": "BBC correspondents discuss historic Trump, Xi and Putin meeting",
-          "summary_zh": "BBC 的劳拉·比克 (Laura Bicker)、史蒂夫·罗森伯格 (Steve Rosenberg) 和纳达·陶菲克 (Nada Tawfik) 在这场史无前例的三边会议之前解释了您需要了解的一切。",
-          "url": "https://www.bbc.co.uk/news/videos/cqp86k23d84ro?at_medium=RSS&at_campaign=rss",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e20b/live/66ff6490-e323-11f1-a094-5fdc692f3e33.jpg",
-          "published": "2026-11-18T08:33:32+00:00",
-          "score": 10.17
+          "source": "NBC",
+          "title_zh": "“历史性的尴尬”：舒默批评特朗普与习近平和普京的会面",
+          "title_en": "'Historic embarrassment': Schumer criticizes Trump’s meeting with Xi and Putin",
+          "summary_zh": "纽约州民主党参议员查克·舒默称特朗普总统与习近平和普京的三边会晤是“历史性的尴尬”，批评总统对中国和俄罗斯表现出友好的态度",
+          "url": "https://www.nbcnews.com/video/-historic-embarrassment-schumer-criticizes-trump-s-meeting-with-xi-and-putin-273834053504",
+          "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_11/Schumer_Thumb_Site-fcs80t.jpg",
+          "published": "2026-11-19T19:42:11+00:00",
+          "score": 9.81
         },
         {
           "rank": 8,
           "source": "NBC",
-          "title_zh": "特朗普与普京和习近平的会晤值得期待",
-          "title_en": "What to expect from Trump's meeting with Putin and Xi Jinping",
-          "summary_zh": "NBC 新闻的 Janis Mackey Frayer 和 Gabe Gutierrez 探讨了 APEC 峰会期间特朗普总统与普京总统和习近平主席会面的潜在预期以及各国可能提出的要求。",
-          "url": "https://www.nbcnews.com/video/what-to-expect-from-trump-s-meeting-with-putin-and-xi-jinping-273779781736",
-          "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_11/1795052345616_now_topstory_trilateral_trump_putin_xijinping_261118_S3_1920x1080-e3375f.jpg",
-          "published": "2026-11-19T01:39:13+00:00",
-          "score": 9.9
+          "title_zh": "以色列坦克越过加沙停火“黄线”，巴勒斯坦人逃离",
+          "title_en": "Palestinians flee as Israeli tanks cross Gaza ceasefire’s ‘yellow line’",
+          "summary_zh": "以色列越过加沙黄色停火线的地面行动迫使巴勒斯坦人逃离临时避难所，这标志着冲突再次升级，并有可能破坏本已岌岌可危的停火协议",
+          "url": "https://www.nbcnews.com/world/middle-east/gaza-ceasefire-tested-israel-tanks-cross-yellow-line-ground-raid-rcna610169",
+          "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-11/261119-evacuate-gaza-2-rs-0182e2.jpg",
+          "published": "2026-11-19T15:58:08+00:00",
+          "score": 8.77
         }
       ]
     },
@@ -108,8 +108,8 @@
           "summary_zh": "arXiv:2608.08077v2 公告类型：替换 摘要：视觉语言模型 (VLM) 通常被部署为机器人技术的具体控制器，但目前尚不清楚它们能够如何很好地探索环境、维护内部信息",
           "url": "https://arxiv.org/abs/2608.08077",
           "image": "",
-          "published": "2026-11-18T00:00:00-05:00",
-          "score": 21.69
+          "published": "2026-11-19T00:00:00-05:00",
+          "score": 21.82
         },
         {
           "rank": 2,
@@ -119,22 +119,11 @@
           "summary_zh": "arXiv:2609.33319v2 公告类型：替换 摘要：物理图理解的一个关键挑战是将视觉信息与其描述的物理实体、关系和条件正确关联起来。即使什么",
           "url": "https://arxiv.org/abs/2609.33319",
           "image": "",
-          "published": "2026-11-18T00:00:00-05:00",
-          "score": 20.84
+          "published": "2026-11-19T00:00:00-05:00",
+          "score": 20.97
         },
         {
           "rank": 3,
-          "source": "OpenAI Research",
-          "title_zh": "我们如何检测前沿模型错位",
-          "title_en": "How we detect frontier model misalignment",
-          "summary_zh": "OpenAI 使用分层监控来检测前沿模型错位和未经授权的代理行为，以便响应人员可以在事件升级之前进行干预。",
-          "url": "https://openai.com/index/how-we-detect-frontier-model-misalignment",
-          "image": "",
-          "published": "2026-10-29T09:00:00+00:00",
-          "score": 12.5
-        },
-        {
-          "rank": 4,
           "source": "OpenAI Research",
           "title_zh": "管理前沿人工智能风险：从培训到部署",
           "title_en": "Managing frontier AI risk: From training to deployment",
@@ -142,29 +131,40 @@
           "url": "https://openai.com/index/managing-frontier-ai-risk",
           "image": "",
           "published": "2026-11-18T06:00:00+00:00",
-          "score": 12.06
+          "score": 11.22
+        },
+        {
+          "rank": 4,
+          "source": "OpenAI Research",
+          "title_zh": "控制室：一个中央系统，用于跟踪和停止我们研究基础设施中的模型工作负载",
+          "title_en": "Control Room: A central system to track and stop model workloads across our research infrastructure",
+          "summary_zh": "了解 OpenAI 的控制室如何跟踪我们研究基础设施中的模型工作负载，并在出现安全问题时快速阻止它们。",
+          "url": "https://openai.com/index/control-room",
+          "image": "",
+          "published": "2026-11-09T13:00:00+00:00",
+          "score": 11.0
         },
         {
           "rank": 5,
           "source": "Google DeepMind",
-          "title_zh": "{型号名称 + 版本} - 型号卡 - Google DeepMind",
-          "title_en": "{Model name + Version} - Model Card - Google DeepMind",
-          "summary_zh": "{型号名称 + 版本} - 型号卡 Google DeepMind",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9uMDBhNnFaYU9QNDBlamg0MFItWXUtMDUtQkpGTWtnZTdpcW9UeUNqQ2J1dWZhWUNYNjlhbHZQRVFuaDRlLUozeWEyeUNJbDhHRFhWbTdHREV5YXNfaFNRMmFKdmlIaDl6?oc=5",
-          "image": "",
-          "published": "2026-11-18T21:51:51+00:00",
-          "score": 8.73
+          "title_zh": "Gemini Robotics 2.5 加速现实世界的通用灵活性",
+          "title_en": "Gemini Robotics 2.5 accelerates real-world general dexterity",
+          "summary_zh": "我们最强大的视觉-语言-动作模型增强了机器人的灵活性、可靠性和安全性",
+          "url": "https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence/",
+          "image": "https://lh3.googleusercontent.com/F1CrVEYRb8lJOyyxGgcyow-Td1de-nkp7K8MZrhjrKPANJUc0EYB754Ninn-Yrppjdb54nolOWo6Rk8iDaRNuixWwLaEKc0K9ImGooxen9fj9IOh=w528-h297-n-nu-rw-lo",
+          "published": "2026-11-09T19:51:47+00:00",
+          "score": 9.5
         }
       ]
     }
   ],
   "source_counts": {
     "BBC News": 30,
-    "VOA": 2,
-    "NBC": 8,
-    "OpenAI Research": 76,
-    "Google DeepMind": 6,
-    "Anthropic": 13,
-    "arXiv cs.AI": 319
+    "VOA": 5,
+    "NBC": 6,
+    "OpenAI Research": 77,
+    "Google DeepMind": 11,
+    "Anthropic": 21,
+    "arXiv cs.AI": 401
   }
 }
