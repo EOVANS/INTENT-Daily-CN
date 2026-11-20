@@ -2,12 +2,13 @@ name: Daily Feed Build
 
 on:
   schedule:
-    # 23:35 UTC = 07:35 Asia/Shanghai（次日）——主班
+    # 全部为 UTC；北京时间 = UTC+8
+    # 07:35 CST / 08:35 / 09:35 / 10:35 / 11:35 —— 五个时点互为兜底
     - cron: "35 23 * * *"
-    # 00:35 UTC = 08:35 CST —— 补跑一（GitHub 定时偶发延迟/漏跳）
     - cron: "35 0 * * *"
-    # 02:35 UTC = 10:35 CST —— 补跑二
+    - cron: "35 1 * * *"
     - cron: "35 2 * * *"
+    - cron: "35 3 * * *"
   workflow_dispatch:
   push:
     branches: [main]
@@ -31,16 +32,24 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Guard (skip if today's issue already built)
+      - name: Guard (skip unless a build is still needed today)
         id: guard
         run: |
+          TODAY=$(TZ=Asia/Shanghai date +%Y-%m-%d)
+          HOUR=$(TZ=Asia/Shanghai date +%H)
           if [ "${{ github.event_name }}" != "schedule" ]; then
+            echo "non-schedule event -> build"
             echo "skip=false" >> "$GITHUB_OUTPUT"
             exit 0
           fi
-          TODAY=$(TZ=Asia/Shanghai date +%Y-%m-%d)
+          # 北京时间 07:00 之前不生成当天的期刊（避免午夜抢先生成一堆前一天的旧闻）
+          if [ "$HOUR" -lt 7 ]; then
+            echo "before 07:00 CST, skip"
+            echo "skip=true" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
           if [ -f "docs/daily/$TODAY.md" ]; then
-            echo "today's issue exists, skip"
+            echo "today's issue already exists, skip"
             echo "skip=true" >> "$GITHUB_OUTPUT"
           else
             echo "no issue for $TODAY yet, build"
