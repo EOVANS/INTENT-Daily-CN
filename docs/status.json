@@ -1,10 +1,10 @@
 {
-  "started": "2026-11-21T04:14:07+0000",
+  "started": "2026-11-22T03:25:28+0000",
   "feeds": {
     "https://feeds.bbci.co.uk/news/world/rss.xml": {
       "ok": true,
-      "bytes": 19627,
-      "entries": 25
+      "bytes": 21159,
+      "entries": 27
     },
     "https://www.voanews.com/api/zrqoev-qqm": {
       "ok": true,
@@ -18,12 +18,12 @@
     },
     "https://news.google.com/rss/search?q=site:voanews.com+when:7d&hl=en-US&gl=US&ceid=US:en": {
       "ok": true,
-      "bytes": 101804,
-      "entries": 100
+      "bytes": 67530,
+      "entries": 54
     },
     "https://feeds.nbcnews.com/nbcnews/public/world": {
       "ok": true,
-      "bytes": 71411,
+      "bytes": 70572,
       "entries": 25
     },
     "https://openai.com/news/rss.xml": {
@@ -56,18 +56,23 @@
     },
     "https://news.google.com/rss/search?q=site:anthropic.com+when:7d&hl=en-US&gl=US&ceid=US:en": {
       "ok": true,
-      "bytes": 15152,
-      "entries": 15
+      "bytes": 13757,
+      "entries": 13
     },
     "http://export.arxiv.org/rss/cs.AI": {
       "ok": true,
-      "bytes": 784831,
-      "entries": 362
+      "bytes": 892,
+      "entries": 0
+    },
+    "https://rss.arxiv.org/rss/cs.AI": {
+      "ok": true,
+      "bytes": 892,
+      "entries": 0
     }
   },
   "translate": {
     "google-clients5": {
-      "ok": 26,
+      "ok": 19,
       "fail": 0,
       "last_error": ""
     }
@@ -75,25 +80,25 @@
   "translate_provider": "google-clients5",
   "sources": {
     "BBC News": {
-      "raw": 25,
-      "in_window": 24,
+      "raw": 27,
+      "in_window": 13,
       "from_google": 0,
       "undated": 0,
-      "used": 24
+      "used": 13
     },
     "VOA": {
-      "raw": 4,
-      "in_window": 4,
-      "from_google": 4,
+      "raw": 0,
+      "in_window": 0,
+      "from_google": 0,
       "undated": 0,
-      "used": 4
+      "used": 0
     },
     "NBC": {
       "raw": 25,
-      "in_window": 6,
+      "in_window": 1,
       "from_google": 0,
       "undated": 0,
-      "used": 6
+      "used": 1
     },
     "OpenAI Research": {
       "raw": 1421,
@@ -110,20 +115,20 @@
       "used": 3
     },
     "Anthropic": {
-      "raw": 15,
-      "in_window": 15,
-      "from_google": 15,
+      "raw": 13,
+      "in_window": 13,
+      "from_google": 13,
       "undated": 0,
-      "used": 15
+      "used": 13
     },
     "arXiv cs.AI": {
-      "raw": 361,
-      "in_window": 361,
+      "raw": 0,
+      "in_window": 0,
       "from_google": 0,
       "undated": 0,
-      "used": 361
+      "used": 0
     }
   },
   "error": null,
-  "finished": "2026-11-21T04:14:26+0000"
+  "finished": "2026-11-22T03:25:40+0000"
 }

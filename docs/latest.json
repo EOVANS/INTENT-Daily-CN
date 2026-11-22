@@ -1,6 +1,6 @@
 {
-  "date": "2026-11-21",
-  "generated_at": "2026-11-21T12:14:07.494663+08:00",
+  "date": "2026-11-22",
+  "generated_at": "2026-11-22T11:25:28.875803+08:00",
   "rss": "https://raw.githubusercontent.com/EOVANS/INTENT-Daily-CN/main/docs/feed.xml",
   "markdown": "https://raw.githubusercontent.com/EOVANS/INTENT-Daily-CN/main/docs/latest.md",
   "blocks": [
@@ -9,91 +9,58 @@
       "items": [
         {
           "rank": 1,
-          "source": "NBC",
-          "title_zh": "普京誓言对克里米亚袭击进行报复后，俄罗斯对基辅三座桥梁进行致命袭击",
-          "title_en": "Deadly Russian strikes hit 3 Kyiv bridges after Putin vows revenge for Crimea attacks",
-          "summary_zh": "乌克兰首都基辅的三座桥梁在俄罗斯弹道导弹袭击中被击中，总统弗拉基米尔·普京发誓要进行报复。",
-          "url": "https://www.nbcnews.com/world/ukraine/russia-strikes-kyiv-bridges-ukraine-crimea-putin-zelenskyy-apec-trump-rcna610372",
-          "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-11/261120-ukraine-mb-0959-5b970a.jpg",
-          "published": "2026-11-20T11:42:16+00:00",
-          "score": 18.38
+          "source": "BBC News",
+          "title_zh": "尼日利亚青年过去已经展现了他们的力量 - 为什么他们没有影响这次选举？",
+          "title_en": "Nigerian youth have shown their power in the past - why aren't they shaping this election?",
+          "summary_zh": "登记参加明年选举投票的年轻人比 2023 年要少——年轻人是否对民主失去了信心？",
+          "url": "https://www.bbc.co.uk/news/articles/ck4g174n020eo?at_medium=RSS&at_campaign=rss",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/abb2/live/99a82d30-e4e7-11f1-99a1-253766e7ad8b.jpg",
+          "published": "2026-11-22T00:10:37+00:00",
+          "score": 11.86
         },
         {
           "rank": 2,
           "source": "BBC News",
-          "title_zh": "我们对俄罗斯最近对乌克兰的导弹袭击了解多少",
-          "title_en": "What we know about the latest Russian missile strikes on Ukraine",
-          "summary_zh": "俄罗斯在一次重大袭击中袭击了首都基辅的桥梁和火车站。",
-          "url": "https://www.bbc.co.uk/news/videos/c65y19wy3xl8o?at_medium=RSS&at_campaign=rss",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a2f6/live/3145d4a0-e4f0-11f1-99b6-a35a62fa4264.jpg",
-          "published": "2026-11-20T15:14:01+00:00",
-          "score": 15.46
+          "title_zh": "特朗普称俄罗斯领导人为朋友后，泽连斯基称普京是“杀手”",
+          "title_en": "Zelensky says Putin is a 'killer' after Trump calls Russian leader a friend",
+          "summary_zh": "本周早些时候，特朗普在中国会晤之前向普京致意，并表示两人有着“良好的关系”。",
+          "url": "https://www.bbc.co.uk/news/articles/cxnv4zvmdy0jo?at_medium=RSS&at_campaign=rss",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ad75/live/e17f2c40-e56d-11f1-b01f-57dbbf219200.jpg",
+          "published": "2026-11-21T08:10:25+00:00",
+          "score": 10.2
         },
         {
           "rank": 3,
           "source": "BBC News",
-          "title_zh": "图斯克表示，乌克兰盟友举行军事演习时，俄罗斯导弹袭击了波兰",
-          "title_en": "Russian missile hits Poland as Ukraine's allies hold military exercise, says Tusk",
-          "summary_zh": "没有人受伤，也没有损失报告，但华沙称这一事件是来自莫斯科的“挑衅”。",
-          "url": "https://www.bbc.co.uk/news/articles/cqx2x9dklxnro?at_medium=RSS&at_campaign=rss",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cbb7/live/b5de9720-e4ea-11f1-99b6-a35a62fa4264.jpg",
-          "published": "2026-11-21T02:09:46+00:00",
-          "score": 14.41
+          "title_zh": "据报道，联邦调查局正在调查其犯罪数据库明显遭到黑客攻击",
+          "title_en": "FBI reportedly investigating apparent hack of its criminal database",
+          "summary_zh": "联邦和地方执法部门使用国家犯罪信息中心数据库来共享信息。",
+          "url": "https://www.bbc.co.uk/news/articles/cvze7de86pk3o?at_medium=RSS&at_campaign=rss",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3fd7/live/9009b220-e58d-11f1-99a1-253766e7ad8b.jpg",
+          "published": "2026-11-22T00:10:44+00:00",
+          "score": 9.86
         },
         {
           "rank": 4,
-          "source": "BBC News",
-          "title_zh": "凯瑟琳·泽塔-琼斯的女儿说父母警告她有关“nepobaby”的标签",
-          "title_en": "Catherine Zeta-Jones' daughter says parents warned her about 'nepo baby' label",
-          "summary_zh": "23 岁的卡丽丝·道格拉斯 (Carys Douglas) 今年在美国首次登上舞台，出演安东·契诃夫 (Anton Chekhov) 的戏剧《海鸥》(The Seagull)。",
-          "url": "https://www.bbc.co.uk/news/articles/cmgj35zvjyp9o?at_medium=RSS&at_campaign=rss",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/179e/live/c4afc3a0-e4db-11f1-9cc5-e9713e77fd78.jpg",
-          "published": "2026-11-20T15:55:02+00:00",
-          "score": 11.49
+          "source": "NBC",
+          "title_zh": "丹麦指责俄罗斯密谋在其领土上杀害乌克兰美国说唱歌手",
+          "title_en": "Denmark accuses Russia of plotting to kill Ukrainian American rapper on its soil",
+          "summary_zh": "丹麦哥本哈根——丹麦首相办公室表示，当局挫败了在丹麦领土上企图杀害一名乌克兰裔美国公民的事件，该阴谋据称是由俄罗斯情报部门策划的。",
+          "url": "https://www.nbcnews.com/world/europe/denmark-accuses-russia-plotting-kill-ukrainian-american-rapper-soil-rcna610542",
+          "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-11/261121-denmark-nd-a842f4.jpg",
+          "published": "2026-11-21T10:15:12+00:00",
+          "score": 9.81
         },
         {
           "rank": 5,
           "source": "BBC News",
-          "title_zh": "选举受挫后，非国大努力保持对南非主要城市的控制",
-          "title_en": "ANC fights to keep control of South Africa's key cities after election setback",
-          "summary_zh": "非国大似乎不愿意在地方层面复制其与亲商DA的国家权力共享协议。",
-          "url": "https://www.bbc.co.uk/news/articles/cqpv94d10rwpo?at_medium=RSS&at_campaign=rss",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aad1/live/7d1c0de0-e4ff-11f1-a8e4-b1e12a49db15.jpg",
-          "published": "2026-11-21T00:34:51+00:00",
-          "score": 9.85
-        },
-        {
-          "rank": 6,
-          "source": "NBC",
-          "title_zh": "特朗普吹捧与习近平、普京的历史性峰会",
-          "title_en": "Trump touts historic summit with Xi, Putin",
-          "summary_zh": "特朗普总统在一场马拉松式的新闻发布会上宣传了他与中国国家主席习近平和俄罗斯总统普京举行的史无前例的三边峰会。 NBC 新闻频道的莫妮卡·阿尔芭报道。",
-          "url": "https://www.nbcnews.com/nightly-news/video/trump-touts-historic-summit-with-xi-putin-273933381719",
-          "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_11/1795218333477_nn_mal_trump_touts_historic_summit_with_xi_putin_261120_S3_1920x1080-m618xk.jpg",
-          "published": "2026-11-20T23:45:38+00:00",
-          "score": 9.83
-        },
-        {
-          "rank": 7,
-          "source": "NBC",
-          "title_zh": "特朗普称亚太经合组织峰会后他与普京关系“非常好”",
-          "title_en": "Trump says he has 'fantastic relationship' with Putin following APEC summit",
-          "summary_zh": "特朗普总统在中国深圳举行峰会并会见了中国国家主席习近平和俄罗斯领导人后表示，他与俄罗斯总统普京有着“极好的关系”。",
-          "url": "https://www.nbcnews.com/now/video/trump-says-he-has-fantastic-relationship-with-putin-following-apec-summit-273908805604",
-          "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_11/1795199668336_now_brk_trump_putin_relationship_261120_S3_1920x1080-zrnkss.jpg",
-          "published": "2026-11-20T18:34:32+00:00",
-          "score": 9.64
-        },
-        {
-          "rank": 8,
-          "source": "NBC",
-          "title_zh": "特朗普在亚太经合组织峰会上称普京为“我的朋友”引发强烈反对",
-          "title_en": "Trump calling Putin ‘my friend’ at APEC summit sparks backlash",
-          "summary_zh": "当唐纳德·特朗普总统本周称弗拉基米尔·普京为他的“朋友”时，欧洲领导人和外交政策专家感到沮丧和震惊。",
-          "url": "https://www.nbcnews.com/world/europe/trump-friend-greeting-putin-causes-alarm-europe-ukraine-rcna610373",
-          "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-11/261120-trump-putin-mb-0944-42ee95.jpg",
-          "published": "2026-11-20T17:01:20+00:00",
-          "score": 9.58
+          "title_zh": "化石燃料之争使COP31气候谈判陷入僵局",
+          "title_en": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
+          "summary_zh": "来自近 200 个国家的国家在试图达成新的全球气候协议方面陷入僵局。",
+          "url": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5253/live/c9ca5500-e579-11f1-a5f6-b3028adf2d6d.jpg",
+          "published": "2026-11-21T22:19:43+00:00",
+          "score": 9.79
         }
       ]
     },
@@ -102,28 +69,6 @@
       "items": [
         {
           "rank": 1,
-          "source": "arXiv cs.AI",
-          "title_zh": "MARBLE：空间推理和视觉抽象的代理基准",
-          "title_en": "MARBLE: An Agentic Benchmark for Spatial Reasoning and Visual Abstraction",
-          "summary_zh": "arXiv:2506.22992v2 公告类型：替换 摘要：现实世界任务中多模态语言模型 (MLLM) 的一个核心挑战是将视觉观察抽象为结构化空间状态，并推理如何",
-          "url": "https://arxiv.org/abs/2506.22992",
-          "image": "",
-          "published": "2026-11-20T00:00:00-05:00",
-          "score": 20.43
-        },
-        {
-          "rank": 2,
-          "source": "arXiv cs.AI",
-          "title_zh": "使用基于参考的奖励进行语言模型推理和对齐的强化学习",
-          "title_en": "Reinforcement Learning with Reference-Based Rewards for Language Model Reasoning and Alignment",
-          "summary_zh": "arXiv:2504.09895v4 公告类型：replace-cross 摘要：强化学习 (RL) 为大型语言模型 (LLM) 后训练的两条主要路线提供支持：推理，引发深思熟虑的、可验证的问题解决，",
-          "url": "https://arxiv.org/abs/2504.09895",
-          "image": "",
-          "published": "2026-11-20T00:00:00-05:00",
-          "score": 20.43
-        },
-        {
-          "rank": 3,
           "source": "OpenAI Research",
           "title_zh": "控制室：一个中央系统，用于跟踪和停止我们研究基础设施中的模型工作负载",
           "title_en": "Control Room: A central system to track and stop model workloads across our research infrastructure",
@@ -134,7 +79,7 @@
           "score": 11.0
         },
         {
-          "rank": 4,
+          "rank": 2,
           "source": "OpenAI Research",
           "title_zh": "Hebbia 通过 GPT-6 Astra 看到了金融研究的进步",
           "title_en": "Hebbia sees improvements in financial research with GPT-6 Astra",
@@ -142,10 +87,10 @@
           "url": "https://openai.com/business/customer-stories/hebbia",
           "image": "",
           "published": "2026-11-20T00:00:00+00:00",
-          "score": 10.32
+          "score": 9.36
         },
         {
-          "rank": 5,
+          "rank": 3,
           "source": "Google DeepMind",
           "title_zh": "{型号名称 + 版本} - 型号卡 - Google DeepMind",
           "title_en": "{Model name + Version} - Model Card - Google DeepMind",
@@ -153,18 +98,40 @@
           "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9uMDBhNnFaYU9QNDBlamg0MFItWXUtMDUtQkpGTWtnZTdpcW9UeUNqQ2J1dWZhWUNYNjlhbHZQRVFuaDRlLUozeWEyeUNJbDhHRFhWbTdHREV5YXNfaFNRMmFKdmlIaDl6?oc=5",
           "image": "",
           "published": "2026-11-18T21:51:51+00:00",
-          "score": 6.73
+          "score": 5.77
+        },
+        {
+          "rank": 4,
+          "source": "Google DeepMind",
+          "title_zh": "Genie 4 - 模型卡 - Google DeepMind",
+          "title_en": "Genie 4 - Model Card - Google DeepMind",
+          "summary_zh": "Genie 4 - 模型卡 Google DeepMind",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9GMVY2Z0lvNUwyOG1zV1k4czFKNTNBNGNIOVl1YlFnTm4yNVd4N0g3bmh1aEFzZnVHcXlmN0Mxd1pQRHZXOWF2NEM2X2ZSZlNyMVczenZfWmtxbmlKbkJiYQ?oc=5",
+          "image": "",
+          "published": "2026-11-18T19:40:02+00:00",
+          "score": 5.68
+        },
+        {
+          "rank": 5,
+          "source": "Anthropic",
+          "title_zh": "",
+          "title_en": "",
+          "summary_zh": "人择",
+          "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFB6WXJxdnhvVmlyaG1KLXBVU3lHWmcxMkNXSWh2dDljckRfcmFlSm4xZnhSTVl1WjRJVDBRd1hTVkE2WG9uNnFLV0h3?oc=5",
+          "image": "",
+          "published": "2026-11-21T15:24:14+00:00",
+          "score": 3.5
         }
       ]
     }
   ],
   "source_counts": {
-    "BBC News": 24,
-    "VOA": 4,
-    "NBC": 6,
+    "BBC News": 13,
+    "VOA": 0,
+    "NBC": 1,
     "OpenAI Research": 78,
     "Google DeepMind": 3,
-    "Anthropic": 15,
-    "arXiv cs.AI": 361
+    "Anthropic": 13,
+    "arXiv cs.AI": 0
   }
 }
