@@ -1,66 +1,66 @@
 # INTENT Daily CN · 每日新闻
 
-> **日期**：2026-11-22（北京时间）｜**生成**：11:25｜每日 07:35 自动更新
+> **日期**：2026-11-23（北京时间）｜**生成**：11:56｜每日 07:35 自动更新
 > **RSS 订阅**：<https://raw.githubusercontent.com/EOVANS/INTENT-Daily-CN/main/docs/feed.xml>
 
 ## 一、国际要闻（BBC / VOA / NBC）
 
 *过去 24 小时全球 Breaking News，按重要性降序。*
 
-### 1. 尼日利亚青年过去已经展现了他们的力量 - 为什么他们没有影响这次选举？
+### 1. 官员称利比亚港口俄罗斯船只爆炸疑似无人机袭击造成
 
-登记参加明年选举投票的年轻人比 2023 年要少——年轻人是否对民主失去了信心？
+利比亚东部政府表示，这艘船在返回俄罗斯的途中停下来补充燃料和补给。
 
-![BBC News](https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/abb2/live/99a82d30-e4e7-11f1-99a1-253766e7ad8b.jpg)
-
-- **来源**：BBC News
-- **原文标题**：Nigerian youth have shown their power in the past - why aren't they shaping this election?
-- **发布时间**：2026-11-22 08:10
-- **原文链接**：<https://www.bbc.co.uk/news/articles/ck4g174n020eo?at_medium=RSS&at_campaign=rss>
-
-### 2. 特朗普称俄罗斯领导人为朋友后，泽连斯基称普京是“杀手”
-
-本周早些时候，特朗普在中国会晤之前向普京致意，并表示两人有着“良好的关系”。
-
-![BBC News](https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ad75/live/e17f2c40-e56d-11f1-b01f-57dbbf219200.jpg)
+![BBC News](https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a198/live/5b2f71d0-e6ae-11f1-a094-5fdc692f3e33.jpg)
 
 - **来源**：BBC News
-- **原文标题**：Zelensky says Putin is a 'killer' after Trump calls Russian leader a friend
-- **发布时间**：2026-11-21 16:10
-- **原文链接**：<https://www.bbc.co.uk/news/articles/cxnv4zvmdy0jo?at_medium=RSS&at_campaign=rss>
+- **原文标题**：Explosion on Russian ship at Libya port caused by suspected drone attack, officials say
+- **发布时间**：2026-11-23 10:59
+- **原文链接**：<https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss>
 
-### 3. 据报道，联邦调查局正在调查其犯罪数据库明显遭到黑客攻击
+### 2. 救援人员称，俄罗斯空袭乌克兰后数小时，7 岁男孩从废墟中被救出
 
-联邦和地方执法部门使用国家犯罪信息中心数据库来共享信息。
+袭击造成九人死亡，救援工作仍在进行中，以寻找住宅楼中失踪的人员。
 
-![BBC News](https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3fd7/live/9009b220-e58d-11f1-99a1-253766e7ad8b.jpg)
+![BBC News](https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cce0/live/b754c730-e6bd-11f1-a023-d502158f79f8.jpg)
 
 - **来源**：BBC News
-- **原文标题**：FBI reportedly investigating apparent hack of its criminal database
-- **发布时间**：2026-11-22 08:10
-- **原文链接**：<https://www.bbc.co.uk/news/articles/cvze7de86pk3o?at_medium=RSS&at_campaign=rss>
+- **原文标题**：Boy, 7, pulled alive from rubble hours after Russian strike on Ukraine, rescuers say
+- **发布时间**：2026-11-23 10:37
+- **原文链接**：<https://www.bbc.co.uk/news/articles/cqdr15l32d3go?at_medium=RSS&at_campaign=rss>
 
-### 4. 丹麦指责俄罗斯密谋在其领土上杀害乌克兰美国说唱歌手
+### 3. 印度尼西亚工厂发生火灾，三人死亡，数十人失踪
 
-丹麦哥本哈根——丹麦首相办公室表示，当局挫败了在丹麦领土上企图杀害一名乌克兰裔美国公民的事件，该阴谋据称是由俄罗斯情报部门策划的。
+一家糖果厂发生火灾，造成至少三人死亡，多人恐已死亡。
 
-![NBC](https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-11/261121-denmark-nd-a842f4.jpg)
+![BBC News](https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0675/live/85d2f2e0-e62c-11f1-b2ea-350d14ed1ad7.jpg)
+
+- **来源**：BBC News
+- **原文标题**：Three killed and dozens missing after fire at Indonesian factory
+- **发布时间**：2026-11-22 22:05
+- **原文链接**：<https://www.bbc.co.uk/news/articles/cw8dvg5pgm0eo?at_medium=RSS&at_campaign=rss>
+
+### 4. “危险似乎一直更大”：乌克兰人在俄罗斯袭击后寻找失踪人员
+
+英国广播公司 (BBC) 的莎拉·雷恩斯福德 (Sarah Rainsford) 在乌克兰基辅地区一栋倒塌的住宅楼现场进行报道。
+
+![BBC News](https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f57f/live/25f17b40-e69e-11f1-9d9b-5dad4444a651.jpg)
+
+- **来源**：BBC News
+- **原文标题**：'Danger seems greater all the time': Ukrainians search for missing after Russian strikes
+- **发布时间**：2026-11-23 06:37
+- **原文链接**：<https://www.bbc.co.uk/news/videos/cre3dvd1k9y1o?at_medium=RSS&at_campaign=rss>
+
+### 5. COP31气候谈判因化石燃料激烈争论而破裂
+
+周日在土耳其举行的国际气候谈判破裂，此前欧盟和其他国家拒绝了一项削减所有化石燃料提及的协议草案。
+
+![NBC](https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-11/261122-cop31-nd-d8fbfb.jpg)
 
 - **来源**：NBC
-- **原文标题**：Denmark accuses Russia of plotting to kill Ukrainian American rapper on its soil
-- **发布时间**：2026-11-21 18:15
-- **原文链接**：<https://www.nbcnews.com/world/europe/denmark-accuses-russia-plotting-kill-ukrainian-american-rapper-soil-rcna610542>
-
-### 5. 化石燃料之争使COP31气候谈判陷入僵局
-
-来自近 200 个国家的国家在试图达成新的全球气候协议方面陷入僵局。
-
-![BBC News](https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5253/live/c9ca5500-e579-11f1-a5f6-b3028adf2d6d.jpg)
-
-- **来源**：BBC News
-- **原文标题**：Fight over fossil fuels leaves COP31 climate talks in deadlock
-- **发布时间**：2026-11-22 06:19
-- **原文链接**：<https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss>
+- **原文标题**：COP31 climate talks break down after angry dispute over fossil fuels
+- **发布时间**：2026-11-22 21:20
+- **原文链接**：<https://www.nbcnews.com/science/climate-change/cop31-climate-talks-break-angry-dispute-fossil-fuels-rcna610656>
 
 ## 二、AI 研究动态（OpenAI Research 等）
 
@@ -75,32 +75,36 @@
 - **发布时间**：2026-11-09 21:00
 - **原文链接**：<https://openai.com/index/control-room>
 
-### 2. Hebbia 通过 GPT-6 Astra 看到了金融研究的进步
+### 2. Gemini Robotics 2.5 加速现实世界的通用灵活性
 
-Hebbia 对 GPT-6 Astra 进行了金融研究测试。其预发布评估发现来源覆盖率、引用相关性和演示质量都有所提高。
+我们最强大的视觉-语言-动作模型增强了机器人的灵活性、可靠性和安全性
+
+![Google DeepMind](https://lh3.googleusercontent.com/F1CrVEYRb8lJOyyxGgcyow-Td1de-nkp7K8MZrhjrKPANJUc0EYB754Ninn-Yrppjdb54nolOWo6Rk8iDaRNuixWwLaEKc0K9ImGooxen9fj9IOh=w528-h297-n-nu-rw-lo)
+
+- **来源**：Google DeepMind
+- **原文标题**：Gemini Robotics 2.5 accelerates real-world general dexterity
+- **发布时间**：2026-11-10 03:51
+- **原文链接**：<https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence/>
+
+### 3. 管理前沿人工智能风险：从培训到部署
+
+OpenAI 解释了它如何通过模型对齐、沙盒、阻止防护措施和监控来管理从培训到部署的前沿人工智能风险。
 
 - **来源**：OpenAI Research
-- **原文标题**：Hebbia sees improvements in financial research with GPT-6 Astra
-- **发布时间**：2026-11-20 08:00
-- **原文链接**：<https://openai.com/business/customer-stories/hebbia>
+- **原文标题**：Managing frontier AI risk: From training to deployment
+- **发布时间**：2026-11-18 14:00
+- **原文链接**：<https://openai.com/index/managing-frontier-ai-risk>
 
-### 3. {型号名称 + 版本} - 型号卡 - Google DeepMind
+### 4. 打开人工智能天气模型背后的数据集
 
-{型号名称 + 版本} - 型号卡 Google DeepMind
+基础降水和地球静止卫星数据集，可清晰观察地球。
 
-- **来源**：Google DeepMind
-- **原文标题**：{Model name + Version} - Model Card - Google DeepMind
-- **发布时间**：2026-11-19 05:51
-- **原文链接**：<https://news.google.com/rss/articles/CBMiaEFVX3lxTE9uMDBhNnFaYU9QNDBlamg0MFItWXUtMDUtQkpGTWtnZTdpcW9UeUNqQ2J1dWZhWUNYNjlhbHZQRVFuaDRlLUozeWEyeUNJbDhHRFhWbTdHREV5YXNfaFNRMmFKdmlIaDl6?oc=5>
-
-### 4. Genie 4 - 模型卡 - Google DeepMind
-
-Genie 4 - 模型卡 Google DeepMind
+![Google DeepMind](https://lh3.googleusercontent.com/ggsqfaBnOayx-i7z9Kj8AeZruz8BSo0N7tsnqwH8Z3REnHcDKBt-QSA3DR4UUM8lcwklWihSARoEN2AyQFhoRFGFlk2-0-xGuKt_rtGoFwpJg8LHVQ=w528-h297-n-nu-rw-lo)
 
 - **来源**：Google DeepMind
-- **原文标题**：Genie 4 - Model Card - Google DeepMind
-- **发布时间**：2026-11-19 03:40
-- **原文链接**：<https://news.google.com/rss/articles/CBMiYEFVX3lxTE9GMVY2Z0lvNUwyOG1zV1k4czFKNTNBNGNIOVl1YlFnTm4yNVd4N0g3bmh1aEFzZnVHcXlmN0Mxd1pQRHZXOWF2NEM2X2ZSZlNyMVczenZfWmtxbmlKbkJiYQ?oc=5>
+- **原文标题**：Opening the datasets behind our AI weather models
+- **发布时间**：2026-11-10 19:13
+- **原文链接**：<https://deepmind.google/blog/opening-the-datasets-behind-our-ai-weather-models/>
 
 ### 5. 
 
@@ -108,7 +112,7 @@ Genie 4 - 模型卡 Google DeepMind
 
 - **来源**：Anthropic
 - **原文标题**：
-- **发布时间**：2026-11-21 23:24
+- **发布时间**：2026-11-22 23:30
 - **原文链接**：<https://news.google.com/rss/articles/CBMiSkFVX3lxTFB6WXJxdnhvVmlyaG1KLXBVU3lHWmcxMkNXSWh2dDljckRfcmFlSm4xZnhSTVl1WjRJVDBRd1hTVkE2WG9uNnFLV0h3?oc=5>
 
 ---
@@ -117,12 +121,12 @@ Genie 4 - 模型卡 Google DeepMind
 
 | 来源 | 窗口内条数 |
 | --- | --- |
-| BBC News | 13 |
+| BBC News | 16 |
 | VOA | 0 |
 | NBC | 1 |
-| OpenAI Research | 78 |
-| Google DeepMind | 3 |
-| Anthropic | 13 |
+| OpenAI Research | 77 |
+| Google DeepMind | 10 |
+| Anthropic | 15 |
 | arXiv cs.AI | 0 |
 
 > 由 GitHub Actions 自动生成，请勿手工编辑。
