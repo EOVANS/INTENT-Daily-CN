@@ -6,14 +6,77 @@
 <atom:link href="https://raw.githubusercontent.com/EOVANS/INTENT-Daily-CN/main/docs/feed.xml" rel="self" type="application/rss+xml"/>
 <description><![CDATA[每日北京时间 07:35 自动更新，每期一条，内含当天国际要闻（BBC News / VOA / NBC）与 AI 研究动态（OpenAI Research / Google DeepMind / Anthropic / arXiv）的中文摘要。]]></description>
 <language>zh-CN</language>
-<lastBuildDate>Mon, 23 Nov 2026 03:56:47 GMT</lastBuildDate>
+<lastBuildDate>Tue, 24 Nov 2026 07:03:50 GMT</lastBuildDate>
 <generator>INTENT Daily CN</generator>
 <ttl>60</ttl>
 <image>
-<url>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a198/live/5b2f71d0-e6ae-11f1-a094-5fdc692f3e33.jpg</url>
+<url>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1177/live/c8dee990-e7a8-11f1-96e2-87034e8ab973.jpg</url>
 <title>每日新闻</title>
 <link>https://github.com/EOVANS/INTENT-Daily-CN</link>
 </image>
+<item>
+<title>每日新闻 · 2026-11-24｜13 条要闻</title>
+<link>https://github.com/EOVANS/INTENT-Daily-CN/blob/main/docs/daily/2026-11-24.md</link>
+<guid isPermaLink="false">https://raw.githubusercontent.com/EOVANS/INTENT-Daily-CN/main/docs/feed.xml#2026-11-24</guid>
+<description><![CDATA[<h3 style="margin:22px 0 6px;font-size:15px;color:#1d4ed8">一、国际要闻（BBC / VOA / NBC）</h3>
+<p style="color:#6b7280;font-size:12px;margin:0 0 10px">过去 24 小时全球 Breaking News，按重要性降序。</p>
+<h4 style="margin:16px 0 6px;font-size:16px;line-height:1.5">1. <a href="https://www.bbc.co.uk/news/articles/c9x2er1ry2mzo?at_medium=RSS&amp;at_campaign=rss" style="color:#111827;text-decoration:none">俄罗斯核卫星报告后北约主席誓言防御太空威胁</a></h4>
+<p style="margin:0 0 8px"><img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1177/live/c8dee990-e7a8-11f1-96e2-87034e8ab973.jpg" alt="" style="max-width:100%;border-radius:6px"/></p>
+<p style="line-height:1.75;margin:0 0 6px">德国媒体称，俄罗斯计划在未来几周内向太空发射一颗携带核弹头的卫星。</p>
+<p style="color:#9ca3af;font-size:12px;margin:0 0 4px">来源：BBC News · Nato chief vows defence against space threat after Russian nuclear satellite reports</p>
+<h4 style="margin:16px 0 6px;font-size:16px;line-height:1.5">2. <a href="https://www.bbc.co.uk/news/articles/cm894p88jzxpo?at_medium=RSS&amp;at_campaign=rss" style="color:#111827;text-decoration:none">俄罗斯船只在利比亚遭到袭击说明乌克兰战争蔓延</a></h4>
+<p style="margin:0 0 8px"><img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/363b/live/dab0da20-e771-11f1-99a1-253766e7ad8b.jpg" alt="" style="max-width:100%;border-radius:6px"/></p>
+<p style="line-height:1.75;margin:0 0 6px">弗兰克·加德纳写道，乌克兰在利比亚港口击沉一艘俄罗斯战舰，使战争的风险上升了一个档次。</p>
+<p style="color:#9ca3af;font-size:12px;margin:0 0 4px">来源：BBC News · What strike on Russian ship in Libya says about spread of Ukraine war</p>
+<h4 style="margin:16px 0 6px;font-size:16px;line-height:1.5">3. <a href="https://www.bbc.co.uk/news/videos/c6wy93q5wwqvo?at_medium=RSS&amp;at_campaign=rss" style="color:#111827;text-decoration:none">乌克兰分享袭击利比亚附近俄罗斯船只的视频</a></h4>
+<p style="margin:0 0 8px"><img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9cc6/live/7a950f50-e738-11f1-99b6-a35a62fa4264.jpg" alt="" style="max-width:100%;border-radius:6px"/></p>
+<p style="line-height:1.75;margin:0 0 6px">泽连斯基总统表示，一艘俄罗斯军舰被击沉，一艘俄罗斯货船也被击沉。</p>
+<p style="color:#9ca3af;font-size:12px;margin:0 0 4px">来源：BBC News · Ukraine shares video of strikes on Russian ships off Libya</p>
+<h4 style="margin:16px 0 6px;font-size:16px;line-height:1.5">4. <a href="https://www.nbcnews.com/world/ukraine/ukraine-sinks-russian-warship-merkury-libya-naval-drones-war-rcna610822" style="color:#111827;text-decoration:none">乌克兰在利比亚附近击沉俄罗斯军舰，这是战争的最新扩展</a></h4>
+<p style="margin:0 0 8px"><img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-11/261123-Merkury-ba-rs-0fa909.jpg" alt="" style="max-width:100%;border-radius:6px"/></p>
+<p style="line-height:1.75;margin:0 0 6px">乌克兰已将与俄罗斯的战斗转移到北非海岸，声称在其最新的战争扩张中击沉了利比亚海岸附近的一艘军舰。</p>
+<p style="color:#9ca3af;font-size:12px;margin:0 0 4px">来源：NBC · Ukraine sinks Russian warship off Libya in latest expansion of the war</p>
+<h4 style="margin:16px 0 6px;font-size:16px;line-height:1.5">5. <a href="https://www.bbc.co.uk/news/articles/cr930y92dyx4o?at_medium=RSS&amp;at_campaign=rss" style="color:#111827;text-decoration:none">喜剧演员模仿特朗普的舞蹈动作，嘲笑加拿大新闻晚宴上的贸易谈判</a></h4>
+<p style="margin:0 0 8px"><img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9f36/live/7d4e5560-e758-11f1-b407-33329b1ec67a.png" alt="" style="max-width:100%;border-radius:6px"/></p>
+<p style="line-height:1.75;margin:0 0 6px">模仿者是加拿大喜剧演员马克·克里奇，他对美国总统寻找新新闻秘书和美加贸易谈判进行了取笑。</p>
+<p style="color:#9ca3af;font-size:12px;margin:0 0 4px">来源：BBC News · Comedian impersonates Trump&#x27;s dance moves, mocks trade talks at Canada press dinner</p>
+<h4 style="margin:16px 0 6px;font-size:16px;line-height:1.5">6. <a href="https://www.nbcnews.com/video/don-toliver-concert-evacuated-after-unknown-substance-released-in-audience-274060357721" style="color:#111827;text-decoration:none">唐·托利弗 (Don Toliver) 英国音乐会因观众释放不明物质而被疏散</a></h4>
+<p style="margin:0 0 8px"><img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_11/1795485378039_now_topstory_dontoliver_england_evacuation_261123_S3_1920x1080-inuuqd.jpg" alt="" style="max-width:100%;border-radius:6px"/></p>
+<p style="line-height:1.75;margin:0 0 6px">曼彻斯特唐·托利弗 (Don Toliver) 音乐会上释放的一种不明物质导致 12,000 人被疏散，当局正在调查。音乐会观众报告称，这导致咳嗽、眼睛灼热和呼吸困难</p>
+<p style="color:#9ca3af;font-size:12px;margin:0 0 4px">来源：NBC · Don Toliver concert in England evacuated after unknown substance released in audience</p>
+<h4 style="margin:16px 0 6px;font-size:16px;line-height:1.5">7. <a href="https://www.nbcnews.com/now/video/don-toliver-concert-in-u-k-forced-to-evacuate-after-unknown-substance-released-into-crowd-274030149515" style="color:#111827;text-decoration:none">唐·托利弗 (Don Toliver) 在英国举行的演唱会因“不明物质”释放到人群中而被迫撤离</a></h4>
+<p style="margin:0 0 8px"><img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_11/1795460099154_now_daily_a_dha_uk_tolliver_concert_evac_261123_S3_1920x1080-b0opk4.jpg" alt="" style="max-width:100%;border-radius:6px"/></p>
+<p style="line-height:1.75;margin:0 0 6px">警方称，在“不明物质”被释放到人群中后，数千名参加美国说唱歌手唐·托利弗 (Don Toliver) 演唱会的人从英国一个主要舞台疏散。 NBC 新闻的 Daniele Hamamdjian 报道</p>
+<p style="color:#9ca3af;font-size:12px;margin:0 0 4px">来源：NBC · Don Toliver concert in U.K. forced to evacuate after &#x27;unknown substance&#x27; released into crowd</p>
+<h4 style="margin:16px 0 6px;font-size:16px;line-height:1.5">8. <a href="https://www.nbcnews.com/world/united-kingdom/don-toliver-concert-evacuated-coop-live-unknown-substance-released-rcna610820" style="color:#111827;text-decoration:none">美国说唱歌手唐·托利弗(Don Toliver)演唱会释放“不明物质”后，人群撤离</a></h4>
+<p style="margin:0 0 8px"><img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-11/261123-manchester-3-rs-42dd6c.jpg" alt="" style="max-width:100%;border-radius:6px"/></p>
+<p style="line-height:1.75;margin:0 0 6px">英国曼彻斯特——警方表示，周日晚上，数千名参加美国说唱歌手唐·托利弗 (Don Toliver) 演唱会的观众被从英国一个主要舞台疏散，原因是“不明物质”被释放到人群中。</p>
+<p style="color:#9ca3af;font-size:12px;margin:0 0 4px">来源：NBC · Crowd evacuated from American rapper Don Toliver’s concert after ‘unknown substance’ released</p>
+<h3 style="margin:22px 0 6px;font-size:15px;color:#1d4ed8">二、AI 研究动态（OpenAI Research 等）</h3>
+<p style="color:#6b7280;font-size:12px;margin:0 0 10px">OpenAI Research、Google DeepMind、Anthropic、arXiv cs.AI 的最新研究与发布。</p>
+<h4 style="margin:16px 0 6px;font-size:16px;line-height:1.5">1. <a href="https://openai.com/index/control-room" style="color:#111827;text-decoration:none">控制室：一个中央系统，用于跟踪和停止我们研究基础设施中的模型工作负载</a></h4>
+<p style="line-height:1.75;margin:0 0 6px">了解 OpenAI 的控制室如何跟踪我们研究基础设施中的模型工作负载，并在出现安全问题时快速阻止它们。</p>
+<p style="color:#9ca3af;font-size:12px;margin:0 0 4px">来源：OpenAI Research · Control Room: A central system to track and stop model workloads across our research infrastructure</p>
+<h4 style="margin:16px 0 6px;font-size:16px;line-height:1.5">2. <a href="https://news.google.com/rss/articles/CBMicEFVX3lxTE80SEl5Nm1XTnFSUk1iaEtQYkNkT3F5Ump1TkR1Y1lRQ1c5TllybllYUVhzQ2hOR3cxbzBSWUgwbC1BOFE1VjZiaDc0Rjd0S21NWFR0R3Y4MGg3UW14YzhHc1JrYUhRdm9kOUhnQVNnWDE?oc=5" style="color:#111827;text-decoration:none">回到可解释性的神经元基础，第 2 部分：将神经元用于安全应用</a></h4>
+<p style="line-height:1.75;margin:0 0 6px">回到可解释性的神经元基础，第 2 部分：使用神经元进行安全应用 人类对齐科学博客</p>
+<p style="color:#9ca3af;font-size:12px;margin:0 0 4px">来源：Anthropic · Returning to the Neuron Basis for Interpretability, Part 2: Using Neurons For Safety Applications</p>
+<h4 style="margin:16px 0 6px;font-size:16px;line-height:1.5">3. <a href="https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence/" style="color:#111827;text-decoration:none">Gemini Robotics 2.5 加速现实世界的通用灵活性</a></h4>
+<p style="margin:0 0 8px"><img src="https://lh3.googleusercontent.com/F1CrVEYRb8lJOyyxGgcyow-Td1de-nkp7K8MZrhjrKPANJUc0EYB754Ninn-Yrppjdb54nolOWo6Rk8iDaRNuixWwLaEKc0K9ImGooxen9fj9IOh=w528-h297-n-nu-rw-lo" alt="" style="max-width:100%;border-radius:6px"/></p>
+<p style="line-height:1.75;margin:0 0 6px">我们最强大的视觉-语言-动作模型增强了机器人的灵活性、可靠性和安全性</p>
+<p style="color:#9ca3af;font-size:12px;margin:0 0 4px">来源：Google DeepMind · Gemini Robotics 2.5 accelerates real-world general dexterity</p>
+<h4 style="margin:16px 0 6px;font-size:16px;line-height:1.5">4. <a href="https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification/" style="color:#111827;text-decoration:none">通过代理和形式验证寻找更快的量子算法</a></h4>
+<p style="margin:0 0 8px"><img src="https://lh3.googleusercontent.com/jIoM2lo98EDqLMQjIaXBlXPmXgPbUPpM2GgtXcDsGekZBOPUY41IjBsnuZIhLac7MSOuRkklNBsp20a5M25oDz-xTIY0BIqoBxUqmmXvEHwlM3MJJw=w528-h297-n-nu-rw-lo" alt="" style="max-width:100%;border-radius:6px"/></p>
+<p style="line-height:1.75;margin:0 0 6px">使用代理团队和形式验证来改进聚变和化学的量子算法。</p>
+<p style="color:#9ca3af;font-size:12px;margin:0 0 4px">来源：Google DeepMind · Finding faster quantum algorithms with agents and formal verification</p>
+<h4 style="margin:16px 0 6px;font-size:16px;line-height:1.5">5. <a href="https://openai.com/index/managing-frontier-ai-risk" style="color:#111827;text-decoration:none">管理前沿人工智能风险：从培训到部署</a></h4>
+<p style="line-height:1.75;margin:0 0 6px">OpenAI 解释了它如何通过模型对齐、沙盒、阻止防护措施和监控来管理从培训到部署的前沿人工智能风险。</p>
+<p style="color:#9ca3af;font-size:12px;margin:0 0 4px">来源：OpenAI Research · Managing frontier AI risk: From training to deployment</p>]]></description>
+<pubDate>Tue, 24 Nov 2026 07:03:50 GMT</pubDate>
+<dc:source>BBC News / VOA / NBC</dc:source>
+<category>每日新闻</category>
+<media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1177/live/c8dee990-e7a8-11f1-96e2-87034e8ab973.jpg" medium="image"/>
+<media:thumbnail url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1177/live/c8dee990-e7a8-11f1-96e2-87034e8ab973.jpg"/>
+</item>
 <item>
 <title>每日新闻 · 2026-11-23｜10 条要闻</title>
 <link>https://github.com/EOVANS/INTENT-Daily-CN/blob/main/docs/daily/2026-11-23.md</link>
@@ -359,67 +422,6 @@
 <category>每日新闻</category>
 <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/331b/live/2dc2ba90-e33e-11f1-9479-d17d3e98c29d.jpg" medium="image"/>
 <media:thumbnail url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/331b/live/2dc2ba90-e33e-11f1-9479-d17d3e98c29d.jpg"/>
-</item>
-<item>
-<title>每日新闻 · 2026-11-17｜13 条要闻</title>
-<link>https://raw.githubusercontent.com/EOVANS/INTENT-Daily-CN/main/docs/feed.xml</link>
-<guid isPermaLink="false">https://raw.githubusercontent.com/EOVANS/INTENT-Daily-CN/main/docs/feed.xml#2026-11-17</guid>
-<description><![CDATA[<h3 style="margin:22px 0 6px;font-size:15px;color:#1d4ed8">一、国际要闻（BBC / VOA / NBC）</h3>
-<p style="color:#6b7280;font-size:12px;margin:0 0 10px">过去 24 小时全球 Breaking News，按重要性降序。</p>
-<h4 style="margin:16px 0 6px;font-size:16px;line-height:1.5">1. <a href="https://www.bbc.co.uk/news/articles/c8y5x3n4kywpo?at_medium=RSS&amp;at_campaign=rss" style="color:#111827;text-decoration:none">南非发生两起大规模枪击事件 造成17人死亡</a></h4>
-<p style="margin:0 0 8px"><img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e2e5/live/66487e80-e1a0-11f1-902c-ad301cbf1208.jpg" alt="" style="max-width:100%;border-radius:6px"/></p>
-<p style="line-height:1.75;margin:0 0 6px">夸祖鲁-纳塔尔省和豪登省的枪击事件凸显了南非遏制暴力犯罪的努力。</p>
-<p style="color:#9ca3af;font-size:12px;margin:0 0 4px">来源：BBC News · Two mass shootings in South Africa leave 17 dead</p>
-<h4 style="margin:16px 0 6px;font-size:16px;line-height:1.5">2. <a href="https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&amp;at_campaign=rss" style="color:#111827;text-decoration:none">克里米亚大桥因乌克兰罢工而关闭，俄罗斯袭击基辅过境点</a></h4>
-<p style="margin:0 0 8px"><img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/22e4/live/526312a0-e258-11f1-8199-439bbe0918ee.jpg" alt="" style="max-width:100%;border-radius:6px"/></p>
-<p style="line-height:1.75;margin:0 0 6px">据报道，连接克里米亚和俄罗斯的桥梁遭受重大损坏，穿过基辅的两条路线也被关闭。</p>
-<p style="color:#9ca3af;font-size:12px;margin:0 0 4px">来源：BBC News · Crimea bridge shut after reported Ukrainian strike, as Russia hits Kyiv crossings</p>
-<h4 style="margin:16px 0 6px;font-size:16px;line-height:1.5">3. <a href="https://www.bbc.co.uk/news/articles/c30rk8x5g80qo?at_medium=RSS&amp;at_campaign=rss" style="color:#111827;text-decoration:none">乌克兰指责俄罗斯在“双击”袭击造成72人死亡后将救援行动作为目标</a></h4>
-<p style="margin:0 0 8px"><img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ba46/live/5efa38d0-df84-11f1-a701-fddedf244c16.png" alt="" style="max-width:100%;border-radius:6px"/></p>
-<p style="line-height:1.75;margin:0 0 6px">官员称，乌克兰南部遭受“双击”袭击后打捞尸体的工作因俄罗斯持续袭击而受到阻碍。</p>
-<p style="color:#9ca3af;font-size:12px;margin:0 0 4px">来源：BBC News · Ukraine accuses Russia of targeting rescue operation after &#x27;double-tap&#x27; strike kills 72</p>
-<h4 style="margin:16px 0 6px;font-size:16px;line-height:1.5">4. <a href="https://www.bbc.co.uk/news/articles/c5n4exg1kkmyo?at_medium=RSS&amp;at_campaign=rss" style="color:#111827;text-decoration:none">法医专家表示，他对尸检照片的分析表明爱泼斯坦被杀</a></h4>
-<p style="margin:0 0 8px"><img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f4ce/live/59eafa00-e1c3-11f1-8a52-0b287ff76f43.jpg" alt="" style="max-width:100%;border-radius:6px"/></p>
-<p style="line-height:1.75;margin:0 0 6px">迈克尔·弗里曼教授告诉英国广播公司《新闻之夜》，他认为被定罪的性犯罪者的伤势符合凶杀案。</p>
-<p style="color:#9ca3af;font-size:12px;margin:0 0 4px">来源：BBC News · Forensic expert says his analysis of autopsy photos suggests Epstein was killed</p>
-<h4 style="margin:16px 0 6px;font-size:16px;line-height:1.5">5. <a href="https://news.google.com/rss/articles/CBMiugFBVV95cUxOUHlVajNkY2FXdEl2b3o1ZEFaajdoZ0xiSUdsOS00SzBqVU5ZaEY1X3dHSV95Q0VoRmlVT2NzcmtZcUpJelRyV2RYLVVQMlRRc1BIQTRJbFpRYkJ5STZZNFNXbThLX2lQa195SlQzUk1JM3o5RnlmOGtCR2p4QU94NGViMmRYVEtnSHhaZXdwYjRpdzYybmxDczEzTmlnZjFTUUdiaktzcGpIeU9fYWZjWkIzQnJid214TGfSAbwBQVVfeXFMTWhLdXdvcHJwbDZWYTNNWGkxXy1qSVpsYXBPTEdEMUZNZlRHOGloeEhEbmVnTTV1Z1pMV2FaLXc5WGdkbGdYS1VhQm1nc0tJdGFVQUxDdF8tamFZbHZrVF9TRkJsbHlTeXpGbWt2T0gzTHB1by14OTFEdVA2eHhsTHkwemtOSkNfOWVYQzM0Qkc1eE5kN2xuSEZhSDB5NW1ZTlJ2MlVEdWFRQ1JxWEFDSDg3Ym9DeklyY1JfTE8?oc=5" style="color:#111827;text-decoration:none">美国与九个合作伙伴在特习会前签署 SI 供应链协议</a></h4>
-<p style="line-height:1.75;margin:0 0 6px">美国与九个合作伙伴在特习会之前签署 SI 供应链协议</p>
-<p style="color:#9ca3af;font-size:12px;margin:0 0 4px">来源：VOA · US, nine partners sign SI supply chain accord ahead of Trump-Xi meeting</p>
-<h4 style="margin:16px 0 6px;font-size:16px;line-height:1.5">6. <a href="https://www.nbcnews.com/video/1-5-million-gather-for-pope-leo-s-send-off-closing-out-a-historic-12-day-trip-to-south-america-273610309517" style="color:#111827;text-decoration:none">150万人聚集在一起为教皇利奥送行，结束了为期12天的历史性南美之旅</a></h4>
-<p style="margin:0 0 8px"><img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_11/1794871674775_now_hallie_jde_pope_leo_south_america_261116_S3_1920x1080-shthjy.jpg" alt="" style="max-width:100%;border-radius:6px"/></p>
-<p style="line-height:1.75;margin:0 0 6px">150 万人聚集在秘鲁利马为教皇利奥送行，结束了为期 12 天的历史性南美之旅。泰勒蒙多的豪尔赫·德圣地亚哥讨论了教宗留给南美天主教徒的信息。</p>
-<p style="color:#9ca3af;font-size:12px;margin:0 0 4px">来源：NBC · 1.5 million gather for Pope Leo&#x27;s send-off, closing out a historic 12-day trip to South America</p>
-<h4 style="margin:16px 0 6px;font-size:16px;line-height:1.5">7. <a href="https://www.nbcnews.com/video/u-k-authorities-investigating-if-russell-brand-s-message-from-prison-violates-rules-273585221856" style="color:#111827;text-decoration:none">英国当局正在调查拉塞尔·布兰德在监狱中发出的信息是否违反规定</a></h4>
-<p style="margin:0 0 8px"><img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_11/1794848524479_now_current_brand_message_prison_261116_S3_1920x1080-28b21t.jpg" alt="" style="max-width:100%;border-radius:6px"/></p>
-<p style="line-height:1.75;margin:0 0 6px">英国当局正在调查拉塞尔·布兰德在监狱中写下并由他的妻子通过视频发表的声明是否违反了禁止囚犯发表可能引起不安的言论的规定。</p>
-<p style="color:#9ca3af;font-size:12px;margin:0 0 4px">来源：NBC · U.K. authorities investigating if Russell Brand&#x27;s message from prison violates rules</p>
-<h4 style="margin:16px 0 6px;font-size:16px;line-height:1.5">8. <a href="https://www.nbcnews.com/world/the-vatican/pope-leo-south-america-tour-uruguay-argentina-peru-milei-fujimori-rcna608513" style="color:#111827;text-decoration:none">教皇利奥 12 天南美洲历史性之旅的亮点</a></h4>
-<p style="margin:0 0 8px"><img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-11/261116-pope-mb-1100-38c7ce.jpg" alt="" style="max-width:100%;border-radius:6px"/></p>
-<p style="line-height:1.75;margin:0 0 6px">当教皇利奥在乌拉圭、阿根廷和秘鲁进行为期 12 天的南美洲艰苦之旅时，数百万人前来迎接。</p>
-<p style="color:#9ca3af;font-size:12px;margin:0 0 4px">来源：NBC · Highlights from Pope Leo’s historic, 12-day tour of South America</p>
-<h3 style="margin:22px 0 6px;font-size:15px;color:#1d4ed8">二、AI 研究动态（OpenAI Research 等）</h3>
-<p style="color:#6b7280;font-size:12px;margin:0 0 10px">OpenAI Research、Google DeepMind、Anthropic、arXiv cs.AI 的最新研究与发布。</p>
-<h4 style="margin:16px 0 6px;font-size:16px;line-height:1.5">1. <a href="https://arxiv.org/abs/2611.19871" style="color:#111827;text-decoration:none">大型语言模型代理推理的交互式结构化环境扩展</a></h4>
-<p style="line-height:1.75;margin:0 0 6px">arXiv:2611.19871v1 公告类型：新 摘要：通过环境交互进行强化学习是训练后范式的基石，用于将大型语言模型演变成能够进行多回合的自主代理</p>
-<p style="color:#9ca3af;font-size:12px;margin:0 0 4px">来源：arXiv cs.AI · Interactive Structured Environment Scaling for Large Language Model Agentic Reasoning</p>
-<h4 style="margin:16px 0 6px;font-size:16px;line-height:1.5">2. <a href="https://arxiv.org/abs/2611.20447" style="color:#111827;text-decoration:none">逻辑链断点：开放权重语言模型中推理退化的受控变量基准</a></h4>
-<p style="line-height:1.75;margin:0 0 6px">arXiv:2611.20447v1 公告类型：新 摘要：我们介绍了逻辑链断点，这是一种用于开放权重语言模型中演绎推理的受控变量基准。它跨越三个阶段：(i) 纯 modus-p</p>
-<p style="color:#9ca3af;font-size:12px;margin:0 0 4px">来源：arXiv cs.AI · The Logic Chain Breaking Point: A Controlled-Variable Benchmark for Reasoning Degradation in Open-Weight Language Models</p>
-<h4 style="margin:16px 0 6px;font-size:16px;line-height:1.5">3. <a href="https://openai.com/index/how-we-detect-frontier-model-misalignment" style="color:#111827;text-decoration:none">我们如何检测前沿模型错位</a></h4>
-<p style="line-height:1.75;margin:0 0 6px">OpenAI 使用分层监控来检测前沿模型错位和未经授权的代理行为，以便响应人员可以在事件升级之前进行干预。</p>
-<p style="color:#9ca3af;font-size:12px;margin:0 0 4px">来源：OpenAI Research · How we detect frontier model misalignment</p>
-<h4 style="margin:16px 0 6px;font-size:16px;line-height:1.5">4. <a href="https://openai.com/index/control-room" style="color:#111827;text-decoration:none">控制室：一个中央系统，用于跟踪和停止我们研究基础设施中的模型工作负载</a></h4>
-<p style="line-height:1.75;margin:0 0 6px">了解 OpenAI 的控制室如何跟踪我们研究基础设施中的模型工作负载，并在出现安全问题时快速阻止它们。</p>
-<p style="color:#9ca3af;font-size:12px;margin:0 0 4px">来源：OpenAI Research · Control Room: A central system to track and stop model workloads across our research infrastructure</p>
-<h4 style="margin:16px 0 6px;font-size:16px;line-height:1.5">5. <a href="https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence/" style="color:#111827;text-decoration:none">Gemini Robotics 2.5 加速现实世界的通用灵活性</a></h4>
-<p style="margin:0 0 8px"><img src="https://lh3.googleusercontent.com/F1CrVEYRb8lJOyyxGgcyow-Td1de-nkp7K8MZrhjrKPANJUc0EYB754Ninn-Yrppjdb54nolOWo6Rk8iDaRNuixWwLaEKc0K9ImGooxen9fj9IOh=w528-h297-n-nu-rw-lo" alt="" style="max-width:100%;border-radius:6px"/></p>
-<p style="line-height:1.75;margin:0 0 6px">我们最强大的视觉-语言-动作模型增强了机器人的灵活性、可靠性和安全性</p>
-<p style="color:#9ca3af;font-size:12px;margin:0 0 4px">来源：Google DeepMind · Gemini Robotics 2.5 accelerates real-world general dexterity</p>]]></description>
-<pubDate>Tue, 17 Nov 2026 16:50:05 +0800</pubDate>
-<dc:source>BBC News / VOA / NBC</dc:source>
-<category>每日新闻</category>
-<media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e2e5/live/66487e80-e1a0-11f1-902c-ad301cbf1208.jpg" medium="image"/>
-<media:thumbnail url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e2e5/live/66487e80-e1a0-11f1-902c-ad301cbf1208.jpg"/>
 </item>
 </channel>
 </rss>

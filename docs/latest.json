@@ -1,6 +1,6 @@
 {
-  "date": "2026-11-23",
-  "generated_at": "2026-11-23T11:56:47.390110+08:00",
+  "date": "2026-11-24",
+  "generated_at": "2026-11-24T15:03:50.890004+08:00",
   "rss": "https://raw.githubusercontent.com/EOVANS/INTENT-Daily-CN/main/docs/feed.xml",
   "markdown": "https://raw.githubusercontent.com/EOVANS/INTENT-Daily-CN/main/docs/latest.md",
   "blocks": [
@@ -10,57 +10,90 @@
         {
           "rank": 1,
           "source": "BBC News",
-          "title_zh": "官员称利比亚港口俄罗斯船只爆炸疑似无人机袭击造成",
-          "title_en": "Explosion on Russian ship at Libya port caused by suspected drone attack, officials say",
-          "summary_zh": "利比亚东部政府表示，这艘船在返回俄罗斯的途中停下来补充燃料和补给。",
-          "url": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a198/live/5b2f71d0-e6ae-11f1-a094-5fdc692f3e33.jpg",
-          "published": "2026-11-23T02:59:35+00:00",
-          "score": 13.96
+          "title_zh": "俄罗斯核卫星报告后北约主席誓言防御太空威胁",
+          "title_en": "Nato chief vows defence against space threat after Russian nuclear satellite reports",
+          "summary_zh": "德国媒体称，俄罗斯计划在未来几周内向太空发射一颗携带核弹头的卫星。",
+          "url": "https://www.bbc.co.uk/news/articles/c9x2er1ry2mzo?at_medium=RSS&at_campaign=rss",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1177/live/c8dee990-e7a8-11f1-96e2-87034e8ab973.jpg",
+          "published": "2026-11-24T02:15:59+00:00",
+          "score": 17.3
         },
         {
           "rank": 2,
           "source": "BBC News",
-          "title_zh": "救援人员称，俄罗斯空袭乌克兰后数小时，7 岁男孩从废墟中被救出",
-          "title_en": "Boy, 7, pulled alive from rubble hours after Russian strike on Ukraine, rescuers say",
-          "summary_zh": "袭击造成九人死亡，救援工作仍在进行中，以寻找住宅楼中失踪的人员。",
-          "url": "https://www.bbc.co.uk/news/articles/cqdr15l32d3go?at_medium=RSS&at_campaign=rss",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cce0/live/b754c730-e6bd-11f1-a023-d502158f79f8.jpg",
-          "published": "2026-11-23T02:37:02+00:00",
-          "score": 12.44
+          "title_zh": "俄罗斯船只在利比亚遭到袭击说明乌克兰战争蔓延",
+          "title_en": "What strike on Russian ship in Libya says about spread of Ukraine war",
+          "summary_zh": "弗兰克·加德纳写道，乌克兰在利比亚港口击沉一艘俄罗斯战舰，使战争的风险上升了一个档次。",
+          "url": "https://www.bbc.co.uk/news/articles/cm894p88jzxpo?at_medium=RSS&at_campaign=rss",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/363b/live/dab0da20-e771-11f1-99a1-253766e7ad8b.jpg",
+          "published": "2026-11-23T20:48:35+00:00",
+          "score": 16.57
         },
         {
           "rank": 3,
           "source": "BBC News",
-          "title_zh": "印度尼西亚工厂发生火灾，三人死亡，数十人失踪",
-          "title_en": "Three killed and dozens missing after fire at Indonesian factory",
-          "summary_zh": "一家糖果厂发生火灾，造成至少三人死亡，多人恐已死亡。",
-          "url": "https://www.bbc.co.uk/news/articles/cw8dvg5pgm0eo?at_medium=RSS&at_campaign=rss",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0675/live/85d2f2e0-e62c-11f1-b2ea-350d14ed1ad7.jpg",
-          "published": "2026-11-22T14:05:20+00:00",
-          "score": 11.92
+          "title_zh": "乌克兰分享袭击利比亚附近俄罗斯船只的视频",
+          "title_en": "Ukraine shares video of strikes on Russian ships off Libya",
+          "summary_zh": "泽连斯基总统表示，一艘俄罗斯军舰被击沉，一艘俄罗斯货船也被击沉。",
+          "url": "https://www.bbc.co.uk/news/videos/c6wy93q5wwqvo?at_medium=RSS&at_campaign=rss",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9cc6/live/7a950f50-e738-11f1-99b6-a35a62fa4264.jpg",
+          "published": "2026-11-23T11:34:10+00:00",
+          "score": 12.69
         },
         {
           "rank": 4,
-          "source": "BBC News",
-          "title_zh": "“危险似乎一直更大”：乌克兰人在俄罗斯袭击后寻找失踪人员",
-          "title_en": "'Danger seems greater all the time': Ukrainians search for missing after Russian strikes",
-          "summary_zh": "英国广播公司 (BBC) 的莎拉·雷恩斯福德 (Sarah Rainsford) 在乌克兰基辅地区一栋倒塌的住宅楼现场进行报道。",
-          "url": "https://www.bbc.co.uk/news/videos/cre3dvd1k9y1o?at_medium=RSS&at_campaign=rss",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f57f/live/25f17b40-e69e-11f1-9d9b-5dad4444a651.jpg",
-          "published": "2026-11-22T22:37:43+00:00",
-          "score": 11.78
+          "source": "NBC",
+          "title_zh": "乌克兰在利比亚附近击沉俄罗斯军舰，这是战争的最新扩展",
+          "title_en": "Ukraine sinks Russian warship off Libya in latest expansion of the war",
+          "summary_zh": "乌克兰已将与俄罗斯的战斗转移到北非海岸，声称在其最新的战争扩张中击沉了利比亚海岸附近的一艘军舰。",
+          "url": "https://www.nbcnews.com/world/ukraine/ukraine-sinks-russian-warship-merkury-libya-naval-drones-war-rcna610822",
+          "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-11/261123-Merkury-ba-rs-0fa909.jpg",
+          "published": "2026-11-23T10:40:45+00:00",
+          "score": 10.14
         },
         {
           "rank": 5,
+          "source": "BBC News",
+          "title_zh": "喜剧演员模仿特朗普的舞蹈动作，嘲笑加拿大新闻晚宴上的贸易谈判",
+          "title_en": "Comedian impersonates Trump's dance moves, mocks trade talks at Canada press dinner",
+          "summary_zh": "模仿者是加拿大喜剧演员马克·克里奇，他对美国总统寻找新新闻秘书和美加贸易谈判进行了取笑。",
+          "url": "https://www.bbc.co.uk/news/articles/cr930y92dyx4o?at_medium=RSS&at_campaign=rss",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9f36/live/7d4e5560-e758-11f1-b407-33329b1ec67a.png",
+          "published": "2026-11-23T17:14:50+00:00",
+          "score": 8.92
+        },
+        {
+          "rank": 6,
           "source": "NBC",
-          "title_zh": "COP31气候谈判因化石燃料激烈争论而破裂",
-          "title_en": "COP31 climate talks break down after angry dispute over fossil fuels",
-          "summary_zh": "周日在土耳其举行的国际气候谈判破裂，此前欧盟和其他国家拒绝了一项削减所有化石燃料提及的协议草案。",
-          "url": "https://www.nbcnews.com/science/climate-change/cop31-climate-talks-break-angry-dispute-fossil-fuels-rcna610656",
-          "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-11/261122-cop31-nd-d8fbfb.jpg",
-          "published": "2026-11-22T13:20:21+00:00",
-          "score": 4.05
+          "title_zh": "唐·托利弗 (Don Toliver) 英国音乐会因观众释放不明物质而被疏散",
+          "title_en": "Don Toliver concert in England evacuated after unknown substance released in audience",
+          "summary_zh": "曼彻斯特唐·托利弗 (Don Toliver) 音乐会上释放的一种不明物质导致 12,000 人被疏散，当局正在调查。音乐会观众报告称，这导致咳嗽、眼睛灼热和呼吸困难",
+          "url": "https://www.nbcnews.com/video/don-toliver-concert-evacuated-after-unknown-substance-released-in-audience-274060357721",
+          "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_11/1795485378039_now_topstory_dontoliver_england_evacuation_261123_S3_1920x1080-inuuqd.jpg",
+          "published": "2026-11-24T01:56:23+00:00",
+          "score": 8.01
+        },
+        {
+          "rank": 7,
+          "source": "NBC",
+          "title_zh": "唐·托利弗 (Don Toliver) 在英国举行的演唱会因“不明物质”释放到人群中而被迫撤离",
+          "title_en": "Don Toliver concert in U.K. forced to evacuate after 'unknown substance' released into crowd",
+          "summary_zh": "警方称，在“不明物质”被释放到人群中后，数千名参加美国说唱歌手唐·托利弗 (Don Toliver) 演唱会的人从英国一个主要舞台疏散。 NBC 新闻的 Daniele Hamamdjian 报道",
+          "url": "https://www.nbcnews.com/now/video/don-toliver-concert-in-u-k-forced-to-evacuate-after-unknown-substance-released-into-crowd-274030149515",
+          "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_11/1795460099154_now_daily_a_dha_uk_tolliver_concert_evac_261123_S3_1920x1080-b0opk4.jpg",
+          "published": "2026-11-23T18:55:09+00:00",
+          "score": 7.74
+        },
+        {
+          "rank": 8,
+          "source": "NBC",
+          "title_zh": "美国说唱歌手唐·托利弗(Don Toliver)演唱会释放“不明物质”后，人群撤离",
+          "title_en": "Crowd evacuated from American rapper Don Toliver’s concert after ‘unknown substance’ released",
+          "summary_zh": "英国曼彻斯特——警方表示，周日晚上，数千名参加美国说唱歌手唐·托利弗 (Don Toliver) 演唱会的观众被从英国一个主要舞台疏散，原因是“不明物质”被释放到人群中。",
+          "url": "https://www.nbcnews.com/world/united-kingdom/don-toliver-concert-evacuated-coop-live-unknown-substance-released-rcna610820",
+          "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-11/261123-manchester-3-rs-42dd6c.jpg",
+          "published": "2026-11-23T10:37:03+00:00",
+          "score": 7.43
         }
       ]
     },
@@ -80,6 +113,17 @@
         },
         {
           "rank": 2,
+          "source": "Anthropic",
+          "title_zh": "回到可解释性的神经元基础，第 2 部分：将神经元用于安全应用",
+          "title_en": "Returning to the Neuron Basis for Interpretability, Part 2: Using Neurons For Safety Applications",
+          "summary_zh": "回到可解释性的神经元基础，第 2 部分：使用神经元进行安全应用 人类对齐科学博客",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE80SEl5Nm1XTnFSUk1iaEtQYkNkT3F5Ump1TkR1Y1lRQ1c5TllybllYUVhzQ2hOR3cxbzBSWUgwbC1BOFE1VjZiaDc0Rjd0S21NWFR0R3Y4MGg3UW14YzhHc1JrYUhRdm9kOUhnQVNnWDE?oc=5",
+          "image": "",
+          "published": "2026-11-23T18:14:08+00:00",
+          "score": 9.97
+        },
+        {
+          "rank": 3,
           "source": "Google DeepMind",
           "title_zh": "Gemini Robotics 2.5 加速现实世界的通用灵活性",
           "title_en": "Gemini Robotics 2.5 accelerates real-world general dexterity",
@@ -90,7 +134,18 @@
           "score": 9.5
         },
         {
-          "rank": 3,
+          "rank": 4,
+          "source": "Google DeepMind",
+          "title_zh": "通过代理和形式验证寻找更快的量子算法",
+          "title_en": "Finding faster quantum algorithms with agents and formal verification",
+          "summary_zh": "使用代理团队和形式验证来改进聚变和化学的量子算法。",
+          "url": "https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification/",
+          "image": "https://lh3.googleusercontent.com/jIoM2lo98EDqLMQjIaXBlXPmXgPbUPpM2GgtXcDsGekZBOPUY41IjBsnuZIhLac7MSOuRkklNBsp20a5M25oDz-xTIY0BIqoBxUqmmXvEHwlM3MJJw=w528-h297-n-nu-rw-lo",
+          "published": "2026-11-23T16:59:40+00:00",
+          "score": 9.41
+        },
+        {
+          "rank": 5,
           "source": "OpenAI Research",
           "title_zh": "管理前沿人工智能风险：从培训到部署",
           "title_en": "Managing frontier AI risk: From training to deployment",
@@ -99,39 +154,17 @@
           "image": "",
           "published": "2026-11-18T06:00:00+00:00",
           "score": 9.0
-        },
-        {
-          "rank": 4,
-          "source": "Google DeepMind",
-          "title_zh": "打开人工智能天气模型背后的数据集",
-          "title_en": "Opening the datasets behind our AI weather models",
-          "summary_zh": "基础降水和地球静止卫星数据集，可清晰观察地球。",
-          "url": "https://deepmind.google/blog/opening-the-datasets-behind-our-ai-weather-models/",
-          "image": "https://lh3.googleusercontent.com/ggsqfaBnOayx-i7z9Kj8AeZruz8BSo0N7tsnqwH8Z3REnHcDKBt-QSA3DR4UUM8lcwklWihSARoEN2AyQFhoRFGFlk2-0-xGuKt_rtGoFwpJg8LHVQ=w528-h297-n-nu-rw-lo",
-          "published": "2026-11-10T11:13:04+00:00",
-          "score": 9.0
-        },
-        {
-          "rank": 5,
-          "source": "Anthropic",
-          "title_zh": "",
-          "title_en": "",
-          "summary_zh": "人择",
-          "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFB6WXJxdnhvVmlyaG1KLXBVU3lHWmcxMkNXSWh2dDljckRfcmFlSm4xZnhSTVl1WjRJVDBRd1hTVkE2WG9uNnFLV0h3?oc=5",
-          "image": "",
-          "published": "2026-11-22T15:30:10+00:00",
-          "score": 3.48
         }
       ]
     }
   ],
   "source_counts": {
-    "BBC News": 16,
-    "VOA": 0,
-    "NBC": 1,
-    "OpenAI Research": 77,
-    "Google DeepMind": 10,
-    "Anthropic": 15,
+    "BBC News": 20,
+    "VOA": 3,
+    "NBC": 4,
+    "OpenAI Research": 74,
+    "Google DeepMind": 11,
+    "Anthropic": 18,
     "arXiv cs.AI": 0
   }
 }
