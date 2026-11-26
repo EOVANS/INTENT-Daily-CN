@@ -1,97 +1,95 @@
 # INTENT Daily CN · 每日新闻
 
-> **日期**：2026-11-25（北京时间）｜**生成**：13:38｜每日 07:35 自动更新
+> **日期**：2026-11-26（北京时间）｜**生成**：13:23｜每日 07:35 自动更新
 > **RSS 订阅**：<https://raw.githubusercontent.com/EOVANS/INTENT-Daily-CN/main/docs/feed.xml>
 
 ## 一、国际要闻（BBC / VOA / NBC）
 
 *过去 24 小时全球 Breaking News，按重要性降序。*
 
-### 1. 俄罗斯核卫星报告后北约主席誓言防御太空威胁
+### 1. 新估计显示超过70万名俄罗斯士兵在乌克兰战争中丧生
 
-德国媒体称，俄罗斯计划在未来几周内向太空发射一颗携带核弹头的卫星。
+根据泄露的官方数据的最新预测，超过 70 万俄罗斯士兵在乌克兰丧生，这一估计让人们对弗拉基米尔·普京总统的战争造成的惊人成本有了新的认识。
 
-![BBC News](https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f9e8/live/05da8d30-e7d7-11f1-a094-5fdc692f3e33.jpg)
+![NBC](https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-11/261124-russia-rs-9ac90c.jpg)
 
-- **来源**：BBC News
-- **原文标题**：Nato chief vows defence against space threat after Russian nuclear satellite reports
-- **发布时间**：2026-11-24 18:58
-- **原文链接**：<https://www.bbc.co.uk/news/articles/c9x2er1ry2mzo?at_medium=RSS&at_campaign=rss>
+- **来源**：NBC
+- **原文标题**：More than 700,000 Russian soldiers killed in Ukraine war, new estimate suggests
+- **发布时间**：2026-11-25 21:54
+- **原文链接**：<https://www.nbcnews.com/world/ukraine/russia-soldiers-killed-ukraine-war-new-estimate-suggests-700000-rcna611048>
 
-### 2. 俄罗斯自己的数据显示近50万人在乌克兰战争中死亡
+### 2. 俄罗斯自己的数据显示，俄罗斯在乌克兰战争中损失了近50万人
 
 泄露的数据揭示了对乌克兰的全面入侵如何从根本上改变了俄罗斯的死亡率模式。
 
-![BBC News](https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9e47/live/6a03aa70-e832-11f1-917e-35f1674fb52c.jpg)
+![BBC News](https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1e4e/live/dce0d700-e8c5-11f1-99b6-a35a62fa4264.jpg)
 
 - **来源**：BBC News
-- **原文标题**：Russia's own figures show almost 500,000 deaths in war in Ukraine
-- **发布时间**：2026-11-25 08:56
+- **原文标题**：Russia's own figures show it has lost nearly 500,000 people in Ukraine war
+- **发布时间**：2026-11-25 20:21
 - **原文链接**：<https://www.bbc.co.uk/news/articles/cmx27g533zwyo?at_medium=RSS&at_campaign=rss>
 
-### 3. 战后两年，叙利亚地雷伤亡人数激增
+### 3. 油罐车在开罗高速公路上坠毁，大火造成31人死亡
 
-数据显示，近 1000 名儿童被冲突遗留爆炸物炸死或炸伤。
+据报道，这艘油轮在埃及首都一条繁忙的环路上翻车，另有 21 人受伤。
 
-![BBC News](https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bf76/live/b1401ed0-e816-11f1-99b6-a35a62fa4264.jpg)
-
-- **来源**：BBC News
-- **原文标题**：Land mine casualties soar in Syria, two years after war
-- **发布时间**：2026-11-24 23:17
-- **原文链接**：<https://www.bbc.co.uk/news/articles/c893rl37ywdgo?at_medium=RSS&at_campaign=rss>
-
-### 4. 以色列空袭杀死加沙哈马斯内部安全负责人
-
-已经任职两个月的纳伊姆·阿布·纳赫勒是据报道在周二以色列袭击中丧生的七名巴勒斯坦人之一。
-
-![BBC News](https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9451/live/7a525660-e7fb-11f1-99b6-a35a62fa4264.jpg)
+![BBC News](https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2d4b/live/5e57daf0-e91f-11f1-9108-c5b270b0703d.jpg)
 
 - **来源**：BBC News
-- **原文标题**：Israeli air strike kills Hamas internal security chief in Gaza
-- **发布时间**：2026-11-24 23:35
-- **原文链接**：<https://www.bbc.co.uk/news/articles/c6rrg7ggq190o?at_medium=RSS&at_campaign=rss>
+- **原文标题**：Thirty-one killed in massive fire as fuel tanker crashes on Cairo highway
+- **发布时间**：2026-11-26 06:18
+- **原文链接**：<https://www.bbc.co.uk/news/articles/cqy7rn30v314o?at_medium=RSS&at_campaign=rss>
 
-### 5. 专家警告存在更广泛的风险，美国和中国领导人就军事SI的人为控制达成一致 - 美国之音
+### 4. 乌克兰称五架俄罗斯军用飞机在机场袭击中被击中
 
-专家警告存在更广泛的风险之际，中美领导人就军事情报情报的人力控制达成共识 美国之音 - 美国之音
+萨瓦斯利卡机场停有俄罗斯用来向乌克兰发射高超音速导弹和滑翔炸弹的飞机。
+
+![BBC News](https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/263d/live/670b2250-e8df-11f1-a3b9-79c60ec9ab33.jpg)
+
+- **来源**：BBC News
+- **原文标题**：Five Russian military jets hit in airfield strike, says Ukraine
+- **发布时间**：2026-11-25 22:46
+- **原文链接**：<https://www.bbc.co.uk/news/articles/ck9q8xp5r5pgo?at_medium=RSS&at_campaign=rss>
+
+### 5. 一项旨在改善这些香港房屋的翻修工程最终导致一场火灾，导致 168 人死亡
+
+香港最严重的火灾发生一年后，留下的家庭仍在等待正义。
+
+![BBC News](https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2b16/live/b6eddfc0-e8c5-11f1-ac76-db9e97f93d67.jpg)
+
+- **来源**：BBC News
+- **原文标题**：A renovation was meant to improve these Hong Kong homes - it ended in a blaze that killed 168
+- **发布时间**：2026-11-26 07:26
+- **原文链接**：<https://www.bbc.co.uk/news/articles/cqx2wrkyrdn8o?at_medium=RSS&at_campaign=rss>
+
+### 6. 特朗普提议对中国和欧盟征收新一轮关税和其他贸易伙伴
+
+特朗普提议对中国和欧盟征收新一轮关税和其他贸易伙伴
+
+![NBC](https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-11/261105-trump-xi-rs-5b9856.jpg)
+
+- **来源**：NBC
+- **原文标题**：Trump proposes a new wave of tariffs on China, E.U. and other trade partners
+- **发布时间**：2026-11-25 21:48
+- **原文链接**：<https://www.nbcnews.com/business/economy/trump-country-specific-tariffs-excess-capacity-rcna611087>
+
+### 7. 联合国警告阿富汗妇女在消除暴力侵害妇女行为国际日面临更大风险 - 美国之音
+
+联合国警告阿富汗妇女在消除暴力侵害妇女行为国际日面临更大风险 美国之音 - 美国之音
 
 - **来源**：VOA
-- **原文标题**：US, China leaders agree on human control of military SI as experts warn of wider risks - VOA
-- **发布时间**：2026-11-25 04:51
-- **原文链接**：<https://news.google.com/rss/articles/CBMiwgFBVV95cUxNTU9pY1Z6S25tLWpuWFBhblB0VWFIWEczLWhzUTVwblROOUtRS3dweDI1TVRaM09LSG9LOFAyRURKVTdoMEdHX2dJaWhMQ1hiejNRa1JsSXhSLXhxWmowUjJjN2JSdzlRalRrblYteE5PMXY2TkpxZmVFZUs4Rm9XR0JRYjZTUnRRbjZIY3ZhaVl0bnFEanZTODdSbV9STUJZZjBrcURCZENtZnZoSDM3Sm1CX2VYS0dudE0tNmlMbTlRZ9IBxAFBVV95cUxONGtvOEtaaUl3ZmtXcFl3NU1sSkVHZDZBNE5wck01dm1ESlRrTjFFQnEwVERTeExLVzFMVHRfT1RIcEprckVOOUNJUktHTGZ1VzBaUi1MMkdqRTlycG5TTEowYjVjM2g1SW1ucWR5OXV3cUhFYmZHYVg0aXZ2ZHhiM1pJWklDOHJoZTBnOXdZVVhmcS1ZeWMxQWQ5cWNCQk5lQjRUS05USnhEOVhtc3l4X0U4ZXlFWWtkdnVLRVh1dllYSWRY?oc=5>
+- **原文标题**：UN warns Afghan women face deepening risks on the international day for the elimination of violence against women - VOA
+- **发布时间**：2026-11-26 03:49
+- **原文链接**：<https://news.google.com/rss/articles/CBMi5wFBVV95cUxNVzk2T3BqQkZMSWFodEw3Z3FxWTBvMkZnY1VpUElBc2hOd1ZDc1BnWE5DTTlsaVppaE9ZVV9sb2I1WlRWczdkR2YwTm1sTFhQQlMzT1BBQ0ZFVnlIRmZlZ2QxUy1NNDhxU3BXaHhPTVp2RnZWS3pEcEJCaDB0QVIxeUtMdEdsMXVnb0dVS2M1bDgwcnZXNjlzVFRUZnZGUzJGNlplODhmMFRqRjlaTU9QWnZPUkFwcXpHUHRHTXE2RDgtY0diZEl0YnV4LUljTTUtLVpKMDk5bUliQzF5dVpEVkMzU0hsZVnSAeoBQVVfeXFMUFlSd2NfZnVabDJwOTBLeU1EbjVoUVF0QTdjdTJoaWZlS1dJdVAzbkdMS3FlZFNjZTdPNFNpUDZFSGxXTEtBQ0FBQ1ZRTGltbWtTX2p1X25wMkpVYVp4cjJGM05wZFdaTDgxY3BwejNsX0Foclljc0F2N1QxUDdnOHQ2U1RYT2oyTHNSTllSMlVZLUpsZTFULWgtaWxUdDM3TVo3bFRTMXlFeEdLdUI3VmFBVzRZYkhkMnJmWnZEUkI3Y3F6ME5pVlA3UHpqWHVEQlBYUUhSbXc4VFVYTTFSbTJMMU1ZbVlSOWhB?oc=5>
 
-### 6. 青少年在离职时被杀近 6 年后，加拿大当局知道是谁干的
+### 8. 瑞士因在转移乌克兰儿童方面发挥作用而制裁朝鲜营地 - 美国之音
 
-警方周一表示，加拿大当局已确认一名男子被控在近六十年前杀害一名加拿大青少年。
+瑞士因参与转移乌克兰儿童而对朝鲜营地实施制裁 美国之音 - 美国之音
 
-![NBC](https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-11/261124-Jacqueline-Dunleavy-mn-2110-0541c4.jpg)
-
-- **来源**：NBC
-- **原文标题**：Nearly 6 decades after teen was killed while leaving job, Canada authorities know who did it
-- **发布时间**：2026-11-25 10:53
-- **原文链接**：<https://www.nbcnews.com/world/canada/nearly-6-decades-teen-was-killed-leaving-job-canada-authorities-know-rcna611227>
-
-### 7. 哥伦比亚超市发生人质事件
-
-武装嫌疑人在哥伦比亚卡塔赫纳的一家超市内劫持了数十名顾客作为人质。 NBC 新闻的乔治·索利斯报道。
-
-![NBC](https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_11/1795573701833_nn_gso_colombia_supermarket_hostages_261124_S3_1920x1080-rnyvr7.jpg)
-
-- **来源**：NBC
-- **原文标题**：Hostage drama inside Colombia supermarket
-- **发布时间**：2026-11-25 07:43
-- **原文链接**：<https://www.nbcnews.com/nightly-news/video/hostage-drama-inside-colombia-supermarket-274126917866>
-
-### 8. 两人闯入王室庄园后被捕
-
-接到可疑活动报告后，警方在威廉王子和凯特王妃的乡间别墅出动了警犬和无人机。当局目前正在调查入侵者是如何进入这处房产的。 NBC 新闻的 Keir S
-
-![NBC](https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_11/1795564337587_nn_ksi_princewilliam_princesskate_homebreakin_261124_S3_1920x1080-5u2soh.jpg)
-
-- **来源**：NBC
-- **原文标题**：Two arrested after break-in at royal family’s estate
-- **发布时间**：2026-11-25 07:52
-- **原文链接**：<https://www.nbcnews.com/nightly-news/video/two-arrested-after-break-in-at-royal-family-s-estate-274126917987>
+- **来源**：VOA
+- **原文标题**：Switzerland Sanctions North Korean Camp Over Role in Transfer of Ukrainian Children - VOA
+- **发布时间**：2026-11-26 00:04
+- **原文链接**：<https://news.google.com/rss/articles/CBMivwFBVV95cUxOVWJJQ2YyZlNST0hUVkJkVnRMZXE2RjNLNTZCc191aENIMkZpemQ4YU91Y01NNG1BOWFKQUV3Yl96WHVLbG1xU091cUlqczZqbHNvOFNJUGd5cVJsWl8xQm9qaVBsZWdLXzdVMWFRbS1GcE9xTXJHZ2lfSTM3aUdDc01BeHg4Y2hRbE52X2ozcDJVQ0tWUmsxdVJkUkRDR3lRQmFmaWdDRFI5dzJGV1NvbkNxYmdPLTFIM3FTVmFENNIBwgFBVV95cUxQeTNLZ0lBVWlnT0JOU0lrYUFBWGxzRjdkRDc3SjVseHRZbHhFNG1KdThlTXZZdDVzQzRIalVYajQ3VjNkS01hZWE5Ukh4Y3VFS2tNTWx1MC1uTGJYTkRhZXdlbWtrZEh6MWJEQzl6WjlRSUlkajRWcUdEUl9iWElJX293V2ZiN1BzUlJ4RHNGTFJvOG9YSlVzdkpyZzRTTzNaVm9NVDRPek9QcjRZdnFWemVibWhuTS1UVW9KWlBsUmFnQQ?oc=5>
 
 ## 二、AI 研究动态（OpenAI Research 等）
 
@@ -103,7 +101,7 @@ arXiv:2511.21460v2 公告类型：替换摘要：大型语言模型（LLM）表�
 
 - **来源**：arXiv cs.AI
 - **原文标题**：MADRA: Multi-Agent Debate for Risk-Aware Embodied Planning
-- **发布时间**：2026-11-25 13:00
+- **发布时间**：2026-11-26 13:00
 - **原文链接**：<https://arxiv.org/abs/2511.21460>
 
 ### 2. M2A：在大型语言模型中协同数学和代理推理
@@ -112,7 +110,7 @@ arXiv:2605.09879v2 公告类型：替换 摘要：虽然推理已成为大型语
 
 - **来源**：arXiv cs.AI
 - **原文标题**：M2A: Synergizing Mathematical and Agentic Reasoning in Large Language Models
-- **发布时间**：2026-11-25 13:00
+- **发布时间**：2026-11-26 13:00
 - **原文链接**：<https://arxiv.org/abs/2605.09879>
 
 ### 3. 控制室：一个中央系统，用于跟踪和停止我们研究基础设施中的模型工作负载
@@ -150,12 +148,12 @@ GPT-6 模型使用推理和代码设计蛋白质结构和序列。实验室测�
 
 | 来源 | 窗口内条数 |
 | --- | --- |
-| BBC News | 26 |
-| VOA | 3 |
+| BBC News | 27 |
+| VOA | 8 |
 | NBC | 4 |
-| OpenAI Research | 74 |
-| Google DeepMind | 10 |
-| Anthropic | 21 |
+| OpenAI Research | 68 |
+| Google DeepMind | 11 |
+| Anthropic | 19 |
 | arXiv cs.AI | 446 |
 
 > 由 GitHub Actions 自动生成，请勿手工编辑。

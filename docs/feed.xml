@@ -6,14 +6,74 @@
 <atom:link href="https://raw.githubusercontent.com/EOVANS/INTENT-Daily-CN/main/docs/feed.xml" rel="self" type="application/rss+xml"/>
 <description><![CDATA[每日北京时间 07:35 自动更新，每期一条，内含当天国际要闻（BBC News / VOA / NBC）与 AI 研究动态（OpenAI Research / Google DeepMind / Anthropic / arXiv）的中文摘要。]]></description>
 <language>zh-CN</language>
-<lastBuildDate>Wed, 25 Nov 2026 05:38:47 GMT</lastBuildDate>
+<lastBuildDate>Thu, 26 Nov 2026 05:23:12 GMT</lastBuildDate>
 <generator>INTENT Daily CN</generator>
 <ttl>60</ttl>
 <image>
-<url>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f9e8/live/05da8d30-e7d7-11f1-a094-5fdc692f3e33.jpg</url>
+<url>https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-11/261124-russia-rs-9ac90c.jpg</url>
 <title>每日新闻</title>
 <link>https://github.com/EOVANS/INTENT-Daily-CN</link>
 </image>
+<item>
+<title>每日新闻 · 2026-11-26｜13 条要闻</title>
+<link>https://github.com/EOVANS/INTENT-Daily-CN/blob/main/docs/daily/2026-11-26.md</link>
+<guid isPermaLink="false">https://raw.githubusercontent.com/EOVANS/INTENT-Daily-CN/main/docs/feed.xml#2026-11-26</guid>
+<description><![CDATA[<h3 style="margin:22px 0 6px;font-size:15px;color:#1d4ed8">一、国际要闻（BBC / VOA / NBC）</h3>
+<p style="color:#6b7280;font-size:12px;margin:0 0 10px">过去 24 小时全球 Breaking News，按重要性降序。</p>
+<h4 style="margin:16px 0 6px;font-size:16px;line-height:1.5">1. <a href="https://www.nbcnews.com/world/ukraine/russia-soldiers-killed-ukraine-war-new-estimate-suggests-700000-rcna611048" style="color:#111827;text-decoration:none">新估计显示超过70万名俄罗斯士兵在乌克兰战争中丧生</a></h4>
+<p style="margin:0 0 8px"><img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-11/261124-russia-rs-9ac90c.jpg" alt="" style="max-width:100%;border-radius:6px"/></p>
+<p style="line-height:1.75;margin:0 0 6px">根据泄露的官方数据的最新预测，超过 70 万俄罗斯士兵在乌克兰丧生，这一估计让人们对弗拉基米尔·普京总统的战争造成的惊人成本有了新的认识。</p>
+<p style="color:#9ca3af;font-size:12px;margin:0 0 4px">来源：NBC · More than 700,000 Russian soldiers killed in Ukraine war, new estimate suggests</p>
+<h4 style="margin:16px 0 6px;font-size:16px;line-height:1.5">2. <a href="https://www.bbc.co.uk/news/articles/cmx27g533zwyo?at_medium=RSS&amp;at_campaign=rss" style="color:#111827;text-decoration:none">俄罗斯自己的数据显示，俄罗斯在乌克兰战争中损失了近50万人</a></h4>
+<p style="margin:0 0 8px"><img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1e4e/live/dce0d700-e8c5-11f1-99b6-a35a62fa4264.jpg" alt="" style="max-width:100%;border-radius:6px"/></p>
+<p style="line-height:1.75;margin:0 0 6px">泄露的数据揭示了对乌克兰的全面入侵如何从根本上改变了俄罗斯的死亡率模式。</p>
+<p style="color:#9ca3af;font-size:12px;margin:0 0 4px">来源：BBC News · Russia&#x27;s own figures show it has lost nearly 500,000 people in Ukraine war</p>
+<h4 style="margin:16px 0 6px;font-size:16px;line-height:1.5">3. <a href="https://www.bbc.co.uk/news/articles/cqy7rn30v314o?at_medium=RSS&amp;at_campaign=rss" style="color:#111827;text-decoration:none">油罐车在开罗高速公路上坠毁，大火造成31人死亡</a></h4>
+<p style="margin:0 0 8px"><img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2d4b/live/5e57daf0-e91f-11f1-9108-c5b270b0703d.jpg" alt="" style="max-width:100%;border-radius:6px"/></p>
+<p style="line-height:1.75;margin:0 0 6px">据报道，这艘油轮在埃及首都一条繁忙的环路上翻车，另有 21 人受伤。</p>
+<p style="color:#9ca3af;font-size:12px;margin:0 0 4px">来源：BBC News · Thirty-one killed in massive fire as fuel tanker crashes on Cairo highway</p>
+<h4 style="margin:16px 0 6px;font-size:16px;line-height:1.5">4. <a href="https://www.bbc.co.uk/news/articles/ck9q8xp5r5pgo?at_medium=RSS&amp;at_campaign=rss" style="color:#111827;text-decoration:none">乌克兰称五架俄罗斯军用飞机在机场袭击中被击中</a></h4>
+<p style="margin:0 0 8px"><img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/263d/live/670b2250-e8df-11f1-a3b9-79c60ec9ab33.jpg" alt="" style="max-width:100%;border-radius:6px"/></p>
+<p style="line-height:1.75;margin:0 0 6px">萨瓦斯利卡机场停有俄罗斯用来向乌克兰发射高超音速导弹和滑翔炸弹的飞机。</p>
+<p style="color:#9ca3af;font-size:12px;margin:0 0 4px">来源：BBC News · Five Russian military jets hit in airfield strike, says Ukraine</p>
+<h4 style="margin:16px 0 6px;font-size:16px;line-height:1.5">5. <a href="https://www.bbc.co.uk/news/articles/cqx2wrkyrdn8o?at_medium=RSS&amp;at_campaign=rss" style="color:#111827;text-decoration:none">一项旨在改善这些香港房屋的翻修工程最终导致一场火灾，导致 168 人死亡</a></h4>
+<p style="margin:0 0 8px"><img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2b16/live/b6eddfc0-e8c5-11f1-ac76-db9e97f93d67.jpg" alt="" style="max-width:100%;border-radius:6px"/></p>
+<p style="line-height:1.75;margin:0 0 6px">香港最严重的火灾发生一年后，留下的家庭仍在等待正义。</p>
+<p style="color:#9ca3af;font-size:12px;margin:0 0 4px">来源：BBC News · A renovation was meant to improve these Hong Kong homes - it ended in a blaze that killed 168</p>
+<h4 style="margin:16px 0 6px;font-size:16px;line-height:1.5">6. <a href="https://www.nbcnews.com/business/economy/trump-country-specific-tariffs-excess-capacity-rcna611087" style="color:#111827;text-decoration:none">特朗普提议对中国和欧盟征收新一轮关税和其他贸易伙伴</a></h4>
+<p style="margin:0 0 8px"><img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-11/261105-trump-xi-rs-5b9856.jpg" alt="" style="max-width:100%;border-radius:6px"/></p>
+<p style="line-height:1.75;margin:0 0 6px">特朗普提议对中国和欧盟征收新一轮关税和其他贸易伙伴</p>
+<p style="color:#9ca3af;font-size:12px;margin:0 0 4px">来源：NBC · Trump proposes a new wave of tariffs on China, E.U. and other trade partners</p>
+<h4 style="margin:16px 0 6px;font-size:16px;line-height:1.5">7. <a href="https://news.google.com/rss/articles/CBMi5wFBVV95cUxNVzk2T3BqQkZMSWFodEw3Z3FxWTBvMkZnY1VpUElBc2hOd1ZDc1BnWE5DTTlsaVppaE9ZVV9sb2I1WlRWczdkR2YwTm1sTFhQQlMzT1BBQ0ZFVnlIRmZlZ2QxUy1NNDhxU3BXaHhPTVp2RnZWS3pEcEJCaDB0QVIxeUtMdEdsMXVnb0dVS2M1bDgwcnZXNjlzVFRUZnZGUzJGNlplODhmMFRqRjlaTU9QWnZPUkFwcXpHUHRHTXE2RDgtY0diZEl0YnV4LUljTTUtLVpKMDk5bUliQzF5dVpEVkMzU0hsZVnSAeoBQVVfeXFMUFlSd2NfZnVabDJwOTBLeU1EbjVoUVF0QTdjdTJoaWZlS1dJdVAzbkdMS3FlZFNjZTdPNFNpUDZFSGxXTEtBQ0FBQ1ZRTGltbWtTX2p1X25wMkpVYVp4cjJGM05wZFdaTDgxY3BwejNsX0Foclljc0F2N1QxUDdnOHQ2U1RYT2oyTHNSTllSMlVZLUpsZTFULWgtaWxUdDM3TVo3bFRTMXlFeEdLdUI3VmFBVzRZYkhkMnJmWnZEUkI3Y3F6ME5pVlA3UHpqWHVEQlBYUUhSbXc4VFVYTTFSbTJMMU1ZbVlSOWhB?oc=5" style="color:#111827;text-decoration:none">联合国警告阿富汗妇女在消除暴力侵害妇女行为国际日面临更大风险 - 美国之音</a></h4>
+<p style="line-height:1.75;margin:0 0 6px">联合国警告阿富汗妇女在消除暴力侵害妇女行为国际日面临更大风险 美国之音 - 美国之音</p>
+<p style="color:#9ca3af;font-size:12px;margin:0 0 4px">来源：VOA · UN warns Afghan women face deepening risks on the international day for the elimination of violence against women - VOA</p>
+<h4 style="margin:16px 0 6px;font-size:16px;line-height:1.5">8. <a href="https://news.google.com/rss/articles/CBMivwFBVV95cUxOVWJJQ2YyZlNST0hUVkJkVnRMZXE2RjNLNTZCc191aENIMkZpemQ4YU91Y01NNG1BOWFKQUV3Yl96WHVLbG1xU091cUlqczZqbHNvOFNJUGd5cVJsWl8xQm9qaVBsZWdLXzdVMWFRbS1GcE9xTXJHZ2lfSTM3aUdDc01BeHg4Y2hRbE52X2ozcDJVQ0tWUmsxdVJkUkRDR3lRQmFmaWdDRFI5dzJGV1NvbkNxYmdPLTFIM3FTVmFENNIBwgFBVV95cUxQeTNLZ0lBVWlnT0JOU0lrYUFBWGxzRjdkRDc3SjVseHRZbHhFNG1KdThlTXZZdDVzQzRIalVYajQ3VjNkS01hZWE5Ukh4Y3VFS2tNTWx1MC1uTGJYTkRhZXdlbWtrZEh6MWJEQzl6WjlRSUlkajRWcUdEUl9iWElJX293V2ZiN1BzUlJ4RHNGTFJvOG9YSlVzdkpyZzRTTzNaVm9NVDRPek9QcjRZdnFWemVibWhuTS1UVW9KWlBsUmFnQQ?oc=5" style="color:#111827;text-decoration:none">瑞士因在转移乌克兰儿童方面发挥作用而制裁朝鲜营地 - 美国之音</a></h4>
+<p style="line-height:1.75;margin:0 0 6px">瑞士因参与转移乌克兰儿童而对朝鲜营地实施制裁 美国之音 - 美国之音</p>
+<p style="color:#9ca3af;font-size:12px;margin:0 0 4px">来源：VOA · Switzerland Sanctions North Korean Camp Over Role in Transfer of Ukrainian Children - VOA</p>
+<h3 style="margin:22px 0 6px;font-size:15px;color:#1d4ed8">二、AI 研究动态（OpenAI Research 等）</h3>
+<p style="color:#6b7280;font-size:12px;margin:0 0 10px">OpenAI Research、Google DeepMind、Anthropic、arXiv cs.AI 的最新研究与发布。</p>
+<h4 style="margin:16px 0 6px;font-size:16px;line-height:1.5">1. <a href="https://arxiv.org/abs/2511.21460" style="color:#111827;text-decoration:none">MADRA：风险意识具体规划的多主体辩论</a></h4>
+<p style="line-height:1.75;margin:0 0 6px">arXiv:2511.21460v2 公告类型：替换摘要：大型语言模型（LLM）表现出令人印象深刻的推理能力，但经常遭受“具体语义幻觉”的困扰 - 生成语义上的计划</p>
+<p style="color:#9ca3af;font-size:12px;margin:0 0 4px">来源：arXiv cs.AI · MADRA: Multi-Agent Debate for Risk-Aware Embodied Planning</p>
+<h4 style="margin:16px 0 6px;font-size:16px;line-height:1.5">2. <a href="https://arxiv.org/abs/2605.09879" style="color:#111827;text-decoration:none">M2A：在大型语言模型中协同数学和代理推理</a></h4>
+<p style="line-height:1.75;margin:0 0 6px">arXiv:2605.09879v2 公告类型：替换 摘要：虽然推理已成为大型语言模型（LLM）的核心能力，但不同场景所需的推理模式往往不一致。数学家</p>
+<p style="color:#9ca3af;font-size:12px;margin:0 0 4px">来源：arXiv cs.AI · M2A: Synergizing Mathematical and Agentic Reasoning in Large Language Models</p>
+<h4 style="margin:16px 0 6px;font-size:16px;line-height:1.5">3. <a href="https://openai.com/index/control-room" style="color:#111827;text-decoration:none">控制室：一个中央系统，用于跟踪和停止我们研究基础设施中的模型工作负载</a></h4>
+<p style="line-height:1.75;margin:0 0 6px">了解 OpenAI 的控制室如何跟踪我们研究基础设施中的模型工作负载，并在出现安全问题时快速阻止它们。</p>
+<p style="color:#9ca3af;font-size:12px;margin:0 0 4px">来源：OpenAI Research · Control Room: A central system to track and stop model workloads across our research infrastructure</p>
+<h4 style="margin:16px 0 6px;font-size:16px;line-height:1.5">4. <a href="https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities" style="color:#111827;text-decoration:none">GPT-6 模型展示了内在的蛋白质设计能力</a></h4>
+<p style="line-height:1.75;margin:0 0 6px">GPT-6 模型使用推理和代码设计蛋白质结构和序列。实验室测试发现了五个目标之间结合的证据。</p>
+<p style="color:#9ca3af;font-size:12px;margin:0 0 4px">来源：OpenAI Research · GPT-6 models demonstrate intrinsic protein-design capabilities</p>
+<h4 style="margin:16px 0 6px;font-size:16px;line-height:1.5">5. <a href="https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence/" style="color:#111827;text-decoration:none">Gemini Robotics 2.5 加速现实世界的通用灵活性</a></h4>
+<p style="margin:0 0 8px"><img src="https://lh3.googleusercontent.com/F1CrVEYRb8lJOyyxGgcyow-Td1de-nkp7K8MZrhjrKPANJUc0EYB754Ninn-Yrppjdb54nolOWo6Rk8iDaRNuixWwLaEKc0K9ImGooxen9fj9IOh=w528-h297-n-nu-rw-lo" alt="" style="max-width:100%;border-radius:6px"/></p>
+<p style="line-height:1.75;margin:0 0 6px">我们最强大的视觉-语言-动作模型增强了机器人的灵活性、可靠性和安全性</p>
+<p style="color:#9ca3af;font-size:12px;margin:0 0 4px">来源：Google DeepMind · Gemini Robotics 2.5 accelerates real-world general dexterity</p>]]></description>
+<pubDate>Thu, 26 Nov 2026 05:23:12 GMT</pubDate>
+<dc:source>BBC News / VOA / NBC</dc:source>
+<category>每日新闻</category>
+<media:content url="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-11/261124-russia-rs-9ac90c.jpg" medium="image"/>
+<media:thumbnail url="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-11/261124-russia-rs-9ac90c.jpg"/>
+</item>
 <item>
 <title>每日新闻 · 2026-11-25｜13 条要闻</title>
 <link>https://github.com/EOVANS/INTENT-Daily-CN/blob/main/docs/daily/2026-11-25.md</link>
@@ -360,67 +420,6 @@
 <category>每日新闻</category>
 <media:content url="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-11/261118-trump-putin0xi-mb-1145-4e0e2f.jpg" medium="image"/>
 <media:thumbnail url="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-11/261118-trump-putin0xi-mb-1145-4e0e2f.jpg"/>
-</item>
-<item>
-<title>每日新闻 · 2026-11-19｜13 条要闻</title>
-<link>https://github.com/EOVANS/INTENT-Daily-CN/blob/main/docs/daily/2026-11-19.md</link>
-<guid isPermaLink="false">https://raw.githubusercontent.com/EOVANS/INTENT-Daily-CN/main/docs/feed.xml#2026-11-19</guid>
-<description><![CDATA[<h3 style="margin:22px 0 6px;font-size:15px;color:#1d4ed8">一、国际要闻（BBC / VOA / NBC）</h3>
-<p style="color:#6b7280;font-size:12px;margin:0 0 10px">过去 24 小时全球 Breaking News，按重要性降序。</p>
-<h4 style="margin:16px 0 6px;font-size:16px;line-height:1.5">1. <a href="https://www.bbc.co.uk/news/articles/c9n70gd320mpo?at_medium=RSS&amp;at_campaign=rss" style="color:#111827;text-decoration:none">史蒂夫·罗森伯格：与习近平和特朗普的历史性会谈对普京来说是一个妙招</a></h4>
-<p style="margin:0 0 8px"><img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/17b2/live/72c78770-e36f-11f1-a094-5fdc692f3e33.jpg" alt="" style="max-width:100%;border-radius:6px"/></p>
-<p style="line-height:1.75;margin:0 0 6px">周四美国、中国和俄罗斯领导人之间的会晤将为弗拉基米尔·普京提供一个大舞台，但这并不会让他更接近赢得乌克兰战争。</p>
-<p style="color:#9ca3af;font-size:12px;margin:0 0 4px">来源：BBC News · Steve Rosenberg: Historic talks with Xi and Trump are a coup for Putin</p>
-<h4 style="margin:16px 0 6px;font-size:16px;line-height:1.5">2. <a href="https://www.nbcnews.com/video/ukraine-s-zelenskyy-reacts-to-trump-meeting-putin-amid-ongoing-war-in-ukraine-273775685575" style="color:#111827;text-decoration:none">乌克兰泽伦斯基对特朗普在乌克兰持续战争期间会见普京做出反应</a></h4>
-<p style="margin:0 0 8px"><img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_11/1795048250544_now_hallie_zelenskyy_interview_engel_261118_S3_1920x1080-s9cwm3.jpg" alt="" style="max-width:100%;border-radius:6px"/></p>
-<p style="line-height:1.75;margin:0 0 6px">乌克兰总统弗拉基米尔·泽连斯基告诉 NBC 新闻的理查德·恩格尔，他将“做他必须做的事情”，继续为“自由”而战，据报道，俄罗斯总统弗拉基米尔·普京取消了暗杀乌克兰总统的禁令。</p>
-<p style="color:#9ca3af;font-size:12px;margin:0 0 4px">来源：NBC · Ukraine&#x27;s Zelenskyy reacts to Trump meeting Putin amid ongoing war in Ukraine</p>
-<h4 style="margin:16px 0 6px;font-size:16px;line-height:1.5">3. <a href="https://www.nbcnews.com/world/asia/trump-pushes-three-way-nuclear-deal-russia-china-show-little-interest-rcna610145" style="color:#111827;text-decoration:none">俄罗斯和中国兴趣不大，特朗普推动三方核协议</a></h4>
-<p style="margin:0 0 8px"><img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-11/261118-trump-putin0xi-mb-1145-4e0e2f.jpg" alt="" style="max-width:100%;border-radius:6px"/></p>
-<p style="line-height:1.75;margin:0 0 6px">唐纳德·特朗普总统在周四与中国国家主席习近平和俄罗斯总统弗拉基米尔·普京举行的史无前例的三边会议上多次将防扩散问题列为首要议程，但他的目标是</p>
-<p style="color:#9ca3af;font-size:12px;margin:0 0 4px">来源：NBC · Trump pushes for three-way nuclear deal as Russia and China show little interest</p>
-<h4 style="margin:16px 0 6px;font-size:16px;line-height:1.5">4. <a href="https://www.bbc.co.uk/news/videos/ckvg28jy77z5o?at_medium=RSS&amp;at_campaign=rss" style="color:#111827;text-decoration:none">新视频显示克里米亚大桥部分倒塌前不久发生爆炸</a></h4>
-<p style="margin:0 0 8px"><img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/442c/live/51ebbbe0-e36d-11f1-99a1-253766e7ad8b.png" alt="" style="max-width:100%;border-radius:6px"/></p>
-<p style="line-height:1.75;margin:0 0 6px">BBC verify 分析了显示桥梁部分倒塌前最后时刻的镜头以及显示破坏规模的视频。</p>
-<p style="color:#9ca3af;font-size:12px;margin:0 0 4px">来源：BBC News · New video shows explosions moments before part of Crimea Bridge collapses</p>
-<h4 style="margin:16px 0 6px;font-size:16px;line-height:1.5">5. <a href="https://www.bbc.co.uk/news/videos/c8p3vw4q6nzzo?at_medium=RSS&amp;at_campaign=rss" style="color:#111827;text-decoration:none">在旧天然气管道内，乌克兰正在与俄罗斯进行地下战争</a></h4>
-<p style="margin:0 0 8px"><img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7a52/live/a0e1e280-e36b-11f1-99b6-a35a62fa4264.jpg" alt="" style="max-width:100%;border-radius:6px"/></p>
-<p style="line-height:1.75;margin:0 0 6px">观看：BBC 的乔纳森·比尔 (Jonathan Beale) 与乌克兰军队一起在地下、俄罗斯无人机看不见的地方进行战斗。</p>
-<p style="color:#9ca3af;font-size:12px;margin:0 0 4px">来源：BBC News · Inside the old gas pipeline where Ukraine is fighting an underground war with Russia</p>
-<h4 style="margin:16px 0 6px;font-size:16px;line-height:1.5">6. <a href="https://www.nbcnews.com/video/trump-touts-u-s-trade-deals-inflation-despite-increased-rates-273785413517" style="color:#111827;text-decoration:none">尽管利率上升，特朗普仍吹捧美国贸易协议和通胀</a></h4>
-<p style="margin:0 0 8px"><img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_11/1795060685676_f_mo_la_trump_apec_inflation_trade_261118_S3_1920x1080-wlm2d7.jpg" alt="" style="max-width:100%;border-radius:6px"/></p>
-<p style="line-height:1.75;margin:0 0 6px">特朗普总统在 APEC 峰会上发表讲话时声称美国通胀率有所下降，并表示“过去三个月我们的通胀率低于 2%，这已经很了不起了”，并谈到了贸易协议。根据</p>
-<p style="color:#9ca3af;font-size:12px;margin:0 0 4px">来源：NBC · Trump touts U.S. trade deals, inflation despite increased rates</p>
-<h4 style="margin:16px 0 6px;font-size:16px;line-height:1.5">7. <a href="https://www.bbc.co.uk/news/videos/cqp86k23d84ro?at_medium=RSS&amp;at_campaign=rss" style="color:#111827;text-decoration:none">BBC 记者讨论历史性的特朗普、习近平和普京会面</a></h4>
-<p style="margin:0 0 8px"><img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e20b/live/66ff6490-e323-11f1-a094-5fdc692f3e33.jpg" alt="" style="max-width:100%;border-radius:6px"/></p>
-<p style="line-height:1.75;margin:0 0 6px">BBC 的劳拉·比克 (Laura Bicker)、史蒂夫·罗森伯格 (Steve Rosenberg) 和纳达·陶菲克 (Nada Tawfik) 在这场史无前例的三边会议之前解释了您需要了解的一切。</p>
-<p style="color:#9ca3af;font-size:12px;margin:0 0 4px">来源：BBC News · BBC correspondents discuss historic Trump, Xi and Putin meeting</p>
-<h4 style="margin:16px 0 6px;font-size:16px;line-height:1.5">8. <a href="https://www.nbcnews.com/video/what-to-expect-from-trump-s-meeting-with-putin-and-xi-jinping-273779781736" style="color:#111827;text-decoration:none">特朗普与普京和习近平的会晤值得期待</a></h4>
-<p style="margin:0 0 8px"><img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_11/1795052345616_now_topstory_trilateral_trump_putin_xijinping_261118_S3_1920x1080-e3375f.jpg" alt="" style="max-width:100%;border-radius:6px"/></p>
-<p style="line-height:1.75;margin:0 0 6px">NBC 新闻的 Janis Mackey Frayer 和 Gabe Gutierrez 探讨了 APEC 峰会期间特朗普总统与普京总统和习近平主席会面的潜在预期以及各国可能提出的要求。</p>
-<p style="color:#9ca3af;font-size:12px;margin:0 0 4px">来源：NBC · What to expect from Trump&#x27;s meeting with Putin and Xi Jinping</p>
-<h3 style="margin:22px 0 6px;font-size:15px;color:#1d4ed8">二、AI 研究动态（OpenAI Research 等）</h3>
-<p style="color:#6b7280;font-size:12px;margin:0 0 10px">OpenAI Research、Google DeepMind、Anthropic、arXiv cs.AI 的最新研究与发布。</p>
-<h4 style="margin:16px 0 6px;font-size:16px;line-height:1.5">1. <a href="https://arxiv.org/abs/2608.08077" style="color:#111827;text-decoration:none">探索、绘制、记住、决策：安全关键场景中 VLM 准备情况的基准</a></h4>
-<p style="line-height:1.75;margin:0 0 6px">arXiv:2608.08077v2 公告类型：替换 摘要：视觉语言模型 (VLM) 通常被部署为机器人技术的具体控制器，但目前尚不清楚它们能够如何很好地探索环境、维护内部信息</p>
-<p style="color:#9ca3af;font-size:12px;margin:0 0 4px">来源：arXiv cs.AI · Explore, Map, Remember, Decide: A Benchmark for VLM Readiness in Safety-Critical Scenarios</p>
-<h4 style="margin:16px 0 6px;font-size:16px;line-height:1.5">2. <a href="https://arxiv.org/abs/2609.33319" style="color:#111827;text-decoration:none">PhysAlign：多模态物理推理中循证角色调整的基准</a></h4>
-<p style="line-height:1.75;margin:0 0 6px">arXiv:2609.33319v2 公告类型：替换 摘要：物理图理解的一个关键挑战是将视觉信息与其描述的物理实体、关系和条件正确关联起来。即使什么</p>
-<p style="color:#9ca3af;font-size:12px;margin:0 0 4px">来源：arXiv cs.AI · PhysAlign: A Benchmark for Evidence-Grounded Role Alignment in Multimodal Physics Reasoning</p>
-<h4 style="margin:16px 0 6px;font-size:16px;line-height:1.5">3. <a href="https://openai.com/index/how-we-detect-frontier-model-misalignment" style="color:#111827;text-decoration:none">我们如何检测前沿模型错位</a></h4>
-<p style="line-height:1.75;margin:0 0 6px">OpenAI 使用分层监控来检测前沿模型错位和未经授权的代理行为，以便响应人员可以在事件升级之前进行干预。</p>
-<p style="color:#9ca3af;font-size:12px;margin:0 0 4px">来源：OpenAI Research · How we detect frontier model misalignment</p>
-<h4 style="margin:16px 0 6px;font-size:16px;line-height:1.5">4. <a href="https://openai.com/index/managing-frontier-ai-risk" style="color:#111827;text-decoration:none">管理前沿人工智能风险：从培训到部署</a></h4>
-<p style="line-height:1.75;margin:0 0 6px">OpenAI 解释了它如何通过模型对齐、沙盒、阻止防护措施和监控来管理从培训到部署的前沿人工智能风险。</p>
-<p style="color:#9ca3af;font-size:12px;margin:0 0 4px">来源：OpenAI Research · Managing frontier AI risk: From training to deployment</p>
-<h4 style="margin:16px 0 6px;font-size:16px;line-height:1.5">5. <a href="https://news.google.com/rss/articles/CBMiaEFVX3lxTE9uMDBhNnFaYU9QNDBlamg0MFItWXUtMDUtQkpGTWtnZTdpcW9UeUNqQ2J1dWZhWUNYNjlhbHZQRVFuaDRlLUozeWEyeUNJbDhHRFhWbTdHREV5YXNfaFNRMmFKdmlIaDl6?oc=5" style="color:#111827;text-decoration:none">{型号名称 + 版本} - 型号卡 - Google DeepMind</a></h4>
-<p style="line-height:1.75;margin:0 0 6px">{型号名称 + 版本} - 型号卡 Google DeepMind</p>
-<p style="color:#9ca3af;font-size:12px;margin:0 0 4px">来源：Google DeepMind · {Model name + Version} - Model Card - Google DeepMind</p>]]></description>
-<pubDate>Thu, 19 Nov 2026 04:26:38 GMT</pubDate>
-<dc:source>BBC News / VOA / NBC</dc:source>
-<category>每日新闻</category>
-<media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/17b2/live/72c78770-e36f-11f1-a094-5fdc692f3e33.jpg" medium="image"/>
-<media:thumbnail url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/17b2/live/72c78770-e36f-11f1-a094-5fdc692f3e33.jpg"/>
 </item>
 </channel>
 </rss>
