@@ -1,117 +1,113 @@
 # INTENT Daily CN · 每日新闻
 
-> **日期**：2026-11-26（北京时间）｜**生成**：13:23｜每日 07:35 自动更新
+> **日期**：2026-11-27（北京时间）｜**生成**：13:17｜每日 07:35 自动更新
 > **RSS 订阅**：<https://raw.githubusercontent.com/EOVANS/INTENT-Daily-CN/main/docs/feed.xml>
 
 ## 一、国际要闻（BBC / VOA / NBC）
 
 *过去 24 小时全球 Breaking News，按重要性降序。*
 
-### 1. 新估计显示超过70万名俄罗斯士兵在乌克兰战争中丧生
+### 1. 两名意大利人在科威特袭击中丧生，伊朗否认对此负责
 
-根据泄露的官方数据的最新预测，超过 70 万俄罗斯士兵在乌克兰丧生，这一估计让人们对弗拉基米尔·普京总统的战争造成的惊人成本有了新的认识。
+据意大利外交部称，这两人是德国莱茵金属公司的技术人员。
 
-![NBC](https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-11/261124-russia-rs-9ac90c.jpg)
-
-- **来源**：NBC
-- **原文标题**：More than 700,000 Russian soldiers killed in Ukraine war, new estimate suggests
-- **发布时间**：2026-11-25 21:54
-- **原文链接**：<https://www.nbcnews.com/world/ukraine/russia-soldiers-killed-ukraine-war-new-estimate-suggests-700000-rcna611048>
-
-### 2. 俄罗斯自己的数据显示，俄罗斯在乌克兰战争中损失了近50万人
-
-泄露的数据揭示了对乌克兰的全面入侵如何从根本上改变了俄罗斯的死亡率模式。
-
-![BBC News](https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1e4e/live/dce0d700-e8c5-11f1-99b6-a35a62fa4264.jpg)
+![BBC News](https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1ece/live/c83dee70-e9f4-11f1-9c56-b1b6306ef9e3.png)
 
 - **来源**：BBC News
-- **原文标题**：Russia's own figures show it has lost nearly 500,000 people in Ukraine war
-- **发布时间**：2026-11-25 20:21
-- **原文链接**：<https://www.bbc.co.uk/news/articles/cmx27g533zwyo?at_medium=RSS&at_campaign=rss>
+- **原文标题**：Two Italians killed in strike in Kuwait, as Iran denies responsibility
+- **发布时间**：2026-11-27 05:17
+- **原文链接**：<https://www.bbc.co.uk/news/articles/c39w9y5dx4k5o?at_medium=RSS&at_campaign=rss>
 
-### 3. 油罐车在开罗高速公路上坠毁，大火造成31人死亡
+### 2. 哈马斯政治官员和妻子在以色列袭击加沙的八名巴勒斯坦人中丧生
 
-据报道，这艘油轮在埃及首都一条繁忙的环路上翻车，另有 21 人受伤。
+此次杀戮是以色列几乎每天针对其所谓的哈马斯目标发动的一系列袭击中的最新一起。
 
-![BBC News](https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2d4b/live/5e57daf0-e91f-11f1-9108-c5b270b0703d.jpg)
-
-- **来源**：BBC News
-- **原文标题**：Thirty-one killed in massive fire as fuel tanker crashes on Cairo highway
-- **发布时间**：2026-11-26 06:18
-- **原文链接**：<https://www.bbc.co.uk/news/articles/cqy7rn30v314o?at_medium=RSS&at_campaign=rss>
-
-### 4. 乌克兰称五架俄罗斯军用飞机在机场袭击中被击中
-
-萨瓦斯利卡机场停有俄罗斯用来向乌克兰发射高超音速导弹和滑翔炸弹的飞机。
-
-![BBC News](https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/263d/live/670b2250-e8df-11f1-a3b9-79c60ec9ab33.jpg)
+![BBC News](https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b703/live/54fa7870-e981-11f1-99a1-253766e7ad8b.jpg)
 
 - **来源**：BBC News
-- **原文标题**：Five Russian military jets hit in airfield strike, says Ukraine
-- **发布时间**：2026-11-25 22:46
-- **原文链接**：<https://www.bbc.co.uk/news/articles/ck9q8xp5r5pgo?at_medium=RSS&at_campaign=rss>
+- **原文标题**：Hamas political official and wife among eight Palestinians killed in Israeli strikes on Gaza
+- **发布时间**：2026-11-26 18:14
+- **原文链接**：<https://www.bbc.co.uk/news/articles/cqvg2n4mzl1jo?at_medium=RSS&at_campaign=rss>
 
-### 5. 一项旨在改善这些香港房屋的翻修工程最终导致一场火灾，导致 168 人死亡
+### 3. 埃及当局因油罐车事故逮捕司机，造成31人死亡
 
-香港最严重的火灾发生一年后，留下的家庭仍在等待正义。
+官员称，该男子承认自己超速行驶并在超车时撞到了加油车。
 
-![BBC News](https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2b16/live/b6eddfc0-e8c5-11f1-ac76-db9e97f93d67.jpg)
+![BBC News](https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e387/live/8aafd3d0-e98f-11f1-9d1c-4dcc8fcde666.jpg)
 
 - **来源**：BBC News
-- **原文标题**：A renovation was meant to improve these Hong Kong homes - it ended in a blaze that killed 168
-- **发布时间**：2026-11-26 07:26
-- **原文链接**：<https://www.bbc.co.uk/news/articles/cqx2wrkyrdn8o?at_medium=RSS&at_campaign=rss>
+- **原文标题**：Egyptian authorities arrest motorist over tanker crash that killed 31
+- **发布时间**：2026-11-26 20:16
+- **原文链接**：<https://www.bbc.co.uk/news/articles/c3gre90l0g45o?at_medium=RSS&at_campaign=rss>
 
-### 6. 特朗普提议对中国和欧盟征收新一轮关税和其他贸易伙伴
+### 4. 致命垃圾场倒塌数月后，几内亚命令居民清理首都
 
-特朗普提议对中国和欧盟征收新一轮关税和其他贸易伙伴
+自灾难发生以来，首都的主要垃圾场已关闭，导致垃圾堆积在街道上。
 
-![NBC](https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-11/261105-trump-xi-rs-5b9856.jpg)
+![BBC News](https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/27e3/live/62b728b0-e967-11f1-9656-317cf5039a62.jpg)
 
-- **来源**：NBC
-- **原文标题**：Trump proposes a new wave of tariffs on China, E.U. and other trade partners
-- **发布时间**：2026-11-25 21:48
-- **原文链接**：<https://www.nbcnews.com/business/economy/trump-country-specific-tariffs-excess-capacity-rcna611087>
+- **来源**：BBC News
+- **原文标题**：Guinea orders residents to clean up the capital months after deadly rubbish dump collapse
+- **发布时间**：2026-11-26 15:43
+- **原文链接**：<https://www.bbc.co.uk/news/articles/cqwy4377yxnlo?at_medium=RSS&at_campaign=rss>
 
-### 7. 联合国警告阿富汗妇女在消除暴力侵害妇女行为国际日面临更大风险 - 美国之音
+### 5. - ËdāỌ âm Ōᩩā
 
-联合国警告阿富汗妇女在消除暴力侵害妇女行为国际日面临更大风险 美国之音 - 美国之音
+ËdāỌ âm Ōᩩā
 
 - **来源**：VOA
-- **原文标题**：UN warns Afghan women face deepening risks on the international day for the elimination of violence against women - VOA
-- **发布时间**：2026-11-26 03:49
-- **原文链接**：<https://news.google.com/rss/articles/CBMi5wFBVV95cUxNVzk2T3BqQkZMSWFodEw3Z3FxWTBvMkZnY1VpUElBc2hOd1ZDc1BnWE5DTTlsaVppaE9ZVV9sb2I1WlRWczdkR2YwTm1sTFhQQlMzT1BBQ0ZFVnlIRmZlZ2QxUy1NNDhxU3BXaHhPTVp2RnZWS3pEcEJCaDB0QVIxeUtMdEdsMXVnb0dVS2M1bDgwcnZXNjlzVFRUZnZGUzJGNlplODhmMFRqRjlaTU9QWnZPUkFwcXpHUHRHTXE2RDgtY0diZEl0YnV4LUljTTUtLVpKMDk5bUliQzF5dVpEVkMzU0hsZVnSAeoBQVVfeXFMUFlSd2NfZnVabDJwOTBLeU1EbjVoUVF0QTdjdTJoaWZlS1dJdVAzbkdMS3FlZFNjZTdPNFNpUDZFSGxXTEtBQ0FBQ1ZRTGltbWtTX2p1X25wMkpVYVp4cjJGM05wZFdaTDgxY3BwejNsX0Foclljc0F2N1QxUDdnOHQ2U1RYT2oyTHNSTllSMlVZLUpsZTFULWgtaWxUdDM3TVo3bFRTMXlFeEdLdUI3VmFBVzRZYkhkMnJmWnZEUkI3Y3F6ME5pVlA3UHpqWHVEQlBYUUhSbXc4VFVYTTFSbTJMMU1ZbVlSOWhB?oc=5>
+- **原文标题**：- صدای آمریکا
+- **发布时间**：2026-11-27 05:37
+- **原文链接**：<https://news.google.com/rss/articles/CBMiUkFVX3lxTE1SeWVMVTJzQTZTWHRHV1BVRVpSWUl1OE9kM3dNUERnWjNWMGthcXY5SjY1QWhORl9sLVItS3FTeXRSbnVKYTBUbk5ZOWFaM3RaTHc?oc=5>
 
-### 8. 瑞士因在转移乌克兰儿童方面发挥作用而制裁朝鲜营地 - 美国之音
+### 6. 中国延长对美关键矿产出口禁令的暂停期 - 美国之音
 
-瑞士因参与转移乌克兰儿童而对朝鲜营地实施制裁 美国之音 - 美国之音
+中国延长对美国关键矿产出口禁令的暂停期 - 美国之音
 
 - **来源**：VOA
-- **原文标题**：Switzerland Sanctions North Korean Camp Over Role in Transfer of Ukrainian Children - VOA
-- **发布时间**：2026-11-26 00:04
-- **原文链接**：<https://news.google.com/rss/articles/CBMivwFBVV95cUxOVWJJQ2YyZlNST0hUVkJkVnRMZXE2RjNLNTZCc191aENIMkZpemQ4YU91Y01NNG1BOWFKQUV3Yl96WHVLbG1xU091cUlqczZqbHNvOFNJUGd5cVJsWl8xQm9qaVBsZWdLXzdVMWFRbS1GcE9xTXJHZ2lfSTM3aUdDc01BeHg4Y2hRbE52X2ozcDJVQ0tWUmsxdVJkUkRDR3lRQmFmaWdDRFI5dzJGV1NvbkNxYmdPLTFIM3FTVmFENNIBwgFBVV95cUxQeTNLZ0lBVWlnT0JOU0lrYUFBWGxzRjdkRDc3SjVseHRZbHhFNG1KdThlTXZZdDVzQzRIalVYajQ3VjNkS01hZWE5Ukh4Y3VFS2tNTWx1MC1uTGJYTkRhZXdlbWtrZEh6MWJEQzl6WjlRSUlkajRWcUdEUl9iWElJX293V2ZiN1BzUlJ4RHNGTFJvOG9YSlVzdkpyZzRTTzNaVm9NVDRPek9QcjRZdnFWemVibWhuTS1UVW9KWlBsUmFnQQ?oc=5>
+- **原文标题**：China extends suspension period for its ban on export of critical minerals to US - VOA
+- **发布时间**：2026-11-27 03:54
+- **原文链接**：<https://news.google.com/rss/articles/CBMixwFBVV95cUxOcHdQcW5kWW5acVB5V3dlOWZHTXZ3d19kb3Zjd0VnRGJZemVPZFJsUWs3TXBFV3VUZzZSVlR3Y1R2TXBvMmVhSm9NdGpIS0Z2RUxmVV9pUFJTOUlrbGttSzJpOUs1LUZ2RHFaNWhTdWZBSkNiY3YtUFIzLXNudjBnYTc4YW5vQVN6MHp6QXVMSUtwUDhWQXd2Vk4weUtjWnpfSXpJMEJaXzNuVEJKVlZFdTM3ajBudzNXRFNzejdXdWczODAwMTZN0gHKAUFVX3lxTFBlRUFKQi1ldTZNSGZRMkpadnkyUGpYSVo5X05wSVd3NWRVMjJZSE1pWHV2YzJWYjBSakZQcy1GVWszN2dzMHh0ZGF2UEVlV3VNdm9yWTd0UlVic0RSeEg2SU9XdUYtMV9PV1VmekYxalFzallhLU91M09HTmZVWm1jOVRPRHl2U1dWSVFoSzcxd0lkNmM3NTlQOElTZlhQR3JzdWc2VHFpMnkyRWE2QUVsR045QjBmb1lKOGN1OFI3MmpxNVA0c0pxQUE?oc=5>
+
+### 7. 26 - 美国之音
+
+26 VOA - 美国之音英语新闻
+
+- **来源**：VOA
+- **原文标题**：26 - VOA
+- **发布时间**：2026-11-26 20:01
+- **原文链接**：<https://news.google.com/rss/articles/CBMiYkFVX3lxTE5tdUswU281TnNPYjVPazl0X3NFUktpQUhUYmlEVUR0Sk5aNVlabGRuZ3NSdVIwNzdnMVZtX09kZzI4UkZ6WkFYY1J1cmtZR3dYZHYzS21XdVJqS0hkZi1jZTlB?oc=5>
+
+### 8. - 美国之音
+
+VOA - 美国之音英语新闻
+
+- **来源**：VOA
+- **原文标题**：- VOA
+- **发布时间**：2026-11-26 13:11
+- **原文链接**：<https://news.google.com/rss/articles/CBMiU0FVX3lxTE1vUDk4ZkVDaXZxdXJ5bTUxbVZKczZaRENwSkk1R3JwZ2ZHZjNPSXVHQTNSQWNDc1FDcDlSR05YOU5BWDFSc3dHUjV3bHg5MllwbGcw?oc=5>
 
 ## 二、AI 研究动态（OpenAI Research 等）
 
 *OpenAI Research、Google DeepMind、Anthropic、arXiv cs.AI 的最新研究与发布。*
 
-### 1. MADRA：风险意识具体规划的多主体辩论
+### 1. 展望代理机器人：机器人系统的新时代
 
-arXiv:2511.21460v2 公告类型：替换摘要：大型语言模型（LLM）表现出令人印象深刻的推理能力，但经常遭受“具体语义幻觉”的困扰 - 生成语义上的计划
-
-- **来源**：arXiv cs.AI
-- **原文标题**：MADRA: Multi-Agent Debate for Risk-Aware Embodied Planning
-- **发布时间**：2026-11-26 13:00
-- **原文链接**：<https://arxiv.org/abs/2511.21460>
-
-### 2. M2A：在大型语言模型中协同数学和代理推理
-
-arXiv:2605.09879v2 公告类型：替换 摘要：虽然推理已成为大型语言模型（LLM）的核心能力，但不同场景所需的推理模式往往不一致。数学家
+arXiv:2611.18359v2 公告类型：replace-cross 摘要：GPT-6 Astra 的发布标志着机器人技术新范式的出现：代理机器人技术。几周之内，带有代理安全带的前沿模型就匹配或消失了
 
 - **来源**：arXiv cs.AI
-- **原文标题**：M2A: Synergizing Mathematical and Agentic Reasoning in Large Language Models
-- **发布时间**：2026-11-26 13:00
-- **原文链接**：<https://arxiv.org/abs/2605.09879>
+- **原文标题**：Envisioning Agentic Robotics: A New Era of Robotic Systems
+- **发布时间**：2026-11-27 13:00
+- **原文链接**：<https://arxiv.org/abs/2611.18359>
+
+### 2. EVA：用于抗幻觉多模态推理的寻证视觉代理
+
+arXiv:2611.33706v1 公告类型：新 摘要：多模态大语言模型 (MLLM) 中的幻觉通常源于未经检查的视觉假设。自我反思、多主体辩论和反事实
+
+- **来源**：arXiv cs.AI
+- **原文标题**：EVA: Evidence-seeking Visual Agent for Hallucination-Resistant Multimodal Reasoning
+- **发布时间**：2026-11-27 13:00
+- **原文链接**：<https://arxiv.org/abs/2611.33706>
 
 ### 3. 控制室：一个中央系统，用于跟踪和停止我们研究基础设施中的模型工作负载
 
@@ -122,25 +118,23 @@ arXiv:2605.09879v2 公告类型：替换 摘要：虽然推理已成为大型语
 - **发布时间**：2026-11-09 21:00
 - **原文链接**：<https://openai.com/index/control-room>
 
-### 4. GPT-6 模型展示了内在的蛋白质设计能力
+### 4. 管理前沿人工智能风险：从培训到部署
 
-GPT-6 模型使用推理和代码设计蛋白质结构和序列。实验室测试发现了五个目标之间结合的证据。
+OpenAI 解释了它如何通过模型对齐、沙盒、阻止防护措施和监控来管理从培训到部署的前沿人工智能风险。
 
 - **来源**：OpenAI Research
-- **原文标题**：GPT-6 models demonstrate intrinsic protein-design capabilities
-- **发布时间**：2026-11-24 21:00
-- **原文链接**：<https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities>
+- **原文标题**：Managing frontier AI risk: From training to deployment
+- **发布时间**：2026-11-18 14:00
+- **原文链接**：<https://openai.com/index/managing-frontier-ai-risk>
 
-### 5. Gemini Robotics 2.5 加速现实世界的通用灵活性
+### 5. 回到可解释性的神经元基础，第 2 部分：将神经元用于安全应用
 
-我们最强大的视觉-语言-动作模型增强了机器人的灵活性、可靠性和安全性
+回到可解释性的神经元基础，第 2 部分：使用神经元进行安全应用 人类对齐科学博客
 
-![Google DeepMind](https://lh3.googleusercontent.com/F1CrVEYRb8lJOyyxGgcyow-Td1de-nkp7K8MZrhjrKPANJUc0EYB754Ninn-Yrppjdb54nolOWo6Rk8iDaRNuixWwLaEKc0K9ImGooxen9fj9IOh=w528-h297-n-nu-rw-lo)
-
-- **来源**：Google DeepMind
-- **原文标题**：Gemini Robotics 2.5 accelerates real-world general dexterity
-- **发布时间**：2026-11-10 03:51
-- **原文链接**：<https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence/>
+- **来源**：Anthropic
+- **原文标题**：Returning to the Neuron Basis for Interpretability, Part 2: Using Neurons For Safety Applications
+- **发布时间**：2026-11-24 02:14
+- **原文链接**：<https://news.google.com/rss/articles/CBMicEFVX3lxTE80SEl5Nm1XTnFSUk1iaEtQYkNkT3F5Ump1TkR1Y1lRQ1c5TllybllYUVhzQ2hOR3cxbzBSWUgwbC1BOFE1VjZiaDc0Rjd0S21NWFR0R3Y4MGg3UW14YzhHc1JrYUhRdm9kOUhnQVNnWDE?oc=5>
 
 ---
 
@@ -148,12 +142,12 @@ GPT-6 模型使用推理和代码设计蛋白质结构和序列。实验室测�
 
 | 来源 | 窗口内条数 |
 | --- | --- |
-| BBC News | 27 |
-| VOA | 8 |
-| NBC | 4 |
-| OpenAI Research | 68 |
-| Google DeepMind | 11 |
-| Anthropic | 19 |
-| arXiv cs.AI | 446 |
+| BBC News | 25 |
+| VOA | 17 |
+| NBC | 0 |
+| OpenAI Research | 63 |
+| Google DeepMind | 2 |
+| Anthropic | 14 |
+| arXiv cs.AI | 397 |
 
 > 由 GitHub Actions 自动生成，请勿手工编辑。

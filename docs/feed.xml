@@ -6,14 +6,71 @@
 <atom:link href="https://raw.githubusercontent.com/EOVANS/INTENT-Daily-CN/main/docs/feed.xml" rel="self" type="application/rss+xml"/>
 <description><![CDATA[每日北京时间 07:35 自动更新，每期一条，内含当天国际要闻（BBC News / VOA / NBC）与 AI 研究动态（OpenAI Research / Google DeepMind / Anthropic / arXiv）的中文摘要。]]></description>
 <language>zh-CN</language>
-<lastBuildDate>Thu, 26 Nov 2026 05:23:12 GMT</lastBuildDate>
+<lastBuildDate>Fri, 27 Nov 2026 05:17:37 GMT</lastBuildDate>
 <generator>INTENT Daily CN</generator>
 <ttl>60</ttl>
 <image>
-<url>https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-11/261124-russia-rs-9ac90c.jpg</url>
+<url>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1ece/live/c83dee70-e9f4-11f1-9c56-b1b6306ef9e3.png</url>
 <title>每日新闻</title>
 <link>https://github.com/EOVANS/INTENT-Daily-CN</link>
 </image>
+<item>
+<title>每日新闻 · 2026-11-27｜13 条要闻</title>
+<link>https://github.com/EOVANS/INTENT-Daily-CN/blob/main/docs/daily/2026-11-27.md</link>
+<guid isPermaLink="false">https://raw.githubusercontent.com/EOVANS/INTENT-Daily-CN/main/docs/feed.xml#2026-11-27</guid>
+<description><![CDATA[<h3 style="margin:22px 0 6px;font-size:15px;color:#1d4ed8">一、国际要闻（BBC / VOA / NBC）</h3>
+<p style="color:#6b7280;font-size:12px;margin:0 0 10px">过去 24 小时全球 Breaking News，按重要性降序。</p>
+<h4 style="margin:16px 0 6px;font-size:16px;line-height:1.5">1. <a href="https://www.bbc.co.uk/news/articles/c39w9y5dx4k5o?at_medium=RSS&amp;at_campaign=rss" style="color:#111827;text-decoration:none">两名意大利人在科威特袭击中丧生，伊朗否认对此负责</a></h4>
+<p style="margin:0 0 8px"><img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1ece/live/c83dee70-e9f4-11f1-9c56-b1b6306ef9e3.png" alt="" style="max-width:100%;border-radius:6px"/></p>
+<p style="line-height:1.75;margin:0 0 6px">据意大利外交部称，这两人是德国莱茵金属公司的技术人员。</p>
+<p style="color:#9ca3af;font-size:12px;margin:0 0 4px">来源：BBC News · Two Italians killed in strike in Kuwait, as Iran denies responsibility</p>
+<h4 style="margin:16px 0 6px;font-size:16px;line-height:1.5">2. <a href="https://www.bbc.co.uk/news/articles/cqvg2n4mzl1jo?at_medium=RSS&amp;at_campaign=rss" style="color:#111827;text-decoration:none">哈马斯政治官员和妻子在以色列袭击加沙的八名巴勒斯坦人中丧生</a></h4>
+<p style="margin:0 0 8px"><img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b703/live/54fa7870-e981-11f1-99a1-253766e7ad8b.jpg" alt="" style="max-width:100%;border-radius:6px"/></p>
+<p style="line-height:1.75;margin:0 0 6px">此次杀戮是以色列几乎每天针对其所谓的哈马斯目标发动的一系列袭击中的最新一起。</p>
+<p style="color:#9ca3af;font-size:12px;margin:0 0 4px">来源：BBC News · Hamas political official and wife among eight Palestinians killed in Israeli strikes on Gaza</p>
+<h4 style="margin:16px 0 6px;font-size:16px;line-height:1.5">3. <a href="https://www.bbc.co.uk/news/articles/c3gre90l0g45o?at_medium=RSS&amp;at_campaign=rss" style="color:#111827;text-decoration:none">埃及当局因油罐车事故逮捕司机，造成31人死亡</a></h4>
+<p style="margin:0 0 8px"><img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e387/live/8aafd3d0-e98f-11f1-9d1c-4dcc8fcde666.jpg" alt="" style="max-width:100%;border-radius:6px"/></p>
+<p style="line-height:1.75;margin:0 0 6px">官员称，该男子承认自己超速行驶并在超车时撞到了加油车。</p>
+<p style="color:#9ca3af;font-size:12px;margin:0 0 4px">来源：BBC News · Egyptian authorities arrest motorist over tanker crash that killed 31</p>
+<h4 style="margin:16px 0 6px;font-size:16px;line-height:1.5">4. <a href="https://www.bbc.co.uk/news/articles/cqwy4377yxnlo?at_medium=RSS&amp;at_campaign=rss" style="color:#111827;text-decoration:none">致命垃圾场倒塌数月后，几内亚命令居民清理首都</a></h4>
+<p style="margin:0 0 8px"><img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/27e3/live/62b728b0-e967-11f1-9656-317cf5039a62.jpg" alt="" style="max-width:100%;border-radius:6px"/></p>
+<p style="line-height:1.75;margin:0 0 6px">自灾难发生以来，首都的主要垃圾场已关闭，导致垃圾堆积在街道上。</p>
+<p style="color:#9ca3af;font-size:12px;margin:0 0 4px">来源：BBC News · Guinea orders residents to clean up the capital months after deadly rubbish dump collapse</p>
+<h4 style="margin:16px 0 6px;font-size:16px;line-height:1.5">5. <a href="https://news.google.com/rss/articles/CBMiUkFVX3lxTE1SeWVMVTJzQTZTWHRHV1BVRVpSWUl1OE9kM3dNUERnWjNWMGthcXY5SjY1QWhORl9sLVItS3FTeXRSbnVKYTBUbk5ZOWFaM3RaTHc?oc=5" style="color:#111827;text-decoration:none">- ËdāỌ âm Ōᩩā</a></h4>
+<p style="line-height:1.75;margin:0 0 6px">ËdāỌ âm Ōᩩā</p>
+<p style="color:#9ca3af;font-size:12px;margin:0 0 4px">来源：VOA · - صدای آمریکا</p>
+<h4 style="margin:16px 0 6px;font-size:16px;line-height:1.5">6. <a href="https://news.google.com/rss/articles/CBMixwFBVV95cUxOcHdQcW5kWW5acVB5V3dlOWZHTXZ3d19kb3Zjd0VnRGJZemVPZFJsUWs3TXBFV3VUZzZSVlR3Y1R2TXBvMmVhSm9NdGpIS0Z2RUxmVV9pUFJTOUlrbGttSzJpOUs1LUZ2RHFaNWhTdWZBSkNiY3YtUFIzLXNudjBnYTc4YW5vQVN6MHp6QXVMSUtwUDhWQXd2Vk4weUtjWnpfSXpJMEJaXzNuVEJKVlZFdTM3ajBudzNXRFNzejdXdWczODAwMTZN0gHKAUFVX3lxTFBlRUFKQi1ldTZNSGZRMkpadnkyUGpYSVo5X05wSVd3NWRVMjJZSE1pWHV2YzJWYjBSakZQcy1GVWszN2dzMHh0ZGF2UEVlV3VNdm9yWTd0UlVic0RSeEg2SU9XdUYtMV9PV1VmekYxalFzallhLU91M09HTmZVWm1jOVRPRHl2U1dWSVFoSzcxd0lkNmM3NTlQOElTZlhQR3JzdWc2VHFpMnkyRWE2QUVsR045QjBmb1lKOGN1OFI3MmpxNVA0c0pxQUE?oc=5" style="color:#111827;text-decoration:none">中国延长对美关键矿产出口禁令的暂停期 - 美国之音</a></h4>
+<p style="line-height:1.75;margin:0 0 6px">中国延长对美国关键矿产出口禁令的暂停期 - 美国之音</p>
+<p style="color:#9ca3af;font-size:12px;margin:0 0 4px">来源：VOA · China extends suspension period for its ban on export of critical minerals to US - VOA</p>
+<h4 style="margin:16px 0 6px;font-size:16px;line-height:1.5">7. <a href="https://news.google.com/rss/articles/CBMiYkFVX3lxTE5tdUswU281TnNPYjVPazl0X3NFUktpQUhUYmlEVUR0Sk5aNVlabGRuZ3NSdVIwNzdnMVZtX09kZzI4UkZ6WkFYY1J1cmtZR3dYZHYzS21XdVJqS0hkZi1jZTlB?oc=5" style="color:#111827;text-decoration:none">26 - 美国之音</a></h4>
+<p style="line-height:1.75;margin:0 0 6px">26 VOA - 美国之音英语新闻</p>
+<p style="color:#9ca3af;font-size:12px;margin:0 0 4px">来源：VOA · 26 - VOA</p>
+<h4 style="margin:16px 0 6px;font-size:16px;line-height:1.5">8. <a href="https://news.google.com/rss/articles/CBMiU0FVX3lxTE1vUDk4ZkVDaXZxdXJ5bTUxbVZKczZaRENwSkk1R3JwZ2ZHZjNPSXVHQTNSQWNDc1FDcDlSR05YOU5BWDFSc3dHUjV3bHg5MllwbGcw?oc=5" style="color:#111827;text-decoration:none">- 美国之音</a></h4>
+<p style="line-height:1.75;margin:0 0 6px">VOA - 美国之音英语新闻</p>
+<p style="color:#9ca3af;font-size:12px;margin:0 0 4px">来源：VOA · - VOA</p>
+<h3 style="margin:22px 0 6px;font-size:15px;color:#1d4ed8">二、AI 研究动态（OpenAI Research 等）</h3>
+<p style="color:#6b7280;font-size:12px;margin:0 0 10px">OpenAI Research、Google DeepMind、Anthropic、arXiv cs.AI 的最新研究与发布。</p>
+<h4 style="margin:16px 0 6px;font-size:16px;line-height:1.5">1. <a href="https://arxiv.org/abs/2611.18359" style="color:#111827;text-decoration:none">展望代理机器人：机器人系统的新时代</a></h4>
+<p style="line-height:1.75;margin:0 0 6px">arXiv:2611.18359v2 公告类型：replace-cross 摘要：GPT-6 Astra 的发布标志着机器人技术新范式的出现：代理机器人技术。几周之内，带有代理安全带的前沿模型就匹配或消失了</p>
+<p style="color:#9ca3af;font-size:12px;margin:0 0 4px">来源：arXiv cs.AI · Envisioning Agentic Robotics: A New Era of Robotic Systems</p>
+<h4 style="margin:16px 0 6px;font-size:16px;line-height:1.5">2. <a href="https://arxiv.org/abs/2611.33706" style="color:#111827;text-decoration:none">EVA：用于抗幻觉多模态推理的寻证视觉代理</a></h4>
+<p style="line-height:1.75;margin:0 0 6px">arXiv:2611.33706v1 公告类型：新 摘要：多模态大语言模型 (MLLM) 中的幻觉通常源于未经检查的视觉假设。自我反思、多主体辩论和反事实</p>
+<p style="color:#9ca3af;font-size:12px;margin:0 0 4px">来源：arXiv cs.AI · EVA: Evidence-seeking Visual Agent for Hallucination-Resistant Multimodal Reasoning</p>
+<h4 style="margin:16px 0 6px;font-size:16px;line-height:1.5">3. <a href="https://openai.com/index/control-room" style="color:#111827;text-decoration:none">控制室：一个中央系统，用于跟踪和停止我们研究基础设施中的模型工作负载</a></h4>
+<p style="line-height:1.75;margin:0 0 6px">了解 OpenAI 的控制室如何跟踪我们研究基础设施中的模型工作负载，并在出现安全问题时快速阻止它们。</p>
+<p style="color:#9ca3af;font-size:12px;margin:0 0 4px">来源：OpenAI Research · Control Room: A central system to track and stop model workloads across our research infrastructure</p>
+<h4 style="margin:16px 0 6px;font-size:16px;line-height:1.5">4. <a href="https://openai.com/index/managing-frontier-ai-risk" style="color:#111827;text-decoration:none">管理前沿人工智能风险：从培训到部署</a></h4>
+<p style="line-height:1.75;margin:0 0 6px">OpenAI 解释了它如何通过模型对齐、沙盒、阻止防护措施和监控来管理从培训到部署的前沿人工智能风险。</p>
+<p style="color:#9ca3af;font-size:12px;margin:0 0 4px">来源：OpenAI Research · Managing frontier AI risk: From training to deployment</p>
+<h4 style="margin:16px 0 6px;font-size:16px;line-height:1.5">5. <a href="https://news.google.com/rss/articles/CBMicEFVX3lxTE80SEl5Nm1XTnFSUk1iaEtQYkNkT3F5Ump1TkR1Y1lRQ1c5TllybllYUVhzQ2hOR3cxbzBSWUgwbC1BOFE1VjZiaDc0Rjd0S21NWFR0R3Y4MGg3UW14YzhHc1JrYUhRdm9kOUhnQVNnWDE?oc=5" style="color:#111827;text-decoration:none">回到可解释性的神经元基础，第 2 部分：将神经元用于安全应用</a></h4>
+<p style="line-height:1.75;margin:0 0 6px">回到可解释性的神经元基础，第 2 部分：使用神经元进行安全应用 人类对齐科学博客</p>
+<p style="color:#9ca3af;font-size:12px;margin:0 0 4px">来源：Anthropic · Returning to the Neuron Basis for Interpretability, Part 2: Using Neurons For Safety Applications</p>]]></description>
+<pubDate>Fri, 27 Nov 2026 05:17:37 GMT</pubDate>
+<dc:source>BBC News / VOA / NBC</dc:source>
+<category>每日新闻</category>
+<media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1ece/live/c83dee70-e9f4-11f1-9c56-b1b6306ef9e3.png" medium="image"/>
+<media:thumbnail url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1ece/live/c83dee70-e9f4-11f1-9c56-b1b6306ef9e3.png"/>
+</item>
 <item>
 <title>每日新闻 · 2026-11-26｜13 条要闻</title>
 <link>https://github.com/EOVANS/INTENT-Daily-CN/blob/main/docs/daily/2026-11-26.md</link>
@@ -358,68 +415,6 @@
 <category>每日新闻</category>
 <media:content url="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-11/261120-ukraine-mb-0959-5b970a.jpg" medium="image"/>
 <media:thumbnail url="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-11/261120-ukraine-mb-0959-5b970a.jpg"/>
-</item>
-<item>
-<title>每日新闻 · 2026-11-20｜13 条要闻</title>
-<link>https://github.com/EOVANS/INTENT-Daily-CN/blob/main/docs/daily/2026-11-20.md</link>
-<guid isPermaLink="false">https://raw.githubusercontent.com/EOVANS/INTENT-Daily-CN/main/docs/feed.xml#2026-11-20</guid>
-<description><![CDATA[<h3 style="margin:22px 0 6px;font-size:15px;color:#1d4ed8">一、国际要闻（BBC / VOA / NBC）</h3>
-<p style="color:#6b7280;font-size:12px;margin:0 0 10px">过去 24 小时全球 Breaking News，按重要性降序。</p>
-<h4 style="margin:16px 0 6px;font-size:16px;line-height:1.5">1. <a href="https://www.nbcnews.com/world/asia/trump-pushes-three-way-nuclear-deal-russia-china-show-little-interest-rcna610145" style="color:#111827;text-decoration:none">俄罗斯和中国兴趣不大，特朗普推动三方核协议</a></h4>
-<p style="margin:0 0 8px"><img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-11/261118-trump-putin0xi-mb-1145-4e0e2f.jpg" alt="" style="max-width:100%;border-radius:6px"/></p>
-<p style="line-height:1.75;margin:0 0 6px">唐纳德·特朗普总统在周四与中国国家主席习近平和俄罗斯总统弗拉基米尔·普京举行的史无前例的三边会议上多次将防扩散问题列为首要议程，但他的目标是</p>
-<p style="color:#9ca3af;font-size:12px;margin:0 0 4px">来源：NBC · Trump pushes for three-way nuclear deal as Russia and China show little interest</p>
-<h4 style="margin:16px 0 6px;font-size:16px;line-height:1.5">2. <a href="https://www.bbc.co.uk/news/articles/cm879dqn3e1jo?at_medium=RSS&amp;at_campaign=rss" style="color:#111827;text-decoration:none">普京誓言将对乌克兰袭击克里米亚大桥做出“更加痛苦”的反应</a></h4>
-<p style="margin:0 0 8px"><img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4dc7/live/1a9ba6c0-e424-11f1-b782-6bf340d7e154.jpg" alt="" style="max-width:100%;border-radius:6px"/></p>
-<p style="line-height:1.75;margin:0 0 6px">这座桥是俄罗斯占领克里米亚半岛的象征，在本周早些时候乌克兰的联合袭击中遭到严重损坏。</p>
-<p style="color:#9ca3af;font-size:12px;margin:0 0 4px">来源：BBC News · Putin vows &#x27;far more painful&#x27; response to Ukraine&#x27;s strikes on Crimean Bridge</p>
-<h4 style="margin:16px 0 6px;font-size:16px;line-height:1.5">3. <a href="https://www.bbc.co.uk/news/articles/ckzd9nln5e6go?at_medium=RSS&amp;at_campaign=rss" style="color:#111827;text-decoration:none">领导人称欧洲已准备好与俄罗斯就结束乌克兰战争进行谈判</a></h4>
-<p style="margin:0 0 8px"><img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1fd8/live/5c168a90-e44a-11f1-a094-5fdc692f3e33.jpg" alt="" style="max-width:100%;border-radius:6px"/></p>
-<p style="line-height:1.75;margin:0 0 6px">乌克兰的欧洲盟友表示，他们在柏林峰会上拥有“统一”的谈判立场。</p>
-<p style="color:#9ca3af;font-size:12px;margin:0 0 4px">来源：BBC News · Europe ready for talks with Russia on ending war in Ukraine, leaders say</p>
-<h4 style="margin:16px 0 6px;font-size:16px;line-height:1.5">4. <a href="https://www.bbc.co.uk/news/articles/c623j4ln97x7o?at_medium=RSS&amp;at_campaign=rss" style="color:#111827;text-decoration:none">特朗普、普京和习近平在历史性会晤后发表“和平宣言”</a></h4>
-<p style="margin:0 0 8px"><img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/56c4/live/c36d8970-e448-11f1-a094-5fdc692f3e33.jpg" alt="" style="max-width:100%;border-radius:6px"/></p>
-<p style="line-height:1.75;margin:0 0 6px">虽然两国总统此前曾进行过一对一会议，但这是他们的首次三边讨论。</p>
-<p style="color:#9ca3af;font-size:12px;margin:0 0 4px">来源：BBC News · Trump, Putin and Xi release &#x27;peace declaration&#x27; after historic meeting</p>
-<h4 style="margin:16px 0 6px;font-size:16px;line-height:1.5">5. <a href="https://www.bbc.co.uk/news/videos/c63rgnq05pdwo?at_medium=RSS&amp;at_campaign=rss" style="color:#111827;text-decoration:none">BBC 记者讨论特朗普、习近平和普京从历史性会谈中获得的成果</a></h4>
-<p style="margin:0 0 8px"><img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f353/live/34533260-e445-11f1-99b6-a35a62fa4264.jpg" alt="" style="max-width:100%;border-radius:6px"/></p>
-<p style="line-height:1.75;margin:0 0 6px">特朗普、普京和习近平在历史性的三边会谈后发表了“联合和平宣言”，但他们从会晤中得到了什么？</p>
-<p style="color:#9ca3af;font-size:12px;margin:0 0 4px">来源：BBC News · BBC correspondents discuss what Trump, Xi and Putin got out of historic talks</p>
-<h4 style="margin:16px 0 6px;font-size:16px;line-height:1.5">6. <a href="https://www.nbcnews.com/nightly-news/video/trump-s-historic-summit-with-xi-putin-273862213792" style="color:#111827;text-decoration:none">特朗普与习近平、普京的历史性峰会</a></h4>
-<p style="margin:0 0 8px"><img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_11/1795131957996_nn_tll_trump_xi_putin_summit_261119_S3_1920x1080-56lsdr.jpg" alt="" style="max-width:100%;border-radius:6px"/></p>
-<p style="line-height:1.75;margin:0 0 6px">特朗普总统与中国和俄罗斯领导人举行了历史性的三边峰会。 NBC 晚间新闻主播汤姆·拉马斯报道。</p>
-<p style="color:#9ca3af;font-size:12px;margin:0 0 4px">来源：NBC · Trump’s historic summit with Xi, Putin</p>
-<h4 style="margin:16px 0 6px;font-size:16px;line-height:1.5">7. <a href="https://www.nbcnews.com/video/-historic-embarrassment-schumer-criticizes-trump-s-meeting-with-xi-and-putin-273834053504" style="color:#111827;text-decoration:none">“历史性的尴尬”：舒默批评特朗普与习近平和普京的会面</a></h4>
-<p style="margin:0 0 8px"><img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_11/Schumer_Thumb_Site-fcs80t.jpg" alt="" style="max-width:100%;border-radius:6px"/></p>
-<p style="line-height:1.75;margin:0 0 6px">纽约州民主党参议员查克·舒默称特朗普总统与习近平和普京的三边会晤是“历史性的尴尬”，批评总统对中国和俄罗斯表现出友好的态度</p>
-<p style="color:#9ca3af;font-size:12px;margin:0 0 4px">来源：NBC · &#x27;Historic embarrassment&#x27;: Schumer criticizes Trump’s meeting with Xi and Putin</p>
-<h4 style="margin:16px 0 6px;font-size:16px;line-height:1.5">8. <a href="https://www.nbcnews.com/world/middle-east/gaza-ceasefire-tested-israel-tanks-cross-yellow-line-ground-raid-rcna610169" style="color:#111827;text-decoration:none">以色列坦克越过加沙停火“黄线”，巴勒斯坦人逃离</a></h4>
-<p style="margin:0 0 8px"><img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-11/261119-evacuate-gaza-2-rs-0182e2.jpg" alt="" style="max-width:100%;border-radius:6px"/></p>
-<p style="line-height:1.75;margin:0 0 6px">以色列越过加沙黄色停火线的地面行动迫使巴勒斯坦人逃离临时避难所，这标志着冲突再次升级，并有可能破坏本已岌岌可危的停火协议</p>
-<p style="color:#9ca3af;font-size:12px;margin:0 0 4px">来源：NBC · Palestinians flee as Israeli tanks cross Gaza ceasefire’s ‘yellow line’</p>
-<h3 style="margin:22px 0 6px;font-size:15px;color:#1d4ed8">二、AI 研究动态（OpenAI Research 等）</h3>
-<p style="color:#6b7280;font-size:12px;margin:0 0 10px">OpenAI Research、Google DeepMind、Anthropic、arXiv cs.AI 的最新研究与发布。</p>
-<h4 style="margin:16px 0 6px;font-size:16px;line-height:1.5">1. <a href="https://arxiv.org/abs/2608.08077" style="color:#111827;text-decoration:none">探索、绘制、记住、决策：安全关键场景中 VLM 准备情况的基准</a></h4>
-<p style="line-height:1.75;margin:0 0 6px">arXiv:2608.08077v2 公告类型：替换 摘要：视觉语言模型 (VLM) 通常被部署为机器人技术的具体控制器，但目前尚不清楚它们能够如何很好地探索环境、维护内部信息</p>
-<p style="color:#9ca3af;font-size:12px;margin:0 0 4px">来源：arXiv cs.AI · Explore, Map, Remember, Decide: A Benchmark for VLM Readiness in Safety-Critical Scenarios</p>
-<h4 style="margin:16px 0 6px;font-size:16px;line-height:1.5">2. <a href="https://arxiv.org/abs/2609.33319" style="color:#111827;text-decoration:none">PhysAlign：多模态物理推理中循证角色调整的基准</a></h4>
-<p style="line-height:1.75;margin:0 0 6px">arXiv:2609.33319v2 公告类型：替换 摘要：物理图理解的一个关键挑战是将视觉信息与其描述的物理实体、关系和条件正确关联起来。即使什么</p>
-<p style="color:#9ca3af;font-size:12px;margin:0 0 4px">来源：arXiv cs.AI · PhysAlign: A Benchmark for Evidence-Grounded Role Alignment in Multimodal Physics Reasoning</p>
-<h4 style="margin:16px 0 6px;font-size:16px;line-height:1.5">3. <a href="https://openai.com/index/managing-frontier-ai-risk" style="color:#111827;text-decoration:none">管理前沿人工智能风险：从培训到部署</a></h4>
-<p style="line-height:1.75;margin:0 0 6px">OpenAI 解释了它如何通过模型对齐、沙盒、阻止防护措施和监控来管理从培训到部署的前沿人工智能风险。</p>
-<p style="color:#9ca3af;font-size:12px;margin:0 0 4px">来源：OpenAI Research · Managing frontier AI risk: From training to deployment</p>
-<h4 style="margin:16px 0 6px;font-size:16px;line-height:1.5">4. <a href="https://openai.com/index/control-room" style="color:#111827;text-decoration:none">控制室：一个中央系统，用于跟踪和停止我们研究基础设施中的模型工作负载</a></h4>
-<p style="line-height:1.75;margin:0 0 6px">了解 OpenAI 的控制室如何跟踪我们研究基础设施中的模型工作负载，并在出现安全问题时快速阻止它们。</p>
-<p style="color:#9ca3af;font-size:12px;margin:0 0 4px">来源：OpenAI Research · Control Room: A central system to track and stop model workloads across our research infrastructure</p>
-<h4 style="margin:16px 0 6px;font-size:16px;line-height:1.5">5. <a href="https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence/" style="color:#111827;text-decoration:none">Gemini Robotics 2.5 加速现实世界的通用灵活性</a></h4>
-<p style="margin:0 0 8px"><img src="https://lh3.googleusercontent.com/F1CrVEYRb8lJOyyxGgcyow-Td1de-nkp7K8MZrhjrKPANJUc0EYB754Ninn-Yrppjdb54nolOWo6Rk8iDaRNuixWwLaEKc0K9ImGooxen9fj9IOh=w528-h297-n-nu-rw-lo" alt="" style="max-width:100%;border-radius:6px"/></p>
-<p style="line-height:1.75;margin:0 0 6px">我们最强大的视觉-语言-动作模型增强了机器人的灵活性、可靠性和安全性</p>
-<p style="color:#9ca3af;font-size:12px;margin:0 0 4px">来源：Google DeepMind · Gemini Robotics 2.5 accelerates real-world general dexterity</p>]]></description>
-<pubDate>Fri, 20 Nov 2026 00:46:08 GMT</pubDate>
-<dc:source>BBC News / VOA / NBC</dc:source>
-<category>每日新闻</category>
-<media:content url="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-11/261118-trump-putin0xi-mb-1145-4e0e2f.jpg" medium="image"/>
-<media:thumbnail url="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-11/261118-trump-putin0xi-mb-1145-4e0e2f.jpg"/>
 </item>
 </channel>
 </rss>
