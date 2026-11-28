@@ -6,14 +6,73 @@
 <atom:link href="https://raw.githubusercontent.com/EOVANS/INTENT-Daily-CN/main/docs/feed.xml" rel="self" type="application/rss+xml"/>
 <description><![CDATA[每日北京时间 07:35 自动更新，每期一条，内含当天国际要闻（BBC News / VOA / NBC）与 AI 研究动态（OpenAI Research / Google DeepMind / Anthropic / arXiv）的中文摘要。]]></description>
 <language>zh-CN</language>
-<lastBuildDate>Fri, 27 Nov 2026 05:17:37 GMT</lastBuildDate>
+<lastBuildDate>Sat, 28 Nov 2026 04:55:02 GMT</lastBuildDate>
 <generator>INTENT Daily CN</generator>
 <ttl>60</ttl>
 <image>
-<url>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1ece/live/c83dee70-e9f4-11f1-9c56-b1b6306ef9e3.png</url>
+<url>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fdee/live/21e805d0-ea60-11f1-99b6-a35a62fa4264.jpg</url>
 <title>每日新闻</title>
 <link>https://github.com/EOVANS/INTENT-Daily-CN</link>
 </image>
+<item>
+<title>每日新闻 · 2026-11-28｜13 条要闻</title>
+<link>https://github.com/EOVANS/INTENT-Daily-CN/blob/main/docs/daily/2026-11-28.md</link>
+<guid isPermaLink="false">https://raw.githubusercontent.com/EOVANS/INTENT-Daily-CN/main/docs/feed.xml#2026-11-28</guid>
+<description><![CDATA[<h3 style="margin:22px 0 6px;font-size:15px;color:#1d4ed8">一、国际要闻（BBC / VOA / NBC）</h3>
+<p style="color:#6b7280;font-size:12px;margin:0 0 10px">过去 24 小时全球 Breaking News，按重要性降序。</p>
+<h4 style="margin:16px 0 6px;font-size:16px;line-height:1.5">1. <a href="https://www.bbc.co.uk/news/articles/c820q9wgrpyyo?at_medium=RSS&amp;at_campaign=rss" style="color:#111827;text-decoration:none">泽伦斯基在 BBC 采访中批评特朗普与普京的友谊“奇怪”</a></h4>
+<p style="margin:0 0 8px"><img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fdee/live/21e805d0-ea60-11f1-99b6-a35a62fa4264.jpg" alt="" style="max-width:100%;border-radius:6px"/></p>
+<p style="line-height:1.75;margin:0 0 6px">乌克兰总统表达了对美国的失望，并表示美国没有在和平谈判中向俄罗斯施加足够的压力来结束战争。</p>
+<p style="color:#9ca3af;font-size:12px;margin:0 0 4px">来源：BBC News · Zelensky criticises &#x27;strange&#x27; Trump-Putin friendship in BBC interview</p>
+<h4 style="margin:16px 0 6px;font-size:16px;line-height:1.5">2. <a href="https://www.bbc.co.uk/news/articles/cwp9d85mlp88o?at_medium=RSS&amp;at_campaign=rss" style="color:#111827;text-decoration:none">秘鲁军用直升机坠毁 八人丧生</a></h4>
+<p style="margin:0 0 8px"><img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/faea/live/b54be270-eadc-11f1-81da-2ff518b71d00.jpg" alt="" style="max-width:100%;border-radius:6px"/></p>
+<p style="line-height:1.75;margin:0 0 6px">飞行员是在以贩毒闻名的偏远地区执行救援任务时坠机的唯一幸存者。</p>
+<p style="color:#9ca3af;font-size:12px;margin:0 0 4px">来源：BBC News · Eight killed in Peruvian military helicopter crash</p>
+<h4 style="margin:16px 0 6px;font-size:16px;line-height:1.5">3. <a href="https://www.bbc.co.uk/news/videos/cm9w9y8947xqo?at_medium=RSS&amp;at_campaign=rss" style="color:#111827;text-decoration:none">“这是不可能的”：西班牙年轻人在周日大选前讨论住房问题</a></h4>
+<p style="margin:0 0 8px"><img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4834/live/cb627900-ea8e-11f1-99b6-a35a62fa4264.png" alt="" style="max-width:100%;border-radius:6px"/></p>
+<p style="line-height:1.75;margin:0 0 6px">欧洲记者尼克·比克采访了瓦伦西亚一对因高房租而分居的夫妇。</p>
+<p style="color:#9ca3af;font-size:12px;margin:0 0 4px">来源：BBC News · &#x27;It&#x27;s impossible&#x27;: Spain&#x27;s young people on housing ahead of Sunday&#x27;s election</p>
+<h4 style="margin:16px 0 6px;font-size:16px;line-height:1.5">4. <a href="https://www.bbc.co.uk/news/articles/c3pw4yrr8kz9o?at_medium=RSS&amp;at_campaign=rss" style="color:#111827;text-decoration:none">基辅厌倦了战争，但没有退缩的迹象，面临着另一个严酷的冬天</a></h4>
+<p style="margin:0 0 8px"><img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9fca/live/2dd32240-e9b5-11f1-99b6-a35a62fa4264.jpg" alt="" style="max-width:100%;border-radius:6px"/></p>
+<p style="line-height:1.75;margin:0 0 6px">乌克兰即将迎来另一个毁灭性的冬天，但问题依然存在：这一切将如何结束？</p>
+<p style="color:#9ca3af;font-size:12px;margin:0 0 4px">来源：BBC News · Weary of war but with no sign of backing down, Kyiv faces another punishing winter</p>
+<h4 style="margin:16px 0 6px;font-size:16px;line-height:1.5">5. <a href="https://news.google.com/rss/articles/CBMi2gFBVV95cUxNbnJGYVdkZ1daWWFSTlF0UVE4TXJ6NmpncE5FN1A2VU53Y1g5c2w0R3V6RTc3VmNrSDk3b3NHbjZUdnBBZFJPbnBZZG1pMVRZZG84dEdwSmlNNUhyZVZUbFNwU2NVaEx5ckhPY2J6WkVsVlR6X2U0WUxoNGo5WUNPT0tZdW8yMEdQRkcwQlgzRTZNQ1NNT1JFNTBhaW0wbzNVVkdtWERNM1h4M2NoS1FZNVYxQ3cxYnBmSmRFSUJUMTNtNEZCTnVfbW1QQVFBZHlQdGxWOVF2UTAwZ9IB2gFBVV95cUxNbnJGYVdkZ1daWWFSTlF0UVE4TXJ6NmpncE5FN1A2VU53Y1g5c2w0R3V6RTc3VmNrSDk3b3NHbjZUdnBBZFJPbnBZZG1pMVRZZG84dEdwSmlNNUhyZVZUbFNwU2NVaEx5ckhPY2J6WkVsVlR6X2U0WUxoNGo5WUNPT0tZdW8yMEdQRkcwQlgzRTZNQ1NNT1JFNTBhaW0wbzNVVkdtWERNM1h4M2NoS1FZNVYxQ3cxYnBmSmRFSUJUMTNtNEZCTnVfbW1QQVFBZHlQdGxWOVF2UTAwZw?oc=5" style="color:#111827;text-decoration:none">解释者：北京为何关注台湾地方选举，以及它们对 2028 年意味着什么 - 美国之音</a></h4>
+<p style="line-height:1.75;margin:0 0 6px">解释者：北京为何关注台湾地方选举，以及它们对 2028 年可能意味着什么 美国之音 - 美国之音</p>
+<p style="color:#9ca3af;font-size:12px;margin:0 0 4px">来源：VOA · Explainer: Why Beijing is watching Taiwan’s local elections, and what they could mean for 2028 - VOA</p>
+<h4 style="margin:16px 0 6px;font-size:16px;line-height:1.5">6. <a href="https://www.nbcnews.com/world/united-kingdom/princess-kate-wants-people-learn-cancer-journey-vulnerable-new-documen-rcna611259" style="color:#111827;text-decoration:none">凯特王妃希望人们在脆弱的新纪录片中从她的癌症之旅中学习</a></h4>
+<p style="margin:0 0 8px"><img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-11/261125-princess-kate-rs-fd8a5d.jpg" alt="" style="max-width:100%;border-radius:6px"/></p>
+<p style="line-height:1.75;margin:0 0 6px">伦敦——威尔士王妃凯瑟琳在一部非常私人的纪录片中讲述了癌症治疗如何让她感到恐惧和改变，她说她希望这能帮助其他人正视这种疾病。</p>
+<p style="color:#9ca3af;font-size:12px;margin:0 0 4px">来源：NBC · Princess Kate wants people to learn from her cancer journey in vulnerable new documentary</p>
+<h4 style="margin:16px 0 6px;font-size:16px;line-height:1.5">7. <a href="https://news.google.com/rss/articles/CBMiUkFVX3lxTFA3d01BdXA3bEJCRlk5QXFQRkwxSEh0TXZIdFJFWDd2LXpHbld1Q29ZOUR3NXF4ZUNLaWZ5WnNfQjRUTXJhcHB2ckVTZG5KbEE3Tmc?oc=5" style="color:#111827;text-decoration:none">- ËdāỌ âm Ōᩩā</a></h4>
+<p style="line-height:1.75;margin:0 0 6px">ËdāỌ âm Ōᩩā</p>
+<p style="color:#9ca3af;font-size:12px;margin:0 0 4px">来源：VOA · - صدای آمریکا</p>
+<h4 style="margin:16px 0 6px;font-size:16px;line-height:1.5">8. <a href="https://news.google.com/rss/articles/CBMiT0FVX3lxTFBoMnlZMUpMbEItX0JuRmdhOUVadGp5aEdFczhvVERsNUtaSmpLb0xLbmU1VENINTdGSVhSV3VCUlFWZ2hVOHdLZTJvb05zTjTSAVJBVV95cUxPV2drWjlaa0FWT2Zjb0tKVTVKUDFrcUZFbFpfWGxzVndpTDVnSnVJLWh6R0t2Z3RwY1IwWE92TnE4MUNKMFNPQUE3Wl96UkN0RGVn?oc=5" style="color:#111827;text-decoration:none">美国支持国际原子能机构在中国反对后就韩国潜艇保障进行谈判 - 美国之音</a></h4>
+<p style="line-height:1.75;margin:0 0 6px">在中国反对美国之音后，美国支持国际原子能机构就韩国潜艇保障措施进行谈判的权力 - 美国之音</p>
+<p style="color:#9ca3af;font-size:12px;margin:0 0 4px">来源：VOA · US backs IAEA authority to negotiate South Korean submarine safeguards after China objects - VOA</p>
+<h3 style="margin:22px 0 6px;font-size:15px;color:#1d4ed8">二、AI 研究动态（OpenAI Research 等）</h3>
+<p style="color:#6b7280;font-size:12px;margin:0 0 10px">OpenAI Research、Google DeepMind、Anthropic、arXiv cs.AI 的最新研究与发布。</p>
+<h4 style="margin:16px 0 6px;font-size:16px;line-height:1.5">1. <a href="https://arxiv.org/abs/2611.18359" style="color:#111827;text-decoration:none">展望代理机器人：机器人系统的新时代</a></h4>
+<p style="line-height:1.75;margin:0 0 6px">arXiv:2611.18359v2 公告类型：replace-cross 摘要：GPT-6 Astra 的发布标志着机器人技术新范式的出现：代理机器人技术。几周之内，带有代理安全带的前沿模型就匹配或消失了</p>
+<p style="color:#9ca3af;font-size:12px;margin:0 0 4px">来源：arXiv cs.AI · Envisioning Agentic Robotics: A New Era of Robotic Systems</p>
+<h4 style="margin:16px 0 6px;font-size:16px;line-height:1.5">2. <a href="https://arxiv.org/abs/2611.33706" style="color:#111827;text-decoration:none">EVA：用于抗幻觉多模态推理的寻证视觉代理</a></h4>
+<p style="line-height:1.75;margin:0 0 6px">arXiv:2611.33706v1 公告类型：新 摘要：多模态大语言模型 (MLLM) 中的幻觉通常源于未经检查的视觉假设。自我反思、多主体辩论和反事实</p>
+<p style="color:#9ca3af;font-size:12px;margin:0 0 4px">来源：arXiv cs.AI · EVA: Evidence-seeking Visual Agent for Hallucination-Resistant Multimodal Reasoning</p>
+<h4 style="margin:16px 0 6px;font-size:16px;line-height:1.5">3. <a href="https://openai.com/index/control-room" style="color:#111827;text-decoration:none">控制室：一个中央系统，用于跟踪和停止我们研究基础设施中的模型工作负载</a></h4>
+<p style="line-height:1.75;margin:0 0 6px">了解 OpenAI 的控制室如何跟踪我们研究基础设施中的模型工作负载，并在出现安全问题时快速阻止它们。</p>
+<p style="color:#9ca3af;font-size:12px;margin:0 0 4px">来源：OpenAI Research · Control Room: A central system to track and stop model workloads across our research infrastructure</p>
+<h4 style="margin:16px 0 6px;font-size:16px;line-height:1.5">4. <a href="https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence/" style="color:#111827;text-decoration:none">Gemini Robotics 2.5 加速现实世界的通用灵活性</a></h4>
+<p style="margin:0 0 8px"><img src="https://lh3.googleusercontent.com/F1CrVEYRb8lJOyyxGgcyow-Td1de-nkp7K8MZrhjrKPANJUc0EYB754Ninn-Yrppjdb54nolOWo6Rk8iDaRNuixWwLaEKc0K9ImGooxen9fj9IOh=w528-h297-n-nu-rw-lo" alt="" style="max-width:100%;border-radius:6px"/></p>
+<p style="line-height:1.75;margin:0 0 6px">我们最强大的视觉-语言-动作模型增强了机器人的灵活性、可靠性和安全性</p>
+<p style="color:#9ca3af;font-size:12px;margin:0 0 4px">来源：Google DeepMind · Gemini Robotics 2.5 accelerates real-world general dexterity</p>
+<h4 style="margin:16px 0 6px;font-size:16px;line-height:1.5">5. <a href="https://openai.com/index/managing-frontier-ai-risk" style="color:#111827;text-decoration:none">管理前沿人工智能风险：从培训到部署</a></h4>
+<p style="line-height:1.75;margin:0 0 6px">OpenAI 解释了它如何通过模型对齐、沙盒、阻止防护措施和监控来管理从培训到部署的前沿人工智能风险。</p>
+<p style="color:#9ca3af;font-size:12px;margin:0 0 4px">来源：OpenAI Research · Managing frontier AI risk: From training to deployment</p>]]></description>
+<pubDate>Sat, 28 Nov 2026 04:55:02 GMT</pubDate>
+<dc:source>BBC News / VOA / NBC</dc:source>
+<category>每日新闻</category>
+<media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fdee/live/21e805d0-ea60-11f1-99b6-a35a62fa4264.jpg" medium="image"/>
+<media:thumbnail url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fdee/live/21e805d0-ea60-11f1-99b6-a35a62fa4264.jpg"/>
+</item>
 <item>
 <title>每日新闻 · 2026-11-27｜13 条要闻</title>
 <link>https://github.com/EOVANS/INTENT-Daily-CN/blob/main/docs/daily/2026-11-27.md</link>
@@ -354,67 +413,6 @@
 <category>每日新闻</category>
 <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/abb2/live/99a82d30-e4e7-11f1-99a1-253766e7ad8b.jpg" medium="image"/>
 <media:thumbnail url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/abb2/live/99a82d30-e4e7-11f1-99a1-253766e7ad8b.jpg"/>
-</item>
-<item>
-<title>每日新闻 · 2026-11-21｜13 条要闻</title>
-<link>https://github.com/EOVANS/INTENT-Daily-CN/blob/main/docs/daily/2026-11-21.md</link>
-<guid isPermaLink="false">https://raw.githubusercontent.com/EOVANS/INTENT-Daily-CN/main/docs/feed.xml#2026-11-21</guid>
-<description><![CDATA[<h3 style="margin:22px 0 6px;font-size:15px;color:#1d4ed8">一、国际要闻（BBC / VOA / NBC）</h3>
-<p style="color:#6b7280;font-size:12px;margin:0 0 10px">过去 24 小时全球 Breaking News，按重要性降序。</p>
-<h4 style="margin:16px 0 6px;font-size:16px;line-height:1.5">1. <a href="https://www.nbcnews.com/world/ukraine/russia-strikes-kyiv-bridges-ukraine-crimea-putin-zelenskyy-apec-trump-rcna610372" style="color:#111827;text-decoration:none">普京誓言对克里米亚袭击进行报复后，俄罗斯对基辅三座桥梁进行致命袭击</a></h4>
-<p style="margin:0 0 8px"><img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-11/261120-ukraine-mb-0959-5b970a.jpg" alt="" style="max-width:100%;border-radius:6px"/></p>
-<p style="line-height:1.75;margin:0 0 6px">乌克兰首都基辅的三座桥梁在俄罗斯弹道导弹袭击中被击中，总统弗拉基米尔·普京发誓要进行报复。</p>
-<p style="color:#9ca3af;font-size:12px;margin:0 0 4px">来源：NBC · Deadly Russian strikes hit 3 Kyiv bridges after Putin vows revenge for Crimea attacks</p>
-<h4 style="margin:16px 0 6px;font-size:16px;line-height:1.5">2. <a href="https://www.bbc.co.uk/news/videos/c65y19wy3xl8o?at_medium=RSS&amp;at_campaign=rss" style="color:#111827;text-decoration:none">我们对俄罗斯最近对乌克兰的导弹袭击了解多少</a></h4>
-<p style="margin:0 0 8px"><img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a2f6/live/3145d4a0-e4f0-11f1-99b6-a35a62fa4264.jpg" alt="" style="max-width:100%;border-radius:6px"/></p>
-<p style="line-height:1.75;margin:0 0 6px">俄罗斯在一次重大袭击中袭击了首都基辅的桥梁和火车站。</p>
-<p style="color:#9ca3af;font-size:12px;margin:0 0 4px">来源：BBC News · What we know about the latest Russian missile strikes on Ukraine</p>
-<h4 style="margin:16px 0 6px;font-size:16px;line-height:1.5">3. <a href="https://www.bbc.co.uk/news/articles/cqx2x9dklxnro?at_medium=RSS&amp;at_campaign=rss" style="color:#111827;text-decoration:none">图斯克表示，乌克兰盟友举行军事演习时，俄罗斯导弹袭击了波兰</a></h4>
-<p style="margin:0 0 8px"><img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cbb7/live/b5de9720-e4ea-11f1-99b6-a35a62fa4264.jpg" alt="" style="max-width:100%;border-radius:6px"/></p>
-<p style="line-height:1.75;margin:0 0 6px">没有人受伤，也没有损失报告，但华沙称这一事件是来自莫斯科的“挑衅”。</p>
-<p style="color:#9ca3af;font-size:12px;margin:0 0 4px">来源：BBC News · Russian missile hits Poland as Ukraine&#x27;s allies hold military exercise, says Tusk</p>
-<h4 style="margin:16px 0 6px;font-size:16px;line-height:1.5">4. <a href="https://www.bbc.co.uk/news/articles/cmgj35zvjyp9o?at_medium=RSS&amp;at_campaign=rss" style="color:#111827;text-decoration:none">凯瑟琳·泽塔-琼斯的女儿说父母警告她有关“nepobaby”的标签</a></h4>
-<p style="margin:0 0 8px"><img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/179e/live/c4afc3a0-e4db-11f1-9cc5-e9713e77fd78.jpg" alt="" style="max-width:100%;border-radius:6px"/></p>
-<p style="line-height:1.75;margin:0 0 6px">23 岁的卡丽丝·道格拉斯 (Carys Douglas) 今年在美国首次登上舞台，出演安东·契诃夫 (Anton Chekhov) 的戏剧《海鸥》(The Seagull)。</p>
-<p style="color:#9ca3af;font-size:12px;margin:0 0 4px">来源：BBC News · Catherine Zeta-Jones&#x27; daughter says parents warned her about &#x27;nepo baby&#x27; label</p>
-<h4 style="margin:16px 0 6px;font-size:16px;line-height:1.5">5. <a href="https://www.bbc.co.uk/news/articles/cqpv94d10rwpo?at_medium=RSS&amp;at_campaign=rss" style="color:#111827;text-decoration:none">选举受挫后，非国大努力保持对南非主要城市的控制</a></h4>
-<p style="margin:0 0 8px"><img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aad1/live/7d1c0de0-e4ff-11f1-a8e4-b1e12a49db15.jpg" alt="" style="max-width:100%;border-radius:6px"/></p>
-<p style="line-height:1.75;margin:0 0 6px">非国大似乎不愿意在地方层面复制其与亲商DA的国家权力共享协议。</p>
-<p style="color:#9ca3af;font-size:12px;margin:0 0 4px">来源：BBC News · ANC fights to keep control of South Africa&#x27;s key cities after election setback</p>
-<h4 style="margin:16px 0 6px;font-size:16px;line-height:1.5">6. <a href="https://www.nbcnews.com/nightly-news/video/trump-touts-historic-summit-with-xi-putin-273933381719" style="color:#111827;text-decoration:none">特朗普吹捧与习近平、普京的历史性峰会</a></h4>
-<p style="margin:0 0 8px"><img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_11/1795218333477_nn_mal_trump_touts_historic_summit_with_xi_putin_261120_S3_1920x1080-m618xk.jpg" alt="" style="max-width:100%;border-radius:6px"/></p>
-<p style="line-height:1.75;margin:0 0 6px">特朗普总统在一场马拉松式的新闻发布会上宣传了他与中国国家主席习近平和俄罗斯总统普京举行的史无前例的三边峰会。 NBC 新闻频道的莫妮卡·阿尔芭报道。</p>
-<p style="color:#9ca3af;font-size:12px;margin:0 0 4px">来源：NBC · Trump touts historic summit with Xi, Putin</p>
-<h4 style="margin:16px 0 6px;font-size:16px;line-height:1.5">7. <a href="https://www.nbcnews.com/now/video/trump-says-he-has-fantastic-relationship-with-putin-following-apec-summit-273908805604" style="color:#111827;text-decoration:none">特朗普称亚太经合组织峰会后他与普京关系“非常好”</a></h4>
-<p style="margin:0 0 8px"><img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_11/1795199668336_now_brk_trump_putin_relationship_261120_S3_1920x1080-zrnkss.jpg" alt="" style="max-width:100%;border-radius:6px"/></p>
-<p style="line-height:1.75;margin:0 0 6px">特朗普总统在中国深圳举行峰会并会见了中国国家主席习近平和俄罗斯领导人后表示，他与俄罗斯总统普京有着“极好的关系”。</p>
-<p style="color:#9ca3af;font-size:12px;margin:0 0 4px">来源：NBC · Trump says he has &#x27;fantastic relationship&#x27; with Putin following APEC summit</p>
-<h4 style="margin:16px 0 6px;font-size:16px;line-height:1.5">8. <a href="https://www.nbcnews.com/world/europe/trump-friend-greeting-putin-causes-alarm-europe-ukraine-rcna610373" style="color:#111827;text-decoration:none">特朗普在亚太经合组织峰会上称普京为“我的朋友”引发强烈反对</a></h4>
-<p style="margin:0 0 8px"><img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-11/261120-trump-putin-mb-0944-42ee95.jpg" alt="" style="max-width:100%;border-radius:6px"/></p>
-<p style="line-height:1.75;margin:0 0 6px">当唐纳德·特朗普总统本周称弗拉基米尔·普京为他的“朋友”时，欧洲领导人和外交政策专家感到沮丧和震惊。</p>
-<p style="color:#9ca3af;font-size:12px;margin:0 0 4px">来源：NBC · Trump calling Putin ‘my friend’ at APEC summit sparks backlash</p>
-<h3 style="margin:22px 0 6px;font-size:15px;color:#1d4ed8">二、AI 研究动态（OpenAI Research 等）</h3>
-<p style="color:#6b7280;font-size:12px;margin:0 0 10px">OpenAI Research、Google DeepMind、Anthropic、arXiv cs.AI 的最新研究与发布。</p>
-<h4 style="margin:16px 0 6px;font-size:16px;line-height:1.5">1. <a href="https://arxiv.org/abs/2506.22992" style="color:#111827;text-decoration:none">MARBLE：空间推理和视觉抽象的代理基准</a></h4>
-<p style="line-height:1.75;margin:0 0 6px">arXiv:2506.22992v2 公告类型：替换 摘要：现实世界任务中多模态语言模型 (MLLM) 的一个核心挑战是将视觉观察抽象为结构化空间状态，并推理如何</p>
-<p style="color:#9ca3af;font-size:12px;margin:0 0 4px">来源：arXiv cs.AI · MARBLE: An Agentic Benchmark for Spatial Reasoning and Visual Abstraction</p>
-<h4 style="margin:16px 0 6px;font-size:16px;line-height:1.5">2. <a href="https://arxiv.org/abs/2504.09895" style="color:#111827;text-decoration:none">使用基于参考的奖励进行语言模型推理和对齐的强化学习</a></h4>
-<p style="line-height:1.75;margin:0 0 6px">arXiv:2504.09895v4 公告类型：replace-cross 摘要：强化学习 (RL) 为大型语言模型 (LLM) 后训练的两条主要路线提供支持：推理，引发深思熟虑的、可验证的问题解决，</p>
-<p style="color:#9ca3af;font-size:12px;margin:0 0 4px">来源：arXiv cs.AI · Reinforcement Learning with Reference-Based Rewards for Language Model Reasoning and Alignment</p>
-<h4 style="margin:16px 0 6px;font-size:16px;line-height:1.5">3. <a href="https://openai.com/index/control-room" style="color:#111827;text-decoration:none">控制室：一个中央系统，用于跟踪和停止我们研究基础设施中的模型工作负载</a></h4>
-<p style="line-height:1.75;margin:0 0 6px">了解 OpenAI 的控制室如何跟踪我们研究基础设施中的模型工作负载，并在出现安全问题时快速阻止它们。</p>
-<p style="color:#9ca3af;font-size:12px;margin:0 0 4px">来源：OpenAI Research · Control Room: A central system to track and stop model workloads across our research infrastructure</p>
-<h4 style="margin:16px 0 6px;font-size:16px;line-height:1.5">4. <a href="https://openai.com/business/customer-stories/hebbia" style="color:#111827;text-decoration:none">Hebbia 通过 GPT-6 Astra 看到了金融研究的进步</a></h4>
-<p style="line-height:1.75;margin:0 0 6px">Hebbia 对 GPT-6 Astra 进行了金融研究测试。其预发布评估发现来源覆盖率、引用相关性和演示质量都有所提高。</p>
-<p style="color:#9ca3af;font-size:12px;margin:0 0 4px">来源：OpenAI Research · Hebbia sees improvements in financial research with GPT-6 Astra</p>
-<h4 style="margin:16px 0 6px;font-size:16px;line-height:1.5">5. <a href="https://news.google.com/rss/articles/CBMiaEFVX3lxTE9uMDBhNnFaYU9QNDBlamg0MFItWXUtMDUtQkpGTWtnZTdpcW9UeUNqQ2J1dWZhWUNYNjlhbHZQRVFuaDRlLUozeWEyeUNJbDhHRFhWbTdHREV5YXNfaFNRMmFKdmlIaDl6?oc=5" style="color:#111827;text-decoration:none">{型号名称 + 版本} - 型号卡 - Google DeepMind</a></h4>
-<p style="line-height:1.75;margin:0 0 6px">{型号名称 + 版本} - 型号卡 Google DeepMind</p>
-<p style="color:#9ca3af;font-size:12px;margin:0 0 4px">来源：Google DeepMind · {Model name + Version} - Model Card - Google DeepMind</p>]]></description>
-<pubDate>Sat, 21 Nov 2026 04:14:07 GMT</pubDate>
-<dc:source>BBC News / VOA / NBC</dc:source>
-<category>每日新闻</category>
-<media:content url="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-11/261120-ukraine-mb-0959-5b970a.jpg" medium="image"/>
-<media:thumbnail url="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-11/261120-ukraine-mb-0959-5b970a.jpg"/>
 </item>
 </channel>
 </rss>

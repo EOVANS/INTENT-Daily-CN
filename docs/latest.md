@@ -1,91 +1,93 @@
 # INTENT Daily CN · 每日新闻
 
-> **日期**：2026-11-27（北京时间）｜**生成**：13:17｜每日 07:35 自动更新
+> **日期**：2026-11-28（北京时间）｜**生成**：12:55｜每日 07:35 自动更新
 > **RSS 订阅**：<https://raw.githubusercontent.com/EOVANS/INTENT-Daily-CN/main/docs/feed.xml>
 
 ## 一、国际要闻（BBC / VOA / NBC）
 
 *过去 24 小时全球 Breaking News，按重要性降序。*
 
-### 1. 两名意大利人在科威特袭击中丧生，伊朗否认对此负责
+### 1. 泽伦斯基在 BBC 采访中批评特朗普与普京的友谊“奇怪”
 
-据意大利外交部称，这两人是德国莱茵金属公司的技术人员。
+乌克兰总统表达了对美国的失望，并表示美国没有在和平谈判中向俄罗斯施加足够的压力来结束战争。
 
-![BBC News](https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1ece/live/c83dee70-e9f4-11f1-9c56-b1b6306ef9e3.png)
-
-- **来源**：BBC News
-- **原文标题**：Two Italians killed in strike in Kuwait, as Iran denies responsibility
-- **发布时间**：2026-11-27 05:17
-- **原文链接**：<https://www.bbc.co.uk/news/articles/c39w9y5dx4k5o?at_medium=RSS&at_campaign=rss>
-
-### 2. 哈马斯政治官员和妻子在以色列袭击加沙的八名巴勒斯坦人中丧生
-
-此次杀戮是以色列几乎每天针对其所谓的哈马斯目标发动的一系列袭击中的最新一起。
-
-![BBC News](https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b703/live/54fa7870-e981-11f1-99a1-253766e7ad8b.jpg)
+![BBC News](https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fdee/live/21e805d0-ea60-11f1-99b6-a35a62fa4264.jpg)
 
 - **来源**：BBC News
-- **原文标题**：Hamas political official and wife among eight Palestinians killed in Israeli strikes on Gaza
-- **发布时间**：2026-11-26 18:14
-- **原文链接**：<https://www.bbc.co.uk/news/articles/cqvg2n4mzl1jo?at_medium=RSS&at_campaign=rss>
+- **原文标题**：Zelensky criticises 'strange' Trump-Putin friendship in BBC interview
+- **发布时间**：2026-11-28 02:00
+- **原文链接**：<https://www.bbc.co.uk/news/articles/c820q9wgrpyyo?at_medium=RSS&at_campaign=rss>
 
-### 3. 埃及当局因油罐车事故逮捕司机，造成31人死亡
+### 2. 秘鲁军用直升机坠毁 八人丧生
 
-官员称，该男子承认自己超速行驶并在超车时撞到了加油车。
+飞行员是在以贩毒闻名的偏远地区执行救援任务时坠机的唯一幸存者。
 
-![BBC News](https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e387/live/8aafd3d0-e98f-11f1-9d1c-4dcc8fcde666.jpg)
-
-- **来源**：BBC News
-- **原文标题**：Egyptian authorities arrest motorist over tanker crash that killed 31
-- **发布时间**：2026-11-26 20:16
-- **原文链接**：<https://www.bbc.co.uk/news/articles/c3gre90l0g45o?at_medium=RSS&at_campaign=rss>
-
-### 4. 致命垃圾场倒塌数月后，几内亚命令居民清理首都
-
-自灾难发生以来，首都的主要垃圾场已关闭，导致垃圾堆积在街道上。
-
-![BBC News](https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/27e3/live/62b728b0-e967-11f1-9656-317cf5039a62.jpg)
+![BBC News](https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/faea/live/b54be270-eadc-11f1-81da-2ff518b71d00.jpg)
 
 - **来源**：BBC News
-- **原文标题**：Guinea orders residents to clean up the capital months after deadly rubbish dump collapse
-- **发布时间**：2026-11-26 15:43
-- **原文链接**：<https://www.bbc.co.uk/news/articles/cqwy4377yxnlo?at_medium=RSS&at_campaign=rss>
+- **原文标题**：Eight killed in Peruvian military helicopter crash
+- **发布时间**：2026-11-28 12:19
+- **原文链接**：<https://www.bbc.co.uk/news/articles/cwp9d85mlp88o?at_medium=RSS&at_campaign=rss>
 
-### 5. - ËdāỌ âm Ōᩩā
+### 3. “这是不可能的”：西班牙年轻人在周日大选前讨论住房问题
+
+欧洲记者尼克·比克采访了瓦伦西亚一对因高房租而分居的夫妇。
+
+![BBC News](https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4834/live/cb627900-ea8e-11f1-99b6-a35a62fa4264.png)
+
+- **来源**：BBC News
+- **原文标题**：'It's impossible': Spain's young people on housing ahead of Sunday's election
+- **发布时间**：2026-11-27 14:09
+- **原文链接**：<https://www.bbc.co.uk/news/videos/cm9w9y8947xqo?at_medium=RSS&at_campaign=rss>
+
+### 4. 基辅厌倦了战争，但没有退缩的迹象，面临着另一个严酷的冬天
+
+乌克兰即将迎来另一个毁灭性的冬天，但问题依然存在：这一切将如何结束？
+
+![BBC News](https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9fca/live/2dd32240-e9b5-11f1-99b6-a35a62fa4264.jpg)
+
+- **来源**：BBC News
+- **原文标题**：Weary of war but with no sign of backing down, Kyiv faces another punishing winter
+- **发布时间**：2026-11-28 02:42
+- **原文链接**：<https://www.bbc.co.uk/news/articles/c3pw4yrr8kz9o?at_medium=RSS&at_campaign=rss>
+
+### 5. 解释者：北京为何关注台湾地方选举，以及它们对 2028 年意味着什么 - 美国之音
+
+解释者：北京为何关注台湾地方选举，以及它们对 2028 年可能意味着什么 美国之音 - 美国之音
+
+- **来源**：VOA
+- **原文标题**：Explainer: Why Beijing is watching Taiwan’s local elections, and what they could mean for 2028 - VOA
+- **发布时间**：2026-11-28 04:06
+- **原文链接**：<https://news.google.com/rss/articles/CBMi2gFBVV95cUxNbnJGYVdkZ1daWWFSTlF0UVE4TXJ6NmpncE5FN1A2VU53Y1g5c2w0R3V6RTc3VmNrSDk3b3NHbjZUdnBBZFJPbnBZZG1pMVRZZG84dEdwSmlNNUhyZVZUbFNwU2NVaEx5ckhPY2J6WkVsVlR6X2U0WUxoNGo5WUNPT0tZdW8yMEdQRkcwQlgzRTZNQ1NNT1JFNTBhaW0wbzNVVkdtWERNM1h4M2NoS1FZNVYxQ3cxYnBmSmRFSUJUMTNtNEZCTnVfbW1QQVFBZHlQdGxWOVF2UTAwZ9IB2gFBVV95cUxNbnJGYVdkZ1daWWFSTlF0UVE4TXJ6NmpncE5FN1A2VU53Y1g5c2w0R3V6RTc3VmNrSDk3b3NHbjZUdnBBZFJPbnBZZG1pMVRZZG84dEdwSmlNNUhyZVZUbFNwU2NVaEx5ckhPY2J6WkVsVlR6X2U0WUxoNGo5WUNPT0tZdW8yMEdQRkcwQlgzRTZNQ1NNT1JFNTBhaW0wbzNVVkdtWERNM1h4M2NoS1FZNVYxQ3cxYnBmSmRFSUJUMTNtNEZCTnVfbW1QQVFBZHlQdGxWOVF2UTAwZw?oc=5>
+
+### 6. 凯特王妃希望人们在脆弱的新纪录片中从她的癌症之旅中学习
+
+伦敦——威尔士王妃凯瑟琳在一部非常私人的纪录片中讲述了癌症治疗如何让她感到恐惧和改变，她说她希望这能帮助其他人正视这种疾病。
+
+![NBC](https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-11/261125-princess-kate-rs-fd8a5d.jpg)
+
+- **来源**：NBC
+- **原文标题**：Princess Kate wants people to learn from her cancer journey in vulnerable new documentary
+- **发布时间**：2026-11-28 06:01
+- **原文链接**：<https://www.nbcnews.com/world/united-kingdom/princess-kate-wants-people-learn-cancer-journey-vulnerable-new-documen-rcna611259>
+
+### 7. - ËdāỌ âm Ōᩩā
 
 ËdāỌ âm Ōᩩā
 
 - **来源**：VOA
 - **原文标题**：- صدای آمریکا
-- **发布时间**：2026-11-27 05:37
-- **原文链接**：<https://news.google.com/rss/articles/CBMiUkFVX3lxTE1SeWVMVTJzQTZTWHRHV1BVRVpSWUl1OE9kM3dNUERnWjNWMGthcXY5SjY1QWhORl9sLVItS3FTeXRSbnVKYTBUbk5ZOWFaM3RaTHc?oc=5>
+- **发布时间**：2026-11-28 06:34
+- **原文链接**：<https://news.google.com/rss/articles/CBMiUkFVX3lxTFA3d01BdXA3bEJCRlk5QXFQRkwxSEh0TXZIdFJFWDd2LXpHbld1Q29ZOUR3NXF4ZUNLaWZ5WnNfQjRUTXJhcHB2ckVTZG5KbEE3Tmc?oc=5>
 
-### 6. 中国延长对美关键矿产出口禁令的暂停期 - 美国之音
+### 8. 美国支持国际原子能机构在中国反对后就韩国潜艇保障进行谈判 - 美国之音
 
-中国延长对美国关键矿产出口禁令的暂停期 - 美国之音
-
-- **来源**：VOA
-- **原文标题**：China extends suspension period for its ban on export of critical minerals to US - VOA
-- **发布时间**：2026-11-27 03:54
-- **原文链接**：<https://news.google.com/rss/articles/CBMixwFBVV95cUxOcHdQcW5kWW5acVB5V3dlOWZHTXZ3d19kb3Zjd0VnRGJZemVPZFJsUWs3TXBFV3VUZzZSVlR3Y1R2TXBvMmVhSm9NdGpIS0Z2RUxmVV9pUFJTOUlrbGttSzJpOUs1LUZ2RHFaNWhTdWZBSkNiY3YtUFIzLXNudjBnYTc4YW5vQVN6MHp6QXVMSUtwUDhWQXd2Vk4weUtjWnpfSXpJMEJaXzNuVEJKVlZFdTM3ajBudzNXRFNzejdXdWczODAwMTZN0gHKAUFVX3lxTFBlRUFKQi1ldTZNSGZRMkpadnkyUGpYSVo5X05wSVd3NWRVMjJZSE1pWHV2YzJWYjBSakZQcy1GVWszN2dzMHh0ZGF2UEVlV3VNdm9yWTd0UlVic0RSeEg2SU9XdUYtMV9PV1VmekYxalFzallhLU91M09HTmZVWm1jOVRPRHl2U1dWSVFoSzcxd0lkNmM3NTlQOElTZlhQR3JzdWc2VHFpMnkyRWE2QUVsR045QjBmb1lKOGN1OFI3MmpxNVA0c0pxQUE?oc=5>
-
-### 7. 26 - 美国之音
-
-26 VOA - 美国之音英语新闻
+在中国反对美国之音后，美国支持国际原子能机构就韩国潜艇保障措施进行谈判的权力 - 美国之音
 
 - **来源**：VOA
-- **原文标题**：26 - VOA
-- **发布时间**：2026-11-26 20:01
-- **原文链接**：<https://news.google.com/rss/articles/CBMiYkFVX3lxTE5tdUswU281TnNPYjVPazl0X3NFUktpQUhUYmlEVUR0Sk5aNVlabGRuZ3NSdVIwNzdnMVZtX09kZzI4UkZ6WkFYY1J1cmtZR3dYZHYzS21XdVJqS0hkZi1jZTlB?oc=5>
-
-### 8. - 美国之音
-
-VOA - 美国之音英语新闻
-
-- **来源**：VOA
-- **原文标题**：- VOA
-- **发布时间**：2026-11-26 13:11
-- **原文链接**：<https://news.google.com/rss/articles/CBMiU0FVX3lxTE1vUDk4ZkVDaXZxdXJ5bTUxbVZKczZaRENwSkk1R3JwZ2ZHZjNPSXVHQTNSQWNDc1FDcDlSR05YOU5BWDFSc3dHUjV3bHg5MllwbGcw?oc=5>
+- **原文标题**：US backs IAEA authority to negotiate South Korean submarine safeguards after China objects - VOA
+- **发布时间**：2026-11-28 05:34
+- **原文链接**：<https://news.google.com/rss/articles/CBMiT0FVX3lxTFBoMnlZMUpMbEItX0JuRmdhOUVadGp5aEdFczhvVERsNUtaSmpLb0xLbmU1VENINTdGSVhSV3VCUlFWZ2hVOHdLZTJvb05zTjTSAVJBVV95cUxPV2drWjlaa0FWT2Zjb0tKVTVKUDFrcUZFbFpfWGxzVndpTDVnSnVJLWh6R0t2Z3RwY1IwWE92TnE4MUNKMFNPQUE3Wl96UkN0RGVn?oc=5>
 
 ## 二、AI 研究动态（OpenAI Research 等）
 
@@ -118,7 +120,18 @@ arXiv:2611.33706v1 公告类型：新 摘要：多模态大语言模型 (MLLM) �
 - **发布时间**：2026-11-09 21:00
 - **原文链接**：<https://openai.com/index/control-room>
 
-### 4. 管理前沿人工智能风险：从培训到部署
+### 4. Gemini Robotics 2.5 加速现实世界的通用灵活性
+
+我们最强大的视觉-语言-动作模型增强了机器人的灵活性、可靠性和安全性
+
+![Google DeepMind](https://lh3.googleusercontent.com/F1CrVEYRb8lJOyyxGgcyow-Td1de-nkp7K8MZrhjrKPANJUc0EYB754Ninn-Yrppjdb54nolOWo6Rk8iDaRNuixWwLaEKc0K9ImGooxen9fj9IOh=w528-h297-n-nu-rw-lo)
+
+- **来源**：Google DeepMind
+- **原文标题**：Gemini Robotics 2.5 accelerates real-world general dexterity
+- **发布时间**：2026-11-10 03:51
+- **原文链接**：<https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence/>
+
+### 5. 管理前沿人工智能风险：从培训到部署
 
 OpenAI 解释了它如何通过模型对齐、沙盒、阻止防护措施和监控来管理从培训到部署的前沿人工智能风险。
 
@@ -127,27 +140,18 @@ OpenAI 解释了它如何通过模型对齐、沙盒、阻止防护措施和监�
 - **发布时间**：2026-11-18 14:00
 - **原文链接**：<https://openai.com/index/managing-frontier-ai-risk>
 
-### 5. 回到可解释性的神经元基础，第 2 部分：将神经元用于安全应用
-
-回到可解释性的神经元基础，第 2 部分：使用神经元进行安全应用 人类对齐科学博客
-
-- **来源**：Anthropic
-- **原文标题**：Returning to the Neuron Basis for Interpretability, Part 2: Using Neurons For Safety Applications
-- **发布时间**：2026-11-24 02:14
-- **原文链接**：<https://news.google.com/rss/articles/CBMicEFVX3lxTE80SEl5Nm1XTnFSUk1iaEtQYkNkT3F5Ump1TkR1Y1lRQ1c5TllybllYUVhzQ2hOR3cxbzBSWUgwbC1BOFE1VjZiaDc0Rjd0S21NWFR0R3Y4MGg3UW14YzhHc1JrYUhRdm9kOUhnQVNnWDE?oc=5>
-
 ---
 
 ### 抓取概况
 
 | 来源 | 窗口内条数 |
 | --- | --- |
-| BBC News | 25 |
-| VOA | 17 |
-| NBC | 0 |
-| OpenAI Research | 63 |
-| Google DeepMind | 2 |
-| Anthropic | 14 |
+| BBC News | 18 |
+| VOA | 16 |
+| NBC | 1 |
+| OpenAI Research | 62 |
+| Google DeepMind | 10 |
+| Anthropic | 10 |
 | arXiv cs.AI | 397 |
 
 > 由 GitHub Actions 自动生成，请勿手工编辑。
